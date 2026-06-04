@@ -4,6 +4,7 @@ window.N1_QUESTIONS = [
     "id": "g-001",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "証言が一致している以上、彼が現場にいた＿＿＿。",
     "choices": [
@@ -19,6 +20,7 @@ window.N1_QUESTIONS = [
     "id": "g-002",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "この混乱は、情報共有を怠った結果＿＿＿。",
     "choices": [
@@ -34,6 +36,7 @@ window.N1_QUESTIONS = [
     "id": "g-003",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "長年の研究が評価された彼の喜びは想像＿＿＿。",
     "choices": [
@@ -49,6 +52,7 @@ window.N1_QUESTIONS = [
     "id": "g-004",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "担当者がすぐ戻りますので、ここでお待ち＿＿＿。",
     "choices": [
@@ -64,6 +68,7 @@ window.N1_QUESTIONS = [
     "id": "g-005",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "一度失敗したからといって、彼の能力を疑う＿＿＿。",
     "choices": [
@@ -79,6 +84,7 @@ window.N1_QUESTIONS = [
     "id": "g-006",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "この問題の重要性は、今さら説明する＿＿＿。",
     "choices": [
@@ -94,6 +100,7 @@ window.N1_QUESTIONS = [
     "id": "g-007",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "準備を怠ったままでは、合格は望む＿＿＿。",
     "choices": [
@@ -109,6 +116,7 @@ window.N1_QUESTIONS = [
     "id": "g-008",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "責任者として、問題を知りながら黙っている＿＿＿。",
     "choices": [
@@ -124,6 +132,7 @@ window.N1_QUESTIONS = [
     "id": "g-009",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "公式資料に誤りがあった以上、謝罪し＿＿＿。",
     "choices": [
@@ -139,6 +148,7 @@ window.N1_QUESTIONS = [
     "id": "g-010",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "この映画は、見る者の心を揺さぶら＿＿＿。",
     "choices": [
@@ -154,6 +164,7 @@ window.N1_QUESTIONS = [
     "id": "g-011",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "このまま対策を遅らせれば、被害が拡大し＿＿＿。",
     "choices": [
@@ -169,6 +180,7 @@ window.N1_QUESTIONS = [
     "id": "g-012",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "個人情報に関わるため、その質問にはお答え＿＿＿。",
     "choices": [
@@ -184,6 +196,7 @@ window.N1_QUESTIONS = [
     "id": "g-013",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "証拠がそろっている以上、彼の責任を認め＿＿＿。",
     "choices": [
@@ -199,6 +212,7 @@ window.N1_QUESTIONS = [
     "id": "g-014",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "被災地の状況は見る＿＿＿ほど痛ましい。",
     "choices": [
@@ -214,6 +228,7 @@ window.N1_QUESTIONS = [
     "id": "g-015",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "彼の証言は十分に信頼＿＿＿ものだ。",
     "choices": [
@@ -229,6 +244,7 @@ window.N1_QUESTIONS = [
     "id": "g-016",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "正確なデータは、政策を評価するうえで＿＿＿。",
     "choices": [
@@ -244,6 +260,7 @@ window.N1_QUESTIONS = [
     "id": "g-017",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "これは全体の一例＿＿＿、結論を急ぐべきではない。",
     "choices": [
@@ -259,6 +276,7 @@ window.N1_QUESTIONS = [
     "id": "g-018",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "環境問題は一国だけの問題＿＿＿。",
     "choices": [
@@ -274,6 +292,7 @@ window.N1_QUESTIONS = [
     "id": "g-019",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "本日に＿＿＿、入場料が無料になります。",
     "choices": [
@@ -289,6 +308,7 @@ window.N1_QUESTIONS = [
     "id": "g-020",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "急いでいる時＿＿＿、電車が遅れる。",
     "choices": [
@@ -304,6 +324,7 @@ window.N1_QUESTIONS = [
     "id": "g-021",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "有名な方法だからといって、誰にでも効果がある＿＿＿。",
     "choices": [
@@ -319,6 +340,7 @@ window.N1_QUESTIONS = [
     "id": "g-022",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "周囲の心配＿＿＿、彼は一人で計画を進めた。",
     "choices": [
@@ -334,6 +356,7 @@ window.N1_QUESTIONS = [
     "id": "g-023",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "彼女は激しい批判＿＿＿、改革を続けた。",
     "choices": [
@@ -349,6 +372,7 @@ window.N1_QUESTIONS = [
     "id": "g-024",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "東京公演＿＿＿、全国ツアーが始まった。",
     "choices": [
@@ -364,6 +388,7 @@ window.N1_QUESTIONS = [
     "id": "g-025",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "京都＿＿＿、各地で伝統行事が行われる。",
     "choices": [
@@ -379,6 +404,7 @@ window.N1_QUESTIONS = [
     "id": "g-026",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "年齢や職業＿＿＿、誰でも応募できます。",
     "choices": [
@@ -394,6 +420,7 @@ window.N1_QUESTIONS = [
     "id": "g-027",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "予算の配分＿＿＿、激しい議論が続いている。",
     "choices": [
@@ -409,6 +436,7 @@ window.N1_QUESTIONS = [
     "id": "g-028",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "留学＿＿＿、彼は研究者を志すようになった。",
     "choices": [
@@ -424,6 +452,7 @@ window.N1_QUESTIONS = [
     "id": "g-029",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "視察＿＿＿、現地の担当者と意見交換をした。",
     "choices": [
@@ -439,6 +468,7 @@ window.N1_QUESTIONS = [
     "id": "g-030",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "本日の会議はこれ＿＿＿終了いたします。",
     "choices": [
@@ -454,6 +484,7 @@ window.N1_QUESTIONS = [
     "id": "g-031",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "式典の開始＿＿＿、安全確認が行われた。",
     "choices": [
@@ -469,6 +500,7 @@ window.N1_QUESTIONS = [
     "id": "g-032",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "新制度を導入する＿＿＿、住民の意見を聞いた。",
     "choices": [
@@ -484,6 +516,7 @@ window.N1_QUESTIONS = [
     "id": "g-033",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "契約を結ぶ＿＿＿、条件を十分確認してください。",
     "choices": [
@@ -499,6 +532,7 @@ window.N1_QUESTIONS = [
     "id": "g-034",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "現場の実情＿＿＿、柔軟に対応すべきだ。",
     "choices": [
@@ -514,6 +548,7 @@ window.N1_QUESTIONS = [
     "id": "g-035",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "計画＿＿＿、作業を進めてください。",
     "choices": [
@@ -529,6 +564,7 @@ window.N1_QUESTIONS = [
     "id": "g-036",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "専門家の予想＿＿＿、景気は回復し始めた。",
     "choices": [
@@ -544,6 +580,7 @@ window.N1_QUESTIONS = [
     "id": "g-037",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "経験年数＿＿＿、研修内容を変える。",
     "choices": [
@@ -559,6 +596,7 @@ window.N1_QUESTIONS = [
     "id": "g-038",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "人口の増加＿＿＿、住宅需要も高まった。",
     "choices": [
@@ -574,6 +612,7 @@ window.N1_QUESTIONS = [
     "id": "g-039",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "調査が進む＿＿＿、新たな事実が明らかになった。",
     "choices": [
@@ -589,6 +628,7 @@ window.N1_QUESTIONS = [
     "id": "g-040",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "日が暮れる＿＿＿、気温が急に下がった。",
     "choices": [
@@ -604,6 +644,7 @@ window.N1_QUESTIONS = [
     "id": "g-041",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "写真を見る＿＿＿、故郷のことを思い出す。",
     "choices": [
@@ -619,6 +660,7 @@ window.N1_QUESTIONS = [
     "id": "g-042",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "結果の厳しさ＿＿＿、準備不足を痛感する。",
     "choices": [
@@ -634,6 +676,7 @@ window.N1_QUESTIONS = [
     "id": "g-043",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "理由がある＿＿＿、約束を破るのは問題だ。",
     "choices": [
@@ -649,6 +692,7 @@ window.N1_QUESTIONS = [
     "id": "g-044",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "計画が遅れる＿＿＿、品質は落とせない。",
     "choices": [
@@ -664,6 +708,7 @@ window.N1_QUESTIONS = [
     "id": "g-045",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "連休初日＿＿＿、空港は朝から混雑していた。",
     "choices": [
@@ -679,6 +724,7 @@ window.N1_QUESTIONS = [
     "id": "g-046",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "市民の安全のため＿＿＿、多少の負担は避けられない。",
     "choices": [
@@ -694,6 +740,7 @@ window.N1_QUESTIONS = [
     "id": "g-047",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "専門家＿＿＿、すべてを予測できるわけではない。",
     "choices": [
@@ -709,6 +756,7 @@ window.N1_QUESTIONS = [
     "id": "g-048",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "制度は改善された＿＿＿、課題はまだ多い。",
     "choices": [
@@ -724,6 +772,7 @@ window.N1_QUESTIONS = [
     "id": "g-049",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "不安を抱え＿＿＿、彼は発表を最後までやり遂げた。",
     "choices": [
@@ -739,6 +788,7 @@ window.N1_QUESTIONS = [
     "id": "g-050",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문법 형식 선택",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "説明は受けた＿＿＿、完全には納得できなかった。",
     "choices": [
@@ -754,6 +804,7 @@ window.N1_QUESTIONS = [
     "id": "g-051",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "複数の記録が残っている以上、この判断は妥当だった＿＿＿。",
     "choices": [
@@ -769,6 +820,7 @@ window.N1_QUESTIONS = [
     "id": "g-052",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "彼の成功は、地道な努力の積み重ね＿＿＿。",
     "choices": [
@@ -784,6 +836,7 @@ window.N1_QUESTIONS = [
     "id": "g-053",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "突然の閉店を知らされた住民の戸惑いは察する＿＿＿。",
     "choices": [
@@ -799,6 +852,7 @@ window.N1_QUESTIONS = [
     "id": "g-054",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "軽い確認だけですから、部長に報告する＿＿＿。",
     "choices": [
@@ -814,6 +868,7 @@ window.N1_QUESTIONS = [
     "id": "g-055",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "数値が少し下がっただけで、計画全体を否定する＿＿＿。",
     "choices": [
@@ -829,6 +884,7 @@ window.N1_QUESTIONS = [
     "id": "g-056",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "彼が信頼できる人物であることは、改めて言う＿＿＿。",
     "choices": [
@@ -844,6 +900,7 @@ window.N1_QUESTIONS = [
     "id": "g-057",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "証拠がない以上、真相を断定す＿＿＿。",
     "choices": [
@@ -859,6 +916,7 @@ window.N1_QUESTIONS = [
     "id": "g-058",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "約束した以上、途中で投げ出す＿＿＿。",
     "choices": [
@@ -874,6 +932,7 @@ window.N1_QUESTIONS = [
     "id": "g-059",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "安全管理を怠った責任は問われ＿＿＿。",
     "choices": [
@@ -889,6 +948,7 @@ window.N1_QUESTIONS = [
     "id": "g-060",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "彼の発言は、議論を呼ば＿＿＿。",
     "choices": [
@@ -904,6 +964,7 @@ window.N1_QUESTIONS = [
     "id": "g-061",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "曖昧な説明では、誤解を招き＿＿＿。",
     "choices": [
@@ -919,6 +980,7 @@ window.N1_QUESTIONS = [
     "id": "g-062",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "社内規定により、資料の外部提供はいたし＿＿＿。",
     "choices": [
@@ -934,6 +996,7 @@ window.N1_QUESTIONS = [
     "id": "g-063",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "天候が悪化したため、試合は中止せ＿＿＿。",
     "choices": [
@@ -949,6 +1012,7 @@ window.N1_QUESTIONS = [
     "id": "g-064",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "根拠のない中傷は聞く＿＿＿。",
     "choices": [
@@ -964,6 +1028,7 @@ window.N1_QUESTIONS = [
     "id": "g-065",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "この調査は政策判断の根拠とする＿＿＿。",
     "choices": [
@@ -979,6 +1044,7 @@ window.N1_QUESTIONS = [
     "id": "g-066",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "語彙力は、長文を読むうえで＿＿＿。",
     "choices": [
@@ -994,6 +1060,7 @@ window.N1_QUESTIONS = [
     "id": "g-067",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "彼の発言は個人的な感想＿＿＿。",
     "choices": [
@@ -1009,6 +1076,7 @@ window.N1_QUESTIONS = [
     "id": "g-068",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "高度な読解力は専門家だけに必要なもの＿＿＿。",
     "choices": [
@@ -1024,6 +1092,7 @@ window.N1_QUESTIONS = [
     "id": "g-069",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "予約した方＿＿＿、資料を配布します。",
     "choices": [
@@ -1039,6 +1108,7 @@ window.N1_QUESTIONS = [
     "id": "g-070",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "大事な日に＿＿＿、予想外の問題が起きる。",
     "choices": [
@@ -1054,6 +1124,7 @@ window.N1_QUESTIONS = [
     "id": "g-071",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "高価な教材が必ずしも最良＿＿＿。",
     "choices": [
@@ -1069,6 +1140,7 @@ window.N1_QUESTIONS = [
     "id": "g-072",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "住民の反対＿＿＿、工事は予定通り始まった。",
     "choices": [
@@ -1084,6 +1156,7 @@ window.N1_QUESTIONS = [
     "id": "g-073",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "選手たちは悪天候＿＿＿、最後まで走り抜いた。",
     "choices": [
@@ -1099,6 +1172,7 @@ window.N1_QUESTIONS = [
     "id": "g-074",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "新制度の導入＿＿＿、各地で改革が進んだ。",
     "choices": [
@@ -1114,6 +1188,7 @@ window.N1_QUESTIONS = [
     "id": "g-075",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "部長＿＿＿、多くの社員が会議に参加した。",
     "choices": [
@@ -1129,6 +1204,7 @@ window.N1_QUESTIONS = [
     "id": "g-076",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "昼夜＿＿＿、相談を受け付けています。",
     "choices": [
@@ -1144,6 +1220,7 @@ window.N1_QUESTIONS = [
     "id": "g-077",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "新駅の建設＿＿＿、住民の意見が分かれている。",
     "choices": [
@@ -1159,6 +1236,7 @@ window.N1_QUESTIONS = [
     "id": "g-078",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "震災＿＿＿、防災意識が高まった。",
     "choices": [
@@ -1174,6 +1252,7 @@ window.N1_QUESTIONS = [
     "id": "g-079",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "散歩＿＿＿、近所の店を見て回った。",
     "choices": [
@@ -1189,6 +1268,7 @@ window.N1_QUESTIONS = [
     "id": "g-080",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "この書面＿＿＿正式な回答といたします。",
     "choices": [
@@ -1204,6 +1284,7 @@ window.N1_QUESTIONS = [
     "id": "g-081",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "調査の実施＿＿＿、説明会を開いた。",
     "choices": [
@@ -1219,6 +1300,7 @@ window.N1_QUESTIONS = [
     "id": "g-082",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "報告書をまとめる＿＿＿、最新資料を確認した。",
     "choices": [
@@ -1234,6 +1316,7 @@ window.N1_QUESTIONS = [
     "id": "g-083",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "海外へ渡航する＿＿＿、保険への加入を勧めます。",
     "choices": [
@@ -1249,6 +1332,7 @@ window.N1_QUESTIONS = [
     "id": "g-084",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "法律の趣旨＿＿＿、制度を運用する必要がある。",
     "choices": [
@@ -1264,6 +1348,7 @@ window.N1_QUESTIONS = [
     "id": "g-085",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "利用者の要望＿＿＿、機能を改善した。",
     "choices": [
@@ -1279,6 +1364,7 @@ window.N1_QUESTIONS = [
     "id": "g-086",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "周囲の期待＿＿＿、結果は厳しいものだった。",
     "choices": [
@@ -1294,6 +1380,7 @@ window.N1_QUESTIONS = [
     "id": "g-087",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "状況＿＿＿、対応方法を選ぶ必要がある。",
     "choices": [
@@ -1309,6 +1396,7 @@ window.N1_QUESTIONS = [
     "id": "g-088",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "技術の発展＿＿＿、働き方も変化した。",
     "choices": [
@@ -1324,6 +1412,7 @@ window.N1_QUESTIONS = [
     "id": "g-089",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "年齢を重ねる＿＿＿、価値観も少しずつ変わる。",
     "choices": [
@@ -1339,6 +1428,7 @@ window.N1_QUESTIONS = [
     "id": "g-090",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "練習を重ねる＿＿＿、表現が自然になった。",
     "choices": [
@@ -1354,6 +1444,7 @@ window.N1_QUESTIONS = [
     "id": "g-091",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "彼の努力を聞く＿＿＿、自分も頑張らねばと思う。",
     "choices": [
@@ -1369,6 +1460,7 @@ window.N1_QUESTIONS = [
     "id": "g-092",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "彼の冷静さ＿＿＿、経験の差を感じる。",
     "choices": [
@@ -1384,6 +1476,7 @@ window.N1_QUESTIONS = [
     "id": "g-093",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "忙しい＿＿＿、連絡くらいはできたはずだ。",
     "choices": [
@@ -1399,6 +1492,7 @@ window.N1_QUESTIONS = [
     "id": "g-094",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "反対意見が出る＿＿＿、説明を続ける必要がある。",
     "choices": [
@@ -1414,6 +1508,7 @@ window.N1_QUESTIONS = [
     "id": "g-095",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "有名作家の講演＿＿＿、会場は満員だった。",
     "choices": [
@@ -1429,6 +1524,7 @@ window.N1_QUESTIONS = [
     "id": "g-096",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "子どもの将来のため＿＿＿、親は何でもしたいと思うものだ。",
     "choices": [
@@ -1444,6 +1540,7 @@ window.N1_QUESTIONS = [
     "id": "g-097",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "経験豊富な彼＿＿＿、今回の判断には迷った。",
     "choices": [
@@ -1459,6 +1556,7 @@ window.N1_QUESTIONS = [
     "id": "g-098",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "合格した＿＿＿、実力不足は否めない。",
     "choices": [
@@ -1474,6 +1572,7 @@ window.N1_QUESTIONS = [
     "id": "g-099",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "小規模＿＿＿、その会社は独自の技術を持っている。",
     "choices": [
@@ -1489,6 +1588,7 @@ window.N1_QUESTIONS = [
     "id": "g-100",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문장 의미",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "計画は承認された＿＿＿、実施時期は未定だ。",
     "choices": [
@@ -1504,6 +1604,7 @@ window.N1_QUESTIONS = [
     "id": "g-101",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 事実だと強く判断する表現です。",
     "choices": [
@@ -1519,6 +1620,7 @@ window.N1_QUESTIONS = [
     "id": "g-102",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: それ以外ではないと断定する表現です。",
     "choices": [
@@ -1534,6 +1636,7 @@ window.N1_QUESTIONS = [
     "id": "g-103",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 容易に想像できる、理解できるという意味です。",
     "choices": [
@@ -1549,6 +1652,7 @@ window.N1_QUESTIONS = [
     "id": "g-104",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: そうする必要はないという意味です。",
     "choices": [
@@ -1564,6 +1668,7 @@ window.N1_QUESTIONS = [
     "id": "g-105",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: その判断や行為をするほどではないという意味です。",
     "choices": [
@@ -1579,6 +1684,7 @@ window.N1_QUESTIONS = [
     "id": "g-106",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: わざわざそうする必要がないという意味です。",
     "choices": [
@@ -1594,6 +1700,7 @@ window.N1_QUESTIONS = [
     "id": "g-107",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: そうすることは不可能だという硬い表現です。",
     "choices": [
@@ -1609,6 +1716,7 @@ window.N1_QUESTIONS = [
     "id": "g-108",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 事情や責任があってできないという意味です。",
     "choices": [
@@ -1624,6 +1732,7 @@ window.N1_QUESTIONS = [
     "id": "g-109",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 避けられず、必ずそうなるという意味です。",
     "choices": [
@@ -1639,6 +1748,7 @@ window.N1_QUESTIONS = [
     "id": "g-110",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 自然にそうさせる、必ずそうなるという意味です。",
     "choices": [
@@ -1654,6 +1764,7 @@ window.N1_QUESTIONS = [
     "id": "g-111",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 悪い結果になる可能性があるという意味です。",
     "choices": [
@@ -1669,6 +1780,7 @@ window.N1_QUESTIONS = [
     "id": "g-112",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 丁寧に、できないと言う表現です。",
     "choices": [
@@ -1684,6 +1796,7 @@ window.N1_QUESTIONS = [
     "id": "g-113",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: そうするしかないという意味です。",
     "choices": [
@@ -1699,6 +1812,7 @@ window.N1_QUESTIONS = [
     "id": "g-114",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 見たり聞いたりするのがつらい、価値がないという意味です。",
     "choices": [
@@ -1714,6 +1828,7 @@ window.N1_QUESTIONS = [
     "id": "g-115",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: そうする価値や資格があるという意味です。",
     "choices": [
@@ -1729,6 +1844,7 @@ window.N1_QUESTIONS = [
     "id": "g-116",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 絶対に必要だという意味です。",
     "choices": [
@@ -1744,6 +1860,7 @@ window.N1_QUESTIONS = [
     "id": "g-117",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: ただそれだけで、それ以上ではないという意味です。",
     "choices": [
@@ -1759,6 +1876,7 @@ window.N1_QUESTIONS = [
     "id": "g-118",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: その範囲だけではないという意味です。",
     "choices": [
@@ -1774,6 +1892,7 @@ window.N1_QUESTIONS = [
     "id": "g-119",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: その条件や範囲だけに限定する表現です。",
     "choices": [
@@ -1789,6 +1908,7 @@ window.N1_QUESTIONS = [
     "id": "g-120",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: よりによってその時に、という不満や意外感を表します。",
     "choices": [
@@ -1804,6 +1924,7 @@ window.N1_QUESTIONS = [
     "id": "g-121",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 必ずそうだとは言えないという意味です。",
     "choices": [
@@ -1819,6 +1940,7 @@ window.N1_QUESTIONS = [
     "id": "g-122",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 周囲の状況を気にせずに、という意味です。",
     "choices": [
@@ -1834,6 +1956,7 @@ window.N1_QUESTIONS = [
     "id": "g-123",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 困難を問題にせず立ち向かう意味です。",
     "choices": [
@@ -1849,6 +1972,7 @@ window.N1_QUESTIONS = [
     "id": "g-124",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: それを最初として次々続くという意味です。",
     "choices": [
@@ -1864,6 +1988,7 @@ window.N1_QUESTIONS = [
     "id": "g-125",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 代表例を挙げる表現です。",
     "choices": [
@@ -1879,6 +2004,7 @@ window.N1_QUESTIONS = [
     "id": "g-126",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 区別せず、関係なくという意味です。",
     "choices": [
@@ -1894,6 +2020,7 @@ window.N1_QUESTIONS = [
     "id": "g-127",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: ある話題を中心に議論や対立が起こる表現です。",
     "choices": [
@@ -1909,6 +2036,7 @@ window.N1_QUESTIONS = [
     "id": "g-128",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: それがきっかけで変化が起こるという意味です。",
     "choices": [
@@ -1924,6 +2052,7 @@ window.N1_QUESTIONS = [
     "id": "g-129",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 一つの行動が別の目的も持つことを表します。",
     "choices": [
@@ -1939,6 +2068,7 @@ window.N1_QUESTIONS = [
     "id": "g-130",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 手段・期限・区切りを示す硬い表現です。",
     "choices": [
@@ -1954,6 +2084,7 @@ window.N1_QUESTIONS = [
     "id": "g-131",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 何かの前に行うことを表します。",
     "choices": [
@@ -1969,6 +2100,7 @@ window.N1_QUESTIONS = [
     "id": "g-132",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 重要な行為を始める時に、という意味です。",
     "choices": [
@@ -1984,6 +2116,7 @@ window.N1_QUESTIONS = [
     "id": "g-133",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 特別な場面や機会に、という硬い表現です。",
     "choices": [
@@ -1999,6 +2132,7 @@ window.N1_QUESTIONS = [
     "id": "g-134",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 基準や実情に合わせて、という意味です。",
     "choices": [
@@ -2014,6 +2148,7 @@ window.N1_QUESTIONS = [
     "id": "g-135",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 方針や流れに従う意味です。",
     "choices": [
@@ -2029,6 +2164,7 @@ window.N1_QUESTIONS = [
     "id": "g-136",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 予想・期待・規則と逆になることを表します。",
     "choices": [
@@ -2044,6 +2180,7 @@ window.N1_QUESTIONS = [
     "id": "g-137",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 状況や条件に合わせて変える意味です。",
     "choices": [
@@ -2059,6 +2196,7 @@ window.N1_QUESTIONS = [
     "id": "g-138",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 一方の変化とともに他方も変わる意味です。",
     "choices": [
@@ -2074,6 +2212,7 @@ window.N1_QUESTIONS = [
     "id": "g-139",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 変化が進むにつれて別の変化も起きる意味です。",
     "choices": [
@@ -2089,6 +2228,7 @@ window.N1_QUESTIONS = [
     "id": "g-140",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 時間や変化に合わせて別の変化が起こる表現です。",
     "choices": [
@@ -2104,6 +2244,7 @@ window.N1_QUESTIONS = [
     "id": "g-141",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 何かをきっかけに毎回そう感じる意味です。",
     "choices": [
@@ -2119,6 +2260,7 @@ window.N1_QUESTIONS = [
     "id": "g-142",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: それを考えても、という感慨を表します。",
     "choices": [
@@ -2134,6 +2276,7 @@ window.N1_QUESTIONS = [
     "id": "g-143",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: たとえそうだとしても、という譲歩です。",
     "choices": [
@@ -2149,6 +2292,7 @@ window.N1_QUESTIONS = [
     "id": "g-144",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 仮にそうであっても、という意味です。",
     "choices": [
@@ -2164,6 +2308,7 @@ window.N1_QUESTIONS = [
     "id": "g-145",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 特別な事情があるので当然そうなるという意味です。",
     "choices": [
@@ -2179,6 +2324,7 @@ window.N1_QUESTIONS = [
     "id": "g-146",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: もしそのためなら、という強い条件です。",
     "choices": [
@@ -2194,6 +2340,7 @@ window.N1_QUESTIONS = [
     "id": "g-147",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: たとえその立場でも例外ではないという意味です。",
     "choices": [
@@ -2209,6 +2356,7 @@ window.N1_QUESTIONS = [
     "id": "g-148",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: そうではあるが、という逆接です。",
     "choices": [
@@ -2224,6 +2372,7 @@ window.N1_QUESTIONS = [
     "id": "g-149",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: そういう状態でありながら、という逆接です。",
     "choices": [
@@ -2239,6 +2388,7 @@ window.N1_QUESTIONS = [
     "id": "g-150",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "문맥 문법",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "次の説明に合う文法表現を選びなさい。説明: 事実を認めた上で逆の内容を述べます。",
     "choices": [
@@ -2254,6 +2404,7 @@ window.N1_QUESTIONS = [
     "id": "g-151",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 事実だと強く判断する表現です。",
     "choices": [
@@ -2269,6 +2420,7 @@ window.N1_QUESTIONS = [
     "id": "g-152",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: それ以外ではないと断定する表現です。",
     "choices": [
@@ -2284,6 +2436,7 @@ window.N1_QUESTIONS = [
     "id": "g-153",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 容易に想像できる、理解できるという意味です。",
     "choices": [
@@ -2299,6 +2452,7 @@ window.N1_QUESTIONS = [
     "id": "g-154",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうする必要はないという意味です。",
     "choices": [
@@ -2314,6 +2468,7 @@ window.N1_QUESTIONS = [
     "id": "g-155",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: その判断や行為をするほどではないという意味です。",
     "choices": [
@@ -2329,6 +2484,7 @@ window.N1_QUESTIONS = [
     "id": "g-156",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: わざわざそうする必要がないという意味です。",
     "choices": [
@@ -2344,6 +2500,7 @@ window.N1_QUESTIONS = [
     "id": "g-157",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうすることは不可能だという硬い表現です。",
     "choices": [
@@ -2359,6 +2516,7 @@ window.N1_QUESTIONS = [
     "id": "g-158",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 事情や責任があってできないという意味です。",
     "choices": [
@@ -2374,6 +2532,7 @@ window.N1_QUESTIONS = [
     "id": "g-159",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 避けられず、必ずそうなるという意味です。",
     "choices": [
@@ -2389,6 +2548,7 @@ window.N1_QUESTIONS = [
     "id": "g-160",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 自然にそうさせる、必ずそうなるという意味です。",
     "choices": [
@@ -2404,6 +2564,7 @@ window.N1_QUESTIONS = [
     "id": "g-161",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 悪い結果になる可能性があるという意味です。",
     "choices": [
@@ -2419,6 +2580,7 @@ window.N1_QUESTIONS = [
     "id": "g-162",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 丁寧に、できないと言う表現です。",
     "choices": [
@@ -2434,6 +2596,7 @@ window.N1_QUESTIONS = [
     "id": "g-163",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうするしかないという意味です。",
     "choices": [
@@ -2449,6 +2612,7 @@ window.N1_QUESTIONS = [
     "id": "g-164",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 見たり聞いたりするのがつらい、価値がないという意味です。",
     "choices": [
@@ -2464,6 +2628,7 @@ window.N1_QUESTIONS = [
     "id": "g-165",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうする価値や資格があるという意味です。",
     "choices": [
@@ -2479,6 +2644,7 @@ window.N1_QUESTIONS = [
     "id": "g-166",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 絶対に必要だという意味です。",
     "choices": [
@@ -2494,6 +2660,7 @@ window.N1_QUESTIONS = [
     "id": "g-167",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: ただそれだけで、それ以上ではないという意味です。",
     "choices": [
@@ -2509,6 +2676,7 @@ window.N1_QUESTIONS = [
     "id": "g-168",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: その範囲だけではないという意味です。",
     "choices": [
@@ -2524,6 +2692,7 @@ window.N1_QUESTIONS = [
     "id": "g-169",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: その条件や範囲だけに限定する表現です。",
     "choices": [
@@ -2539,6 +2708,7 @@ window.N1_QUESTIONS = [
     "id": "g-170",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: よりによってその時に、という不満や意外感を表します。",
     "choices": [
@@ -2554,6 +2724,7 @@ window.N1_QUESTIONS = [
     "id": "g-171",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 必ずそうだとは言えないという意味です。",
     "choices": [
@@ -2569,6 +2740,7 @@ window.N1_QUESTIONS = [
     "id": "g-172",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 周囲の状況を気にせずに、という意味です。",
     "choices": [
@@ -2584,6 +2756,7 @@ window.N1_QUESTIONS = [
     "id": "g-173",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 困難を問題にせず立ち向かう意味です。",
     "choices": [
@@ -2599,6 +2772,7 @@ window.N1_QUESTIONS = [
     "id": "g-174",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: それを最初として次々続くという意味です。",
     "choices": [
@@ -2614,6 +2788,7 @@ window.N1_QUESTIONS = [
     "id": "g-175",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 代表例を挙げる表現です。",
     "choices": [
@@ -2629,6 +2804,7 @@ window.N1_QUESTIONS = [
     "id": "g-176",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 区別せず、関係なくという意味です。",
     "choices": [
@@ -2644,6 +2820,7 @@ window.N1_QUESTIONS = [
     "id": "g-177",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: ある話題を中心に議論や対立が起こる表現です。",
     "choices": [
@@ -2659,6 +2836,7 @@ window.N1_QUESTIONS = [
     "id": "g-178",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: それがきっかけで変化が起こるという意味です。",
     "choices": [
@@ -2674,6 +2852,7 @@ window.N1_QUESTIONS = [
     "id": "g-179",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 一つの行動が別の目的も持つことを表します。",
     "choices": [
@@ -2689,6 +2868,7 @@ window.N1_QUESTIONS = [
     "id": "g-180",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 手段・期限・区切りを示す硬い表現です。",
     "choices": [
@@ -2704,6 +2884,7 @@ window.N1_QUESTIONS = [
     "id": "g-181",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 何かの前に行うことを表します。",
     "choices": [
@@ -2719,6 +2900,7 @@ window.N1_QUESTIONS = [
     "id": "g-182",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 重要な行為を始める時に、という意味です。",
     "choices": [
@@ -2734,6 +2916,7 @@ window.N1_QUESTIONS = [
     "id": "g-183",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 特別な場面や機会に、という硬い表現です。",
     "choices": [
@@ -2749,6 +2932,7 @@ window.N1_QUESTIONS = [
     "id": "g-184",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 基準や実情に合わせて、という意味です。",
     "choices": [
@@ -2764,6 +2948,7 @@ window.N1_QUESTIONS = [
     "id": "g-185",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 方針や流れに従う意味です。",
     "choices": [
@@ -2779,6 +2964,7 @@ window.N1_QUESTIONS = [
     "id": "g-186",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 予想・期待・規則と逆になることを表します。",
     "choices": [
@@ -2794,6 +2980,7 @@ window.N1_QUESTIONS = [
     "id": "g-187",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 状況や条件に合わせて変える意味です。",
     "choices": [
@@ -2809,6 +2996,7 @@ window.N1_QUESTIONS = [
     "id": "g-188",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 一方の変化とともに他方も変わる意味です。",
     "choices": [
@@ -2824,6 +3012,7 @@ window.N1_QUESTIONS = [
     "id": "g-189",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 変化が進むにつれて別の変化も起きる意味です。",
     "choices": [
@@ -2839,6 +3028,7 @@ window.N1_QUESTIONS = [
     "id": "g-190",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 時間や変化に合わせて別の変化が起こる表現です。",
     "choices": [
@@ -2854,6 +3044,7 @@ window.N1_QUESTIONS = [
     "id": "g-191",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 何かをきっかけに毎回そう感じる意味です。",
     "choices": [
@@ -2869,6 +3060,7 @@ window.N1_QUESTIONS = [
     "id": "g-192",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: それを考えても、という感慨を表します。",
     "choices": [
@@ -2884,6 +3076,7 @@ window.N1_QUESTIONS = [
     "id": "g-193",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: たとえそうだとしても、という譲歩です。",
     "choices": [
@@ -2899,6 +3092,7 @@ window.N1_QUESTIONS = [
     "id": "g-194",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 仮にそうであっても、という意味です。",
     "choices": [
@@ -2914,6 +3108,7 @@ window.N1_QUESTIONS = [
     "id": "g-195",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 特別な事情があるので当然そうなるという意味です。",
     "choices": [
@@ -2929,6 +3124,7 @@ window.N1_QUESTIONS = [
     "id": "g-196",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: もしそのためなら、という強い条件です。",
     "choices": [
@@ -2944,6 +3140,7 @@ window.N1_QUESTIONS = [
     "id": "g-197",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: たとえその立場でも例外ではないという意味です。",
     "choices": [
@@ -2959,6 +3156,7 @@ window.N1_QUESTIONS = [
     "id": "g-198",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうではあるが、という逆接です。",
     "choices": [
@@ -2974,6 +3172,7 @@ window.N1_QUESTIONS = [
     "id": "g-199",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そういう状態でありながら、という逆接です。",
     "choices": [
@@ -2989,6 +3188,7 @@ window.N1_QUESTIONS = [
     "id": "g-200",
     "category": "grammar",
     "typeLabel": "문법",
+    "subType": "의미 식별",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 事実を認めた上で逆の内容を述べます。",
     "choices": [
@@ -3004,6 +3204,7 @@ window.N1_QUESTIONS = [
     "id": "v-001",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "委員会は計画の実施を当面「見合わせる」ことにした。",
     "choices": [
@@ -3019,6 +3220,7 @@ window.N1_QUESTIONS = [
     "id": "v-002",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "彼は感情的に反論せず、相手の主張を＿＿＿に検討した。",
     "choices": [
@@ -3034,6 +3236,7 @@ window.N1_QUESTIONS = [
     "id": "v-003",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "新しい制度には利点もあるが、運用面での＿＿＿も少なくない。",
     "choices": [
@@ -3049,6 +3252,7 @@ window.N1_QUESTIONS = [
     "id": "v-004",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "その発言は議論の流れを「覆す」ものだった。",
     "choices": [
@@ -3064,6 +3268,7 @@ window.N1_QUESTIONS = [
     "id": "v-005",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "資料の数値に誤りがあると分かり、報告書の信頼性が＿＿＿になった。",
     "choices": [
@@ -3079,6 +3284,7 @@ window.N1_QUESTIONS = [
     "id": "v-006",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "都市部への人口集中は、交通や住宅の問題を＿＿＿させている。",
     "choices": [
@@ -3094,6 +3300,7 @@ window.N1_QUESTIONS = [
     "id": "v-007",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "彼女は周囲の期待に「応える」ため、準備を重ねた。",
     "choices": [
@@ -3109,6 +3316,7 @@ window.N1_QUESTIONS = [
     "id": "v-008",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "この作品は、日常の何気ない場面を＿＿＿な筆致で描いている。",
     "choices": [
@@ -3124,6 +3332,7 @@ window.N1_QUESTIONS = [
     "id": "v-009",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "調査結果は、従来の説明では不十分だという見方を＿＿＿している。",
     "choices": [
@@ -3139,6 +3348,7 @@ window.N1_QUESTIONS = [
     "id": "v-010",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "社長は会見で、事態を「軽視」していたことを認めた。",
     "choices": [
@@ -3154,6 +3364,7 @@ window.N1_QUESTIONS = [
     "id": "v-011",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "政策の効果は地方都市で＿＿＿に現れた。",
     "choices": [
@@ -3169,6 +3380,7 @@ window.N1_QUESTIONS = [
     "id": "v-012",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "不公平な制度を＿＿＿する必要がある。",
     "choices": [
@@ -3184,6 +3396,7 @@ window.N1_QUESTIONS = [
     "id": "v-013",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "新しい道路の開通で、朝の渋滞が＿＿＿された。",
     "choices": [
@@ -3199,6 +3412,7 @@ window.N1_QUESTIONS = [
     "id": "v-014",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "企業は新しい収益モデルを＿＿＿している。",
     "choices": [
@@ -3214,6 +3428,7 @@ window.N1_QUESTIONS = [
     "id": "v-015",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "その判断は現時点では＿＿＿だと言える。",
     "choices": [
@@ -3229,6 +3444,7 @@ window.N1_QUESTIONS = [
     "id": "v-016",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "提出された資料をさらに＿＿＿する必要がある。",
     "choices": [
@@ -3244,6 +3460,7 @@ window.N1_QUESTIONS = [
     "id": "v-017",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "この結果は、従来の仮説に問題があることを＿＿＿している。",
     "choices": [
@@ -3259,6 +3476,7 @@ window.N1_QUESTIONS = [
     "id": "v-018",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "不足した費用は予備費で＿＿＿された。",
     "choices": [
@@ -3274,6 +3492,7 @@ window.N1_QUESTIONS = [
     "id": "v-019",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "政府は批判を受け、発表した方針を＿＿＿した。",
     "choices": [
@@ -3289,6 +3508,7 @@ window.N1_QUESTIONS = [
     "id": "v-020",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "自治体は地域産業の成長を＿＿＿する政策を打ち出した。",
     "choices": [
@@ -3304,6 +3524,7 @@ window.N1_QUESTIONS = [
     "id": "v-021",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "過度な規制は新技術の普及を＿＿＿する恐れがある。",
     "choices": [
@@ -3319,6 +3540,7 @@ window.N1_QUESTIONS = [
     "id": "v-022",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "担当者は現場の状況を正確に＿＿＿している。",
     "choices": [
@@ -3334,6 +3556,7 @@ window.N1_QUESTIONS = [
     "id": "v-023",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "似た制度を＿＿＿して説明すると誤解を招く。",
     "choices": [
@@ -3349,6 +3572,7 @@ window.N1_QUESTIONS = [
     "id": "v-024",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "事実と意見を明確に＿＿＿して読む必要がある。",
     "choices": [
@@ -3364,6 +3588,7 @@ window.N1_QUESTIONS = [
     "id": "v-025",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "高齢者の利用にも＿＿＿した設計が求められる。",
     "choices": [
@@ -3379,6 +3604,7 @@ window.N1_QUESTIONS = [
     "id": "v-026",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "彼は研究に＿＿＿し、休日も資料を読み続けた。",
     "choices": [
@@ -3394,6 +3620,7 @@ window.N1_QUESTIONS = [
     "id": "v-027",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "彼女は発言を求められたが、しばらく＿＿＿していた。",
     "choices": [
@@ -3409,6 +3636,7 @@ window.N1_QUESTIONS = [
     "id": "v-028",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "双方が少しずつ譲り合い、最終的に＿＿＿した。",
     "choices": [
@@ -3424,6 +3652,7 @@ window.N1_QUESTIONS = [
     "id": "v-029",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "予算案をめぐって与野党が激しく＿＿＿した。",
     "choices": [
@@ -3439,6 +3668,7 @@ window.N1_QUESTIONS = [
     "id": "v-030",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "この料理は伝統的な味と現代的な感覚が＿＿＿している。",
     "choices": [
@@ -3454,6 +3684,7 @@ window.N1_QUESTIONS = [
     "id": "v-031",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "彼の＿＿＿な批判に、会場の空気が張りつめた。",
     "choices": [
@@ -3469,6 +3700,7 @@ window.N1_QUESTIONS = [
     "id": "v-032",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "相手を傷つけないよう、彼女は＿＿＿に断った。",
     "choices": [
@@ -3484,6 +3716,7 @@ window.N1_QUESTIONS = [
     "id": "v-033",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "彼の論文は資料分析が＿＿＿で説得力がある。",
     "choices": [
@@ -3499,6 +3732,7 @@ window.N1_QUESTIONS = [
     "id": "v-034",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "この報告書は調査方法が＿＿＿で信頼できない。",
     "choices": [
@@ -3514,6 +3748,7 @@ window.N1_QUESTIONS = [
     "id": "v-035",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "関係部署との連携が＿＿＿に進んだ。",
     "choices": [
@@ -3529,6 +3764,7 @@ window.N1_QUESTIONS = [
     "id": "v-036",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "書類の確認が＿＿＿と、支払いも遅れる。",
     "choices": [
@@ -3544,6 +3780,7 @@ window.N1_QUESTIONS = [
     "id": "v-037",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "交渉は難航していたが、昨日ようやく＿＿＿があった。",
     "choices": [
@@ -3559,6 +3796,7 @@ window.N1_QUESTIONS = [
     "id": "v-038",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "需要の落ち込みで、地域経済は＿＿＿している。",
     "choices": [
@@ -3574,6 +3812,7 @@ window.N1_QUESTIONS = [
     "id": "v-039",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "再発防止のため、原因究明を＿＿＿する。",
     "choices": [
@@ -3589,6 +3828,7 @@ window.N1_QUESTIONS = [
     "id": "v-040",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "設備トラブルで講演は一時＿＿＿された。",
     "choices": [
@@ -3604,6 +3844,7 @@ window.N1_QUESTIONS = [
     "id": "v-041",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "短期間で成果が出なくても、学習を＿＿＿することが大切だ。",
     "choices": [
@@ -3619,6 +3860,7 @@ window.N1_QUESTIONS = [
     "id": "v-042",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "結論を急がず、＿＿＿に判断すべきだ。",
     "choices": [
@@ -3634,6 +3876,7 @@ window.N1_QUESTIONS = [
     "id": "v-043",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "十分確認せず発表するのは＿＿＿だ。",
     "choices": [
@@ -3649,6 +3892,7 @@ window.N1_QUESTIONS = [
     "id": "v-044",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "彼は失敗への恐怖を＿＿＿し、再挑戦した。",
     "choices": [
@@ -3664,6 +3908,7 @@ window.N1_QUESTIONS = [
     "id": "v-045",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "小さな異常でも＿＿＿してはならない。",
     "choices": [
@@ -3679,6 +3924,7 @@ window.N1_QUESTIONS = [
     "id": "v-046",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "規則違反を＿＿＿すれば、組織全体の信頼が失われる。",
     "choices": [
@@ -3694,6 +3940,7 @@ window.N1_QUESTIONS = [
     "id": "v-047",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "不都合な事実を＿＿＿する姿勢が批判された。",
     "choices": [
@@ -3709,6 +3956,7 @@ window.N1_QUESTIONS = [
     "id": "v-048",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "調査結果は来月＿＿＿される予定だ。",
     "choices": [
@@ -3724,6 +3972,7 @@ window.N1_QUESTIONS = [
     "id": "v-049",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "一定の条件を満たす学生は受講料が＿＿＿される。",
     "choices": [
@@ -3739,6 +3988,7 @@ window.N1_QUESTIONS = [
     "id": "v-050",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "문맥 어휘",
     "title": "文脈に合う語を選びなさい。",
     "prompt": "長時間の会議で社員を＿＿＿するのは避けたい。",
     "choices": [
@@ -3754,6 +4004,7 @@ window.N1_QUESTIONS = [
     "id": "v-051",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "研究倫理に関する記事中の「見合わせる」に最も近い意味を選びなさい。",
     "choices": [
@@ -3769,6 +4020,7 @@ window.N1_QUESTIONS = [
     "id": "v-052",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "公共交通に関する記事中の「冷静」に最も近い意味を選びなさい。",
     "choices": [
@@ -3784,6 +4036,7 @@ window.N1_QUESTIONS = [
     "id": "v-053",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "地方創生に関する記事中の「懸念」に最も近い意味を選びなさい。",
     "choices": [
@@ -3799,6 +4052,7 @@ window.N1_QUESTIONS = [
     "id": "v-054",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "少子高齢化に関する記事中の「覆す」に最も近い意味を選びなさい。",
     "choices": [
@@ -3814,6 +4068,7 @@ window.N1_QUESTIONS = [
     "id": "v-055",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "食品安全に関する記事中の「曖昧」に最も近い意味を選びなさい。",
     "choices": [
@@ -3829,6 +4084,7 @@ window.N1_QUESTIONS = [
     "id": "v-056",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "国際交流に関する記事中の「悪化」に最も近い意味を選びなさい。",
     "choices": [
@@ -3844,6 +4100,7 @@ window.N1_QUESTIONS = [
     "id": "v-057",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "都市計画に関する記事中の「応える」に最も近い意味を選びなさい。",
     "choices": [
@@ -3859,6 +4116,7 @@ window.N1_QUESTIONS = [
     "id": "v-058",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "企業統治に関する記事中の「繊細」に最も近い意味を選びなさい。",
     "choices": [
@@ -3874,6 +4132,7 @@ window.N1_QUESTIONS = [
     "id": "v-059",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "報道姿勢に関する記事中の「裏付ける」に最も近い意味を選びなさい。",
     "choices": [
@@ -3889,6 +4148,7 @@ window.N1_QUESTIONS = [
     "id": "v-060",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "エネルギー政策に関する記事中の「軽視」に最も近い意味を選びなさい。",
     "choices": [
@@ -3904,6 +4164,7 @@ window.N1_QUESTIONS = [
     "id": "v-061",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "予算の見直しに関する記事中の「顕著」に最も近い意味を選びなさい。",
     "choices": [
@@ -3919,6 +4180,7 @@ window.N1_QUESTIONS = [
     "id": "v-062",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "地域医療に関する記事中の「是正」に最も近い意味を選びなさい。",
     "choices": [
@@ -3934,6 +4196,7 @@ window.N1_QUESTIONS = [
     "id": "v-063",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "災害対策に関する記事中の「緩和」に最も近い意味を選びなさい。",
     "choices": [
@@ -3949,6 +4212,7 @@ window.N1_QUESTIONS = [
     "id": "v-064",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "教育改革に関する記事中の「模索」に最も近い意味を選びなさい。",
     "choices": [
@@ -3964,6 +4228,7 @@ window.N1_QUESTIONS = [
     "id": "v-065",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "労働環境に関する記事中の「妥当」に最も近い意味を選びなさい。",
     "choices": [
@@ -3979,6 +4244,7 @@ window.N1_QUESTIONS = [
     "id": "v-066",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "環境保護に関する記事中の「精査」に最も近い意味を選びなさい。",
     "choices": [
@@ -3994,6 +4260,7 @@ window.N1_QUESTIONS = [
     "id": "v-067",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "技術革新に関する記事中の「示唆」に最も近い意味を選びなさい。",
     "choices": [
@@ -4009,6 +4276,7 @@ window.N1_QUESTIONS = [
     "id": "v-068",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "観光政策に関する記事中の「補填」に最も近い意味を選びなさい。",
     "choices": [
@@ -4024,6 +4292,7 @@ window.N1_QUESTIONS = [
     "id": "v-069",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "文化財保護に関する記事中の「撤回」に最も近い意味を選びなさい。",
     "choices": [
@@ -4039,6 +4308,7 @@ window.N1_QUESTIONS = [
     "id": "v-070",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "個人情報管理に関する記事中の「促進」に最も近い意味を選びなさい。",
     "choices": [
@@ -4054,6 +4324,7 @@ window.N1_QUESTIONS = [
     "id": "v-071",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "研究倫理に関する記事中の「阻害」に最も近い意味を選びなさい。",
     "choices": [
@@ -4069,6 +4340,7 @@ window.N1_QUESTIONS = [
     "id": "v-072",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "公共交通に関する記事中の「把握」に最も近い意味を選びなさい。",
     "choices": [
@@ -4084,6 +4356,7 @@ window.N1_QUESTIONS = [
     "id": "v-073",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "地方創生に関する記事中の「混同」に最も近い意味を選びなさい。",
     "choices": [
@@ -4099,6 +4372,7 @@ window.N1_QUESTIONS = [
     "id": "v-074",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "少子高齢化に関する記事中の「区別」に最も近い意味を選びなさい。",
     "choices": [
@@ -4114,6 +4388,7 @@ window.N1_QUESTIONS = [
     "id": "v-075",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "食品安全に関する記事中の「配慮」に最も近い意味を選びなさい。",
     "choices": [
@@ -4129,6 +4404,7 @@ window.N1_QUESTIONS = [
     "id": "v-076",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "国際交流に関する記事中の「没頭」に最も近い意味を選びなさい。",
     "choices": [
@@ -4144,6 +4420,7 @@ window.N1_QUESTIONS = [
     "id": "v-077",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "都市計画に関する記事中の「躊躇」に最も近い意味を選びなさい。",
     "choices": [
@@ -4159,6 +4436,7 @@ window.N1_QUESTIONS = [
     "id": "v-078",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "企業統治に関する記事中の「妥協」に最も近い意味を選びなさい。",
     "choices": [
@@ -4174,6 +4452,7 @@ window.N1_QUESTIONS = [
     "id": "v-079",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "報道姿勢に関する記事中の「対立」に最も近い意味を選びなさい。",
     "choices": [
@@ -4189,6 +4468,7 @@ window.N1_QUESTIONS = [
     "id": "v-080",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "エネルギー政策に関する記事中の「融合」に最も近い意味を選びなさい。",
     "choices": [
@@ -4204,6 +4484,7 @@ window.N1_QUESTIONS = [
     "id": "v-081",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "予算の見直しに関する記事中の「露骨」に最も近い意味を選びなさい。",
     "choices": [
@@ -4219,6 +4500,7 @@ window.N1_QUESTIONS = [
     "id": "v-082",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "地域医療に関する記事中の「婉曲」に最も近い意味を選びなさい。",
     "choices": [
@@ -4234,6 +4516,7 @@ window.N1_QUESTIONS = [
     "id": "v-083",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "災害対策に関する記事中の「緻密」に最も近い意味を選びなさい。",
     "choices": [
@@ -4249,6 +4532,7 @@ window.N1_QUESTIONS = [
     "id": "v-084",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "教育改革に関する記事中の「粗雑」に最も近い意味を選びなさい。",
     "choices": [
@@ -4264,6 +4548,7 @@ window.N1_QUESTIONS = [
     "id": "v-085",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "労働環境に関する記事中の「円滑」に最も近い意味を選びなさい。",
     "choices": [
@@ -4279,6 +4564,7 @@ window.N1_QUESTIONS = [
     "id": "v-086",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "環境保護に関する記事中の「滞る」に最も近い意味を選びなさい。",
     "choices": [
@@ -4294,6 +4580,7 @@ window.N1_QUESTIONS = [
     "id": "v-087",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "技術革新に関する記事中の「進展」に最も近い意味を選びなさい。",
     "choices": [
@@ -4309,6 +4596,7 @@ window.N1_QUESTIONS = [
     "id": "v-088",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "観光政策に関する記事中の「停滞」に最も近い意味を選びなさい。",
     "choices": [
@@ -4324,6 +4612,7 @@ window.N1_QUESTIONS = [
     "id": "v-089",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "文化財保護に関する記事中の「徹底」に最も近い意味を選びなさい。",
     "choices": [
@@ -4339,6 +4628,7 @@ window.N1_QUESTIONS = [
     "id": "v-090",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "個人情報管理に関する記事中の「中断」に最も近い意味を選びなさい。",
     "choices": [
@@ -4354,6 +4644,7 @@ window.N1_QUESTIONS = [
     "id": "v-091",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "研究倫理に関する記事中の「継続」に最も近い意味を選びなさい。",
     "choices": [
@@ -4369,6 +4660,7 @@ window.N1_QUESTIONS = [
     "id": "v-092",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "公共交通に関する記事中の「慎重」に最も近い意味を選びなさい。",
     "choices": [
@@ -4384,6 +4676,7 @@ window.N1_QUESTIONS = [
     "id": "v-093",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "地方創生に関する記事中の「軽率」に最も近い意味を選びなさい。",
     "choices": [
@@ -4399,6 +4692,7 @@ window.N1_QUESTIONS = [
     "id": "v-094",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "少子高齢化に関する記事中の「克服」に最も近い意味を選びなさい。",
     "choices": [
@@ -4414,6 +4708,7 @@ window.N1_QUESTIONS = [
     "id": "v-095",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "食品安全に関する記事中の「看過」に最も近い意味を選びなさい。",
     "choices": [
@@ -4429,6 +4724,7 @@ window.N1_QUESTIONS = [
     "id": "v-096",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "国際交流に関する記事中の「黙認」に最も近い意味を選びなさい。",
     "choices": [
@@ -4444,6 +4740,7 @@ window.N1_QUESTIONS = [
     "id": "v-097",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "都市計画に関する記事中の「隠蔽」に最も近い意味を選びなさい。",
     "choices": [
@@ -4459,6 +4756,7 @@ window.N1_QUESTIONS = [
     "id": "v-098",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "企業統治に関する記事中の「公開」に最も近い意味を選びなさい。",
     "choices": [
@@ -4474,6 +4772,7 @@ window.N1_QUESTIONS = [
     "id": "v-099",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "報道姿勢に関する記事中の「免除」に最も近い意味を選びなさい。",
     "choices": [
@@ -4489,6 +4788,7 @@ window.N1_QUESTIONS = [
     "id": "v-100",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "유의 표현",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "エネルギー政策に関する記事中の「拘束」に最も近い意味を選びなさい。",
     "choices": [
@@ -4504,6 +4804,7 @@ window.N1_QUESTIONS = [
     "id": "v-101",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「見合わせる」",
     "choices": [
@@ -4519,6 +4820,7 @@ window.N1_QUESTIONS = [
     "id": "v-102",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「冷静」",
     "choices": [
@@ -4534,6 +4836,7 @@ window.N1_QUESTIONS = [
     "id": "v-103",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「懸念」",
     "choices": [
@@ -4549,6 +4852,7 @@ window.N1_QUESTIONS = [
     "id": "v-104",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「覆す」",
     "choices": [
@@ -4564,6 +4868,7 @@ window.N1_QUESTIONS = [
     "id": "v-105",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「曖昧」",
     "choices": [
@@ -4579,6 +4884,7 @@ window.N1_QUESTIONS = [
     "id": "v-106",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「悪化」",
     "choices": [
@@ -4594,6 +4900,7 @@ window.N1_QUESTIONS = [
     "id": "v-107",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「応える」",
     "choices": [
@@ -4609,6 +4916,7 @@ window.N1_QUESTIONS = [
     "id": "v-108",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「繊細」",
     "choices": [
@@ -4624,6 +4932,7 @@ window.N1_QUESTIONS = [
     "id": "v-109",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「裏付ける」",
     "choices": [
@@ -4639,6 +4948,7 @@ window.N1_QUESTIONS = [
     "id": "v-110",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「軽視」",
     "choices": [
@@ -4654,6 +4964,7 @@ window.N1_QUESTIONS = [
     "id": "v-111",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「顕著」",
     "choices": [
@@ -4669,6 +4980,7 @@ window.N1_QUESTIONS = [
     "id": "v-112",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「是正」",
     "choices": [
@@ -4684,6 +4996,7 @@ window.N1_QUESTIONS = [
     "id": "v-113",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「緩和」",
     "choices": [
@@ -4699,6 +5012,7 @@ window.N1_QUESTIONS = [
     "id": "v-114",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「模索」",
     "choices": [
@@ -4714,6 +5028,7 @@ window.N1_QUESTIONS = [
     "id": "v-115",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「妥当」",
     "choices": [
@@ -4729,6 +5044,7 @@ window.N1_QUESTIONS = [
     "id": "v-116",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「精査」",
     "choices": [
@@ -4744,6 +5060,7 @@ window.N1_QUESTIONS = [
     "id": "v-117",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「示唆」",
     "choices": [
@@ -4759,6 +5076,7 @@ window.N1_QUESTIONS = [
     "id": "v-118",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「補填」",
     "choices": [
@@ -4774,6 +5092,7 @@ window.N1_QUESTIONS = [
     "id": "v-119",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「撤回」",
     "choices": [
@@ -4789,6 +5108,7 @@ window.N1_QUESTIONS = [
     "id": "v-120",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「促進」",
     "choices": [
@@ -4804,6 +5124,7 @@ window.N1_QUESTIONS = [
     "id": "v-121",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「阻害」",
     "choices": [
@@ -4819,6 +5140,7 @@ window.N1_QUESTIONS = [
     "id": "v-122",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「把握」",
     "choices": [
@@ -4834,6 +5156,7 @@ window.N1_QUESTIONS = [
     "id": "v-123",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「混同」",
     "choices": [
@@ -4849,6 +5172,7 @@ window.N1_QUESTIONS = [
     "id": "v-124",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「区別」",
     "choices": [
@@ -4864,6 +5188,7 @@ window.N1_QUESTIONS = [
     "id": "v-125",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「配慮」",
     "choices": [
@@ -4879,6 +5204,7 @@ window.N1_QUESTIONS = [
     "id": "v-126",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「没頭」",
     "choices": [
@@ -4894,6 +5220,7 @@ window.N1_QUESTIONS = [
     "id": "v-127",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「躊躇」",
     "choices": [
@@ -4909,6 +5236,7 @@ window.N1_QUESTIONS = [
     "id": "v-128",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「妥協」",
     "choices": [
@@ -4924,6 +5252,7 @@ window.N1_QUESTIONS = [
     "id": "v-129",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「対立」",
     "choices": [
@@ -4939,6 +5268,7 @@ window.N1_QUESTIONS = [
     "id": "v-130",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「融合」",
     "choices": [
@@ -4954,6 +5284,7 @@ window.N1_QUESTIONS = [
     "id": "v-131",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「露骨」",
     "choices": [
@@ -4969,6 +5300,7 @@ window.N1_QUESTIONS = [
     "id": "v-132",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「婉曲」",
     "choices": [
@@ -4984,6 +5316,7 @@ window.N1_QUESTIONS = [
     "id": "v-133",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「緻密」",
     "choices": [
@@ -4999,6 +5332,7 @@ window.N1_QUESTIONS = [
     "id": "v-134",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「粗雑」",
     "choices": [
@@ -5014,6 +5348,7 @@ window.N1_QUESTIONS = [
     "id": "v-135",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「円滑」",
     "choices": [
@@ -5029,6 +5364,7 @@ window.N1_QUESTIONS = [
     "id": "v-136",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「滞る」",
     "choices": [
@@ -5044,6 +5380,7 @@ window.N1_QUESTIONS = [
     "id": "v-137",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「進展」",
     "choices": [
@@ -5059,6 +5396,7 @@ window.N1_QUESTIONS = [
     "id": "v-138",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「停滞」",
     "choices": [
@@ -5074,6 +5412,7 @@ window.N1_QUESTIONS = [
     "id": "v-139",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「徹底」",
     "choices": [
@@ -5089,6 +5428,7 @@ window.N1_QUESTIONS = [
     "id": "v-140",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「中断」",
     "choices": [
@@ -5104,6 +5444,7 @@ window.N1_QUESTIONS = [
     "id": "v-141",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「継続」",
     "choices": [
@@ -5119,6 +5460,7 @@ window.N1_QUESTIONS = [
     "id": "v-142",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「慎重」",
     "choices": [
@@ -5134,6 +5476,7 @@ window.N1_QUESTIONS = [
     "id": "v-143",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「軽率」",
     "choices": [
@@ -5149,6 +5492,7 @@ window.N1_QUESTIONS = [
     "id": "v-144",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「克服」",
     "choices": [
@@ -5164,6 +5508,7 @@ window.N1_QUESTIONS = [
     "id": "v-145",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「看過」",
     "choices": [
@@ -5179,6 +5524,7 @@ window.N1_QUESTIONS = [
     "id": "v-146",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「黙認」",
     "choices": [
@@ -5194,6 +5540,7 @@ window.N1_QUESTIONS = [
     "id": "v-147",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「隠蔽」",
     "choices": [
@@ -5209,6 +5556,7 @@ window.N1_QUESTIONS = [
     "id": "v-148",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「公開」",
     "choices": [
@@ -5224,6 +5572,7 @@ window.N1_QUESTIONS = [
     "id": "v-149",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「免除」",
     "choices": [
@@ -5239,6 +5588,7 @@ window.N1_QUESTIONS = [
     "id": "v-150",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "뜻 식별",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "次の語の文脈上の意味として最も自然なものを選びなさい。「拘束」",
     "choices": [
@@ -5254,6 +5604,7 @@ window.N1_QUESTIONS = [
     "id": "v-151",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「見合わせる」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5269,6 +5620,7 @@ window.N1_QUESTIONS = [
     "id": "v-152",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「冷静」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5284,6 +5636,7 @@ window.N1_QUESTIONS = [
     "id": "v-153",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「懸念」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5299,6 +5652,7 @@ window.N1_QUESTIONS = [
     "id": "v-154",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「覆す」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5314,6 +5668,7 @@ window.N1_QUESTIONS = [
     "id": "v-155",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「曖昧」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5329,6 +5684,7 @@ window.N1_QUESTIONS = [
     "id": "v-156",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「悪化」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5344,6 +5700,7 @@ window.N1_QUESTIONS = [
     "id": "v-157",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「応える」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5359,6 +5716,7 @@ window.N1_QUESTIONS = [
     "id": "v-158",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「繊細」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5374,6 +5732,7 @@ window.N1_QUESTIONS = [
     "id": "v-159",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「裏付ける」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5389,6 +5748,7 @@ window.N1_QUESTIONS = [
     "id": "v-160",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「軽視」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5404,6 +5764,7 @@ window.N1_QUESTIONS = [
     "id": "v-161",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「顕著」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5419,6 +5780,7 @@ window.N1_QUESTIONS = [
     "id": "v-162",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「是正」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5434,6 +5796,7 @@ window.N1_QUESTIONS = [
     "id": "v-163",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「緩和」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5449,6 +5812,7 @@ window.N1_QUESTIONS = [
     "id": "v-164",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「模索」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5464,6 +5828,7 @@ window.N1_QUESTIONS = [
     "id": "v-165",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「妥当」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5479,6 +5844,7 @@ window.N1_QUESTIONS = [
     "id": "v-166",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「精査」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5494,6 +5860,7 @@ window.N1_QUESTIONS = [
     "id": "v-167",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「示唆」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5509,6 +5876,7 @@ window.N1_QUESTIONS = [
     "id": "v-168",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「補填」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5524,6 +5892,7 @@ window.N1_QUESTIONS = [
     "id": "v-169",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「撤回」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5539,6 +5908,7 @@ window.N1_QUESTIONS = [
     "id": "v-170",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「促進」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5554,6 +5924,7 @@ window.N1_QUESTIONS = [
     "id": "v-171",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「阻害」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5569,6 +5940,7 @@ window.N1_QUESTIONS = [
     "id": "v-172",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「把握」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5584,6 +5956,7 @@ window.N1_QUESTIONS = [
     "id": "v-173",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「混同」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5599,6 +5972,7 @@ window.N1_QUESTIONS = [
     "id": "v-174",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「区別」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5614,6 +5988,7 @@ window.N1_QUESTIONS = [
     "id": "v-175",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「配慮」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5629,6 +6004,7 @@ window.N1_QUESTIONS = [
     "id": "v-176",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「没頭」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5644,6 +6020,7 @@ window.N1_QUESTIONS = [
     "id": "v-177",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「躊躇」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5659,6 +6036,7 @@ window.N1_QUESTIONS = [
     "id": "v-178",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「妥協」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5674,6 +6052,7 @@ window.N1_QUESTIONS = [
     "id": "v-179",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「対立」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5689,6 +6068,7 @@ window.N1_QUESTIONS = [
     "id": "v-180",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「融合」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5704,6 +6084,7 @@ window.N1_QUESTIONS = [
     "id": "v-181",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「露骨」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5719,6 +6100,7 @@ window.N1_QUESTIONS = [
     "id": "v-182",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「婉曲」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5734,6 +6116,7 @@ window.N1_QUESTIONS = [
     "id": "v-183",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「緻密」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5749,6 +6132,7 @@ window.N1_QUESTIONS = [
     "id": "v-184",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「粗雑」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5764,6 +6148,7 @@ window.N1_QUESTIONS = [
     "id": "v-185",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「円滑」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5779,6 +6164,7 @@ window.N1_QUESTIONS = [
     "id": "v-186",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「滞る」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5794,6 +6180,7 @@ window.N1_QUESTIONS = [
     "id": "v-187",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「進展」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5809,6 +6196,7 @@ window.N1_QUESTIONS = [
     "id": "v-188",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「停滞」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5824,6 +6212,7 @@ window.N1_QUESTIONS = [
     "id": "v-189",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「徹底」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5839,6 +6228,7 @@ window.N1_QUESTIONS = [
     "id": "v-190",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「中断」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5854,6 +6244,7 @@ window.N1_QUESTIONS = [
     "id": "v-191",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「継続」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5869,6 +6260,7 @@ window.N1_QUESTIONS = [
     "id": "v-192",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「慎重」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5884,6 +6276,7 @@ window.N1_QUESTIONS = [
     "id": "v-193",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「軽率」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5899,6 +6292,7 @@ window.N1_QUESTIONS = [
     "id": "v-194",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「克服」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5914,6 +6308,7 @@ window.N1_QUESTIONS = [
     "id": "v-195",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「看過」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5929,6 +6324,7 @@ window.N1_QUESTIONS = [
     "id": "v-196",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「黙認」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5944,6 +6340,7 @@ window.N1_QUESTIONS = [
     "id": "v-197",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「隠蔽」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5959,6 +6356,7 @@ window.N1_QUESTIONS = [
     "id": "v-198",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「公開」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5974,6 +6372,7 @@ window.N1_QUESTIONS = [
     "id": "v-199",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「免除」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -5989,6 +6388,7 @@ window.N1_QUESTIONS = [
     "id": "v-200",
     "category": "vocabulary",
     "typeLabel": "어휘",
+    "subType": "용법",
     "title": "下線部に最も近い意味の語を選びなさい。",
     "prompt": "JLPT N1の語彙問題として、「拘束」の意味・使い方に最も近いものを選びなさい。",
     "choices": [
@@ -6004,6 +6404,7 @@ window.N1_QUESTIONS = [
     "id": "r-001",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「促す」の読み方として正しいものを選びなさい。",
     "prompt": "政府は企業に賃上げを促す方針を示した。",
     "speakText": "政府は企業に賃上げを促す方針を示した。",
@@ -6020,6 +6421,7 @@ window.N1_QUESTIONS = [
     "id": "r-002",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「著しい」の読み方として正しいものを選びなさい。",
     "prompt": "この十年で通信技術は著しい進歩を遂げた。",
     "speakText": "この十年で通信技術は著しい進歩を遂げた。",
@@ -6036,6 +6438,7 @@ window.N1_QUESTIONS = [
     "id": "r-003",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「措置」の読み方として正しいものを選びなさい。",
     "prompt": "市は混雑を避けるため、臨時の措置を講じた。",
     "speakText": "市は混雑を避けるため、臨時の措置を講じた。",
@@ -6052,6 +6455,7 @@ window.N1_QUESTIONS = [
     "id": "r-004",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「是正」の読み方として正しいものを選びなさい。",
     "prompt": "不公平な制度を是正する必要がある。",
     "speakText": "不公平な制度を是正する必要がある。",
@@ -6068,6 +6472,7 @@ window.N1_QUESTIONS = [
     "id": "r-005",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「滞る」の読み方として正しいものを選びなさい。",
     "prompt": "手続きが滞ると、支払いが遅れるおそれがある。",
     "speakText": "手続きが滞ると、支払いが遅れるおそれがある。",
@@ -6084,6 +6489,7 @@ window.N1_QUESTIONS = [
     "id": "r-006",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「顧みる」の読み方として正しいものを選びなさい。",
     "prompt": "過去の失敗を顧みることは、次の判断に役立つ。",
     "speakText": "過去の失敗を顧みることは、次の判断に役立つ。",
@@ -6100,6 +6506,7 @@ window.N1_QUESTIONS = [
     "id": "r-007",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「堪える」の読み方として正しいものを選びなさい。",
     "prompt": "批判に堪える資料を用意しなければならない。",
     "speakText": "批判に堪える資料を用意しなければならない。",
@@ -6116,6 +6523,7 @@ window.N1_QUESTIONS = [
     "id": "r-008",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「遂げる」の読み方として正しいものを選びなさい。",
     "prompt": "彼は長年の研究で大きな成果を遂げた。",
     "speakText": "彼は長年の研究で大きな成果を遂げた。",
@@ -6132,6 +6540,7 @@ window.N1_QUESTIONS = [
     "id": "r-009",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「脆弱」の読み方として正しいものを選びなさい。",
     "prompt": "その地域の通信網は災害に対して脆弱だ。",
     "speakText": "その地域の通信網は災害に対して脆弱だ。",
@@ -6148,6 +6557,7 @@ window.N1_QUESTIONS = [
     "id": "r-010",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「一括」の読み方として正しいものを選びなさい。",
     "prompt": "複数の申請を一括して処理する仕組みを導入した。",
     "speakText": "複数の申請を一括して処理する仕組みを導入した。",
@@ -6164,6 +6574,7 @@ window.N1_QUESTIONS = [
     "id": "r-011",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「暫定」の読み方として正しいものを選びなさい。",
     "prompt": "暫定的な措置として窓口を増設した。",
     "speakText": "暫定的な措置として窓口を増設した。",
@@ -6180,6 +6591,7 @@ window.N1_QUESTIONS = [
     "id": "r-012",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「堅調」の読み方として正しいものを選びなさい。",
     "prompt": "輸出は今月も堅調に推移している。",
     "speakText": "輸出は今月も堅調に推移している。",
@@ -6196,6 +6608,7 @@ window.N1_QUESTIONS = [
     "id": "r-013",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「顕著」の読み方として正しいものを選びなさい。",
     "prompt": "効果は若年層で顕著に見られた。",
     "speakText": "効果は若年層で顕著に見られた。",
@@ -6212,6 +6625,7 @@ window.N1_QUESTIONS = [
     "id": "r-014",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「弁明」の読み方として正しいものを選びなさい。",
     "prompt": "担当者は会見で経緯を弁明した。",
     "speakText": "担当者は会見で経緯を弁明した。",
@@ -6228,6 +6642,7 @@ window.N1_QUESTIONS = [
     "id": "r-015",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「是非」の読み方として正しいものを選びなさい。",
     "prompt": "是非を判断するには情報が不足している。",
     "speakText": "是非を判断するには情報が不足している。",
@@ -6244,6 +6659,7 @@ window.N1_QUESTIONS = [
     "id": "r-016",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「均衡」の読み方として正しいものを選びなさい。",
     "prompt": "市場の均衡が崩れ始めている。",
     "speakText": "市場の均衡が崩れ始めている。",
@@ -6260,6 +6676,7 @@ window.N1_QUESTIONS = [
     "id": "r-017",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「偏る」の読み方として正しいものを選びなさい。",
     "prompt": "意見が一方に偏るのは望ましくない。",
     "speakText": "意見が一方に偏るのは望ましくない。",
@@ -6276,6 +6693,7 @@ window.N1_QUESTIONS = [
     "id": "r-018",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「陳述」の読み方として正しいものを選びなさい。",
     "prompt": "証人は事実関係を陳述した。",
     "speakText": "証人は事実関係を陳述した。",
@@ -6292,6 +6710,7 @@ window.N1_QUESTIONS = [
     "id": "r-019",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「煩雑」の読み方として正しいものを選びなさい。",
     "prompt": "申請手続きが煩雑だという声が多い。",
     "speakText": "申請手続きが煩雑だという声が多い。",
@@ -6308,6 +6727,7 @@ window.N1_QUESTIONS = [
     "id": "r-020",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「緻密」の読み方として正しいものを選びなさい。",
     "prompt": "緻密な分析が評価された。",
     "speakText": "緻密な分析が評価された。",
@@ -6324,6 +6744,7 @@ window.N1_QUESTIONS = [
     "id": "r-021",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「遂行」の読み方として正しいものを選びなさい。",
     "prompt": "計画を遂行するには人材が必要だ。",
     "speakText": "計画を遂行するには人材が必要だ。",
@@ -6340,6 +6761,7 @@ window.N1_QUESTIONS = [
     "id": "r-022",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「擁護」の読み方として正しいものを選びなさい。",
     "prompt": "委員はその方針を擁護した。",
     "speakText": "委員はその方針を擁護した。",
@@ -6356,6 +6778,7 @@ window.N1_QUESTIONS = [
     "id": "r-023",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「棄却」の読み方として正しいものを選びなさい。",
     "prompt": "裁判所は請求を棄却した。",
     "speakText": "裁判所は請求を棄却した。",
@@ -6372,6 +6795,7 @@ window.N1_QUESTIONS = [
     "id": "r-024",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「措辞」の読み方として正しいものを選びなさい。",
     "prompt": "報告書の措辞には注意が必要だ。",
     "speakText": "報告書の措辞には注意が必要だ。",
@@ -6388,6 +6812,7 @@ window.N1_QUESTIONS = [
     "id": "r-025",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「概ね」の読み方として正しいものを選びなさい。",
     "prompt": "参加者の反応は概ね良好だった。",
     "speakText": "参加者の反応は概ね良好だった。",
@@ -6404,6 +6829,7 @@ window.N1_QUESTIONS = [
     "id": "r-026",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「担う」の読み方として正しいものを選びなさい。",
     "prompt": "若い世代が地域の将来を担う。",
     "speakText": "若い世代が地域の将来を担う。",
@@ -6420,6 +6846,7 @@ window.N1_QUESTIONS = [
     "id": "r-027",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「募る」の読み方として正しいものを選びなさい。",
     "prompt": "不安が日増しに募っていった。",
     "speakText": "不安が日増しに募っていった。",
@@ -6436,6 +6863,7 @@ window.N1_QUESTIONS = [
     "id": "r-028",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「諮る」の読み方として正しいものを選びなさい。",
     "prompt": "委員会に対応を諮ることにした。",
     "speakText": "委員会に対応を諮ることにした。",
@@ -6452,6 +6880,7 @@ window.N1_QUESTIONS = [
     "id": "r-029",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「滞納」の読み方として正しいものを選びなさい。",
     "prompt": "税金を滞納している世帯が増えた。",
     "speakText": "税金を滞納している世帯が増えた。",
@@ -6468,6 +6897,7 @@ window.N1_QUESTIONS = [
     "id": "r-030",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「是認」の読み方として正しいものを選びなさい。",
     "prompt": "その判断を是認する意見が多かった。",
     "speakText": "その判断を是認する意見が多かった。",
@@ -6484,6 +6914,7 @@ window.N1_QUESTIONS = [
     "id": "r-031",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「脅威」の読み方として正しいものを選びなさい。",
     "prompt": "感染症は社会にとって大きな脅威だ。",
     "speakText": "感染症は社会にとって大きな脅威だ。",
@@ -6500,6 +6931,7 @@ window.N1_QUESTIONS = [
     "id": "r-032",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「弾力」の読み方として正しいものを選びなさい。",
     "prompt": "弾力的な運用が求められる。",
     "speakText": "弾力的な運用が求められる。",
@@ -6516,6 +6948,7 @@ window.N1_QUESTIONS = [
     "id": "r-033",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「抑制」の読み方として正しいものを選びなさい。",
     "prompt": "価格の上昇を抑制する政策が必要だ。",
     "speakText": "価格の上昇を抑制する政策が必要だ。",
@@ -6532,6 +6965,7 @@ window.N1_QUESTIONS = [
     "id": "r-034",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「委ねる」の読み方として正しいものを選びなさい。",
     "prompt": "最終判断は専門家に委ねる。",
     "speakText": "最終判断は専門家に委ねる。",
@@ -6548,6 +6982,7 @@ window.N1_QUESTIONS = [
     "id": "r-035",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「携わる」の読み方として正しいものを選びなさい。",
     "prompt": "彼は長年、教育事業に携わってきた。",
     "speakText": "彼は長年、教育事業に携わってきた。",
@@ -6564,6 +6999,7 @@ window.N1_QUESTIONS = [
     "id": "r-036",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「阻む」の読み方として正しいものを選びなさい。",
     "prompt": "高い費用が普及を阻んでいる。",
     "speakText": "高い費用が普及を阻んでいる。",
@@ -6580,6 +7016,7 @@ window.N1_QUESTIONS = [
     "id": "r-037",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「憤る」の読み方として正しいものを選びなさい。",
     "prompt": "住民は説明不足に憤っている。",
     "speakText": "住民は説明不足に憤っている。",
@@ -6596,6 +7033,7 @@ window.N1_QUESTIONS = [
     "id": "r-038",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「潤う」の読み方として正しいものを選びなさい。",
     "prompt": "観光客の増加で地域経済が潤った。",
     "speakText": "観光客の増加で地域経済が潤った。",
@@ -6612,6 +7050,7 @@ window.N1_QUESTIONS = [
     "id": "r-039",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「賄う」の読み方として正しいものを選びなさい。",
     "prompt": "運営費は寄付で賄われている。",
     "speakText": "運営費は寄付で賄われている。",
@@ -6628,6 +7067,7 @@ window.N1_QUESTIONS = [
     "id": "r-040",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「培う」の読み方として正しいものを選びなさい。",
     "prompt": "現場で判断力を培うことができる。",
     "speakText": "現場で判断力を培うことができる。",
@@ -6644,6 +7084,7 @@ window.N1_QUESTIONS = [
     "id": "r-041",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「貫く」の読み方として正しいものを選びなさい。",
     "prompt": "彼は最後まで自分の信念を貫いた。",
     "speakText": "彼は最後まで自分の信念を貫いた。",
@@ -6660,6 +7101,7 @@ window.N1_QUESTIONS = [
     "id": "r-042",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「繕う」の読み方として正しいものを選びなさい。",
     "prompt": "彼はその場を取り繕うように笑った。",
     "speakText": "彼はその場を取り繕うように笑った。",
@@ -6676,6 +7118,7 @@ window.N1_QUESTIONS = [
     "id": "r-043",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「鑑みる」の読み方として正しいものを選びなさい。",
     "prompt": "現状に鑑みて計画を見直す。",
     "speakText": "現状に鑑みて計画を見直す。",
@@ -6692,6 +7135,7 @@ window.N1_QUESTIONS = [
     "id": "r-044",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「省みる」の読み方として正しいものを選びなさい。",
     "prompt": "自らの行動を省みる必要がある。",
     "speakText": "自らの行動を省みる必要がある。",
@@ -6708,6 +7152,7 @@ window.N1_QUESTIONS = [
     "id": "r-045",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「蔑ろ」の読み方として正しいものを選びなさい。",
     "prompt": "安全対策を蔑ろにしてはならない。",
     "speakText": "安全対策を蔑ろにしてはならない。",
@@ -6724,6 +7169,7 @@ window.N1_QUESTIONS = [
     "id": "r-046",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「健やか」の読み方として正しいものを選びなさい。",
     "prompt": "子どもが健やかに育つ環境を整える。",
     "speakText": "子どもが健やかに育つ環境を整える。",
@@ -6740,6 +7186,7 @@ window.N1_QUESTIONS = [
     "id": "r-047",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「厳か」の読み方として正しいものを選びなさい。",
     "prompt": "式典は厳かな雰囲気で行われた。",
     "speakText": "式典は厳かな雰囲気で行われた。",
@@ -6756,6 +7203,7 @@ window.N1_QUESTIONS = [
     "id": "r-048",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「朗らか」の読み方として正しいものを選びなさい。",
     "prompt": "彼女はいつも朗らかに話す。",
     "speakText": "彼女はいつも朗らかに話す。",
@@ -6772,6 +7220,7 @@ window.N1_QUESTIONS = [
     "id": "r-049",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「滑らか」の読み方として正しいものを選びなさい。",
     "prompt": "発表は滑らかで聞き取りやすかった。",
     "speakText": "発表は滑らかで聞き取りやすかった。",
@@ -6788,6 +7237,7 @@ window.N1_QUESTIONS = [
     "id": "r-050",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "한자 읽기",
     "title": "「速やか」の読み方として正しいものを選びなさい。",
     "prompt": "問題が発生した場合は速やかに報告する。",
     "speakText": "問題が発生した場合は速やかに報告する。",
@@ -6804,6 +7254,7 @@ window.N1_QUESTIONS = [
     "id": "r-051",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「促す」の読み方として正しいものを選びなさい。",
     "prompt": "研究倫理に関する文章で使われる「促す」の読み方を確認しなさい。",
     "speakText": "政府は企業に賃上げを促す方針を示した。",
@@ -6820,6 +7271,7 @@ window.N1_QUESTIONS = [
     "id": "r-052",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「著しい」の読み方として正しいものを選びなさい。",
     "prompt": "公共交通に関する文章で使われる「著しい」の読み方を確認しなさい。",
     "speakText": "この十年で通信技術は著しい進歩を遂げた。",
@@ -6836,6 +7288,7 @@ window.N1_QUESTIONS = [
     "id": "r-053",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「措置」の読み方として正しいものを選びなさい。",
     "prompt": "地方創生に関する文章で使われる「措置」の読み方を確認しなさい。",
     "speakText": "市は混雑を避けるため、臨時の措置を講じた。",
@@ -6852,6 +7305,7 @@ window.N1_QUESTIONS = [
     "id": "r-054",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「是正」の読み方として正しいものを選びなさい。",
     "prompt": "少子高齢化に関する文章で使われる「是正」の読み方を確認しなさい。",
     "speakText": "不公平な制度を是正する必要がある。",
@@ -6868,6 +7322,7 @@ window.N1_QUESTIONS = [
     "id": "r-055",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「滞る」の読み方として正しいものを選びなさい。",
     "prompt": "食品安全に関する文章で使われる「滞る」の読み方を確認しなさい。",
     "speakText": "手続きが滞ると、支払いが遅れるおそれがある。",
@@ -6884,6 +7339,7 @@ window.N1_QUESTIONS = [
     "id": "r-056",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「顧みる」の読み方として正しいものを選びなさい。",
     "prompt": "国際交流に関する文章で使われる「顧みる」の読み方を確認しなさい。",
     "speakText": "過去の失敗を顧みることは、次の判断に役立つ。",
@@ -6900,6 +7356,7 @@ window.N1_QUESTIONS = [
     "id": "r-057",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「堪える」の読み方として正しいものを選びなさい。",
     "prompt": "都市計画に関する文章で使われる「堪える」の読み方を確認しなさい。",
     "speakText": "批判に堪える資料を用意しなければならない。",
@@ -6916,6 +7373,7 @@ window.N1_QUESTIONS = [
     "id": "r-058",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「遂げる」の読み方として正しいものを選びなさい。",
     "prompt": "企業統治に関する文章で使われる「遂げる」の読み方を確認しなさい。",
     "speakText": "彼は長年の研究で大きな成果を遂げた。",
@@ -6932,6 +7390,7 @@ window.N1_QUESTIONS = [
     "id": "r-059",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「脆弱」の読み方として正しいものを選びなさい。",
     "prompt": "報道姿勢に関する文章で使われる「脆弱」の読み方を確認しなさい。",
     "speakText": "その地域の通信網は災害に対して脆弱だ。",
@@ -6948,6 +7407,7 @@ window.N1_QUESTIONS = [
     "id": "r-060",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「一括」の読み方として正しいものを選びなさい。",
     "prompt": "エネルギー政策に関する文章で使われる「一括」の読み方を確認しなさい。",
     "speakText": "複数の申請を一括して処理する仕組みを導入した。",
@@ -6964,6 +7424,7 @@ window.N1_QUESTIONS = [
     "id": "r-061",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「暫定」の読み方として正しいものを選びなさい。",
     "prompt": "予算の見直しに関する文章で使われる「暫定」の読み方を確認しなさい。",
     "speakText": "暫定的な措置として窓口を増設した。",
@@ -6980,6 +7441,7 @@ window.N1_QUESTIONS = [
     "id": "r-062",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「堅調」の読み方として正しいものを選びなさい。",
     "prompt": "地域医療に関する文章で使われる「堅調」の読み方を確認しなさい。",
     "speakText": "輸出は今月も堅調に推移している。",
@@ -6996,6 +7458,7 @@ window.N1_QUESTIONS = [
     "id": "r-063",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「顕著」の読み方として正しいものを選びなさい。",
     "prompt": "災害対策に関する文章で使われる「顕著」の読み方を確認しなさい。",
     "speakText": "効果は若年層で顕著に見られた。",
@@ -7012,6 +7475,7 @@ window.N1_QUESTIONS = [
     "id": "r-064",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「弁明」の読み方として正しいものを選びなさい。",
     "prompt": "教育改革に関する文章で使われる「弁明」の読み方を確認しなさい。",
     "speakText": "担当者は会見で経緯を弁明した。",
@@ -7028,6 +7492,7 @@ window.N1_QUESTIONS = [
     "id": "r-065",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「是非」の読み方として正しいものを選びなさい。",
     "prompt": "労働環境に関する文章で使われる「是非」の読み方を確認しなさい。",
     "speakText": "是非を判断するには情報が不足している。",
@@ -7044,6 +7509,7 @@ window.N1_QUESTIONS = [
     "id": "r-066",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「均衡」の読み方として正しいものを選びなさい。",
     "prompt": "環境保護に関する文章で使われる「均衡」の読み方を確認しなさい。",
     "speakText": "市場の均衡が崩れ始めている。",
@@ -7060,6 +7526,7 @@ window.N1_QUESTIONS = [
     "id": "r-067",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「偏る」の読み方として正しいものを選びなさい。",
     "prompt": "技術革新に関する文章で使われる「偏る」の読み方を確認しなさい。",
     "speakText": "意見が一方に偏るのは望ましくない。",
@@ -7076,6 +7543,7 @@ window.N1_QUESTIONS = [
     "id": "r-068",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「陳述」の読み方として正しいものを選びなさい。",
     "prompt": "観光政策に関する文章で使われる「陳述」の読み方を確認しなさい。",
     "speakText": "証人は事実関係を陳述した。",
@@ -7092,6 +7560,7 @@ window.N1_QUESTIONS = [
     "id": "r-069",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「煩雑」の読み方として正しいものを選びなさい。",
     "prompt": "文化財保護に関する文章で使われる「煩雑」の読み方を確認しなさい。",
     "speakText": "申請手続きが煩雑だという声が多い。",
@@ -7108,6 +7577,7 @@ window.N1_QUESTIONS = [
     "id": "r-070",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「緻密」の読み方として正しいものを選びなさい。",
     "prompt": "個人情報管理に関する文章で使われる「緻密」の読み方を確認しなさい。",
     "speakText": "緻密な分析が評価された。",
@@ -7124,6 +7594,7 @@ window.N1_QUESTIONS = [
     "id": "r-071",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「遂行」の読み方として正しいものを選びなさい。",
     "prompt": "研究倫理に関する文章で使われる「遂行」の読み方を確認しなさい。",
     "speakText": "計画を遂行するには人材が必要だ。",
@@ -7140,6 +7611,7 @@ window.N1_QUESTIONS = [
     "id": "r-072",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「擁護」の読み方として正しいものを選びなさい。",
     "prompt": "公共交通に関する文章で使われる「擁護」の読み方を確認しなさい。",
     "speakText": "委員はその方針を擁護した。",
@@ -7156,6 +7628,7 @@ window.N1_QUESTIONS = [
     "id": "r-073",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「棄却」の読み方として正しいものを選びなさい。",
     "prompt": "地方創生に関する文章で使われる「棄却」の読み方を確認しなさい。",
     "speakText": "裁判所は請求を棄却した。",
@@ -7172,6 +7645,7 @@ window.N1_QUESTIONS = [
     "id": "r-074",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「措辞」の読み方として正しいものを選びなさい。",
     "prompt": "少子高齢化に関する文章で使われる「措辞」の読み方を確認しなさい。",
     "speakText": "報告書の措辞には注意が必要だ。",
@@ -7188,6 +7662,7 @@ window.N1_QUESTIONS = [
     "id": "r-075",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「概ね」の読み方として正しいものを選びなさい。",
     "prompt": "食品安全に関する文章で使われる「概ね」の読み方を確認しなさい。",
     "speakText": "参加者の反応は概ね良好だった。",
@@ -7204,6 +7679,7 @@ window.N1_QUESTIONS = [
     "id": "r-076",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「担う」の読み方として正しいものを選びなさい。",
     "prompt": "国際交流に関する文章で使われる「担う」の読み方を確認しなさい。",
     "speakText": "若い世代が地域の将来を担う。",
@@ -7220,6 +7696,7 @@ window.N1_QUESTIONS = [
     "id": "r-077",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「募る」の読み方として正しいものを選びなさい。",
     "prompt": "都市計画に関する文章で使われる「募る」の読み方を確認しなさい。",
     "speakText": "不安が日増しに募っていった。",
@@ -7236,6 +7713,7 @@ window.N1_QUESTIONS = [
     "id": "r-078",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「諮る」の読み方として正しいものを選びなさい。",
     "prompt": "企業統治に関する文章で使われる「諮る」の読み方を確認しなさい。",
     "speakText": "委員会に対応を諮ることにした。",
@@ -7252,6 +7730,7 @@ window.N1_QUESTIONS = [
     "id": "r-079",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「滞納」の読み方として正しいものを選びなさい。",
     "prompt": "報道姿勢に関する文章で使われる「滞納」の読み方を確認しなさい。",
     "speakText": "税金を滞納している世帯が増えた。",
@@ -7268,6 +7747,7 @@ window.N1_QUESTIONS = [
     "id": "r-080",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「是認」の読み方として正しいものを選びなさい。",
     "prompt": "エネルギー政策に関する文章で使われる「是認」の読み方を確認しなさい。",
     "speakText": "その判断を是認する意見が多かった。",
@@ -7284,6 +7764,7 @@ window.N1_QUESTIONS = [
     "id": "r-081",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「脅威」の読み方として正しいものを選びなさい。",
     "prompt": "予算の見直しに関する文章で使われる「脅威」の読み方を確認しなさい。",
     "speakText": "感染症は社会にとって大きな脅威だ。",
@@ -7300,6 +7781,7 @@ window.N1_QUESTIONS = [
     "id": "r-082",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「弾力」の読み方として正しいものを選びなさい。",
     "prompt": "地域医療に関する文章で使われる「弾力」の読み方を確認しなさい。",
     "speakText": "弾力的な運用が求められる。",
@@ -7316,6 +7798,7 @@ window.N1_QUESTIONS = [
     "id": "r-083",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「抑制」の読み方として正しいものを選びなさい。",
     "prompt": "災害対策に関する文章で使われる「抑制」の読み方を確認しなさい。",
     "speakText": "価格の上昇を抑制する政策が必要だ。",
@@ -7332,6 +7815,7 @@ window.N1_QUESTIONS = [
     "id": "r-084",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「委ねる」の読み方として正しいものを選びなさい。",
     "prompt": "教育改革に関する文章で使われる「委ねる」の読み方を確認しなさい。",
     "speakText": "最終判断は専門家に委ねる。",
@@ -7348,6 +7832,7 @@ window.N1_QUESTIONS = [
     "id": "r-085",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「携わる」の読み方として正しいものを選びなさい。",
     "prompt": "労働環境に関する文章で使われる「携わる」の読み方を確認しなさい。",
     "speakText": "彼は長年、教育事業に携わってきた。",
@@ -7364,6 +7849,7 @@ window.N1_QUESTIONS = [
     "id": "r-086",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「阻む」の読み方として正しいものを選びなさい。",
     "prompt": "環境保護に関する文章で使われる「阻む」の読み方を確認しなさい。",
     "speakText": "高い費用が普及を阻んでいる。",
@@ -7380,6 +7866,7 @@ window.N1_QUESTIONS = [
     "id": "r-087",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「憤る」の読み方として正しいものを選びなさい。",
     "prompt": "技術革新に関する文章で使われる「憤る」の読み方を確認しなさい。",
     "speakText": "住民は説明不足に憤っている。",
@@ -7396,6 +7883,7 @@ window.N1_QUESTIONS = [
     "id": "r-088",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「潤う」の読み方として正しいものを選びなさい。",
     "prompt": "観光政策に関する文章で使われる「潤う」の読み方を確認しなさい。",
     "speakText": "観光客の増加で地域経済が潤った。",
@@ -7412,6 +7900,7 @@ window.N1_QUESTIONS = [
     "id": "r-089",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「賄う」の読み方として正しいものを選びなさい。",
     "prompt": "文化財保護に関する文章で使われる「賄う」の読み方を確認しなさい。",
     "speakText": "運営費は寄付で賄われている。",
@@ -7428,6 +7917,7 @@ window.N1_QUESTIONS = [
     "id": "r-090",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「培う」の読み方として正しいものを選びなさい。",
     "prompt": "個人情報管理に関する文章で使われる「培う」の読み方を確認しなさい。",
     "speakText": "現場で判断力を培うことができる。",
@@ -7444,6 +7934,7 @@ window.N1_QUESTIONS = [
     "id": "r-091",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「貫く」の読み方として正しいものを選びなさい。",
     "prompt": "研究倫理に関する文章で使われる「貫く」の読み方を確認しなさい。",
     "speakText": "彼は最後まで自分の信念を貫いた。",
@@ -7460,6 +7951,7 @@ window.N1_QUESTIONS = [
     "id": "r-092",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「繕う」の読み方として正しいものを選びなさい。",
     "prompt": "公共交通に関する文章で使われる「繕う」の読み方を確認しなさい。",
     "speakText": "彼はその場を取り繕うように笑った。",
@@ -7476,6 +7968,7 @@ window.N1_QUESTIONS = [
     "id": "r-093",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「鑑みる」の読み方として正しいものを選びなさい。",
     "prompt": "地方創生に関する文章で使われる「鑑みる」の読み方を確認しなさい。",
     "speakText": "現状に鑑みて計画を見直す。",
@@ -7492,6 +7985,7 @@ window.N1_QUESTIONS = [
     "id": "r-094",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「省みる」の読み方として正しいものを選びなさい。",
     "prompt": "少子高齢化に関する文章で使われる「省みる」の読み方を確認しなさい。",
     "speakText": "自らの行動を省みる必要がある。",
@@ -7508,6 +8002,7 @@ window.N1_QUESTIONS = [
     "id": "r-095",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「蔑ろ」の読み方として正しいものを選びなさい。",
     "prompt": "食品安全に関する文章で使われる「蔑ろ」の読み方を確認しなさい。",
     "speakText": "安全対策を蔑ろにしてはならない。",
@@ -7524,6 +8019,7 @@ window.N1_QUESTIONS = [
     "id": "r-096",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「健やか」の読み方として正しいものを選びなさい。",
     "prompt": "国際交流に関する文章で使われる「健やか」の読み方を確認しなさい。",
     "speakText": "子どもが健やかに育つ環境を整える。",
@@ -7540,6 +8036,7 @@ window.N1_QUESTIONS = [
     "id": "r-097",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「厳か」の読み方として正しいものを選びなさい。",
     "prompt": "都市計画に関する文章で使われる「厳か」の読み方を確認しなさい。",
     "speakText": "式典は厳かな雰囲気で行われた。",
@@ -7556,6 +8053,7 @@ window.N1_QUESTIONS = [
     "id": "r-098",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「朗らか」の読み方として正しいものを選びなさい。",
     "prompt": "企業統治に関する文章で使われる「朗らか」の読み方を確認しなさい。",
     "speakText": "彼女はいつも朗らかに話す。",
@@ -7572,6 +8070,7 @@ window.N1_QUESTIONS = [
     "id": "r-099",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「滑らか」の読み方として正しいものを選びなさい。",
     "prompt": "報道姿勢に関する文章で使われる「滑らか」の読み方を確認しなさい。",
     "speakText": "発表は滑らかで聞き取りやすかった。",
@@ -7588,6 +8087,7 @@ window.N1_QUESTIONS = [
     "id": "r-100",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "문맥 한자 읽기",
     "title": "「速やか」の読み方として正しいものを選びなさい。",
     "prompt": "エネルギー政策に関する文章で使われる「速やか」の読み方を確認しなさい。",
     "speakText": "問題が発生した場合は速やかに報告する。",
@@ -7604,6 +8104,7 @@ window.N1_QUESTIONS = [
     "id": "r-101",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「促す」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「促す」",
     "speakText": "政府は企業に賃上げを促す方針を示した。",
@@ -7620,6 +8121,7 @@ window.N1_QUESTIONS = [
     "id": "r-102",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「著しい」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「著しい」",
     "speakText": "この十年で通信技術は著しい進歩を遂げた。",
@@ -7636,6 +8138,7 @@ window.N1_QUESTIONS = [
     "id": "r-103",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「措置」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「措置」",
     "speakText": "市は混雑を避けるため、臨時の措置を講じた。",
@@ -7652,6 +8155,7 @@ window.N1_QUESTIONS = [
     "id": "r-104",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「是正」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「是正」",
     "speakText": "不公平な制度を是正する必要がある。",
@@ -7668,6 +8172,7 @@ window.N1_QUESTIONS = [
     "id": "r-105",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「滞る」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「滞る」",
     "speakText": "手続きが滞ると、支払いが遅れるおそれがある。",
@@ -7684,6 +8189,7 @@ window.N1_QUESTIONS = [
     "id": "r-106",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「顧みる」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「顧みる」",
     "speakText": "過去の失敗を顧みることは、次の判断に役立つ。",
@@ -7700,6 +8206,7 @@ window.N1_QUESTIONS = [
     "id": "r-107",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「堪える」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「堪える」",
     "speakText": "批判に堪える資料を用意しなければならない。",
@@ -7716,6 +8223,7 @@ window.N1_QUESTIONS = [
     "id": "r-108",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「遂げる」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「遂げる」",
     "speakText": "彼は長年の研究で大きな成果を遂げた。",
@@ -7732,6 +8240,7 @@ window.N1_QUESTIONS = [
     "id": "r-109",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「脆弱」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「脆弱」",
     "speakText": "その地域の通信網は災害に対して脆弱だ。",
@@ -7748,6 +8257,7 @@ window.N1_QUESTIONS = [
     "id": "r-110",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「一括」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「一括」",
     "speakText": "複数の申請を一括して処理する仕組みを導入した。",
@@ -7764,6 +8274,7 @@ window.N1_QUESTIONS = [
     "id": "r-111",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「暫定」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「暫定」",
     "speakText": "暫定的な措置として窓口を増設した。",
@@ -7780,6 +8291,7 @@ window.N1_QUESTIONS = [
     "id": "r-112",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「堅調」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「堅調」",
     "speakText": "輸出は今月も堅調に推移している。",
@@ -7796,6 +8308,7 @@ window.N1_QUESTIONS = [
     "id": "r-113",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「顕著」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「顕著」",
     "speakText": "効果は若年層で顕著に見られた。",
@@ -7812,6 +8325,7 @@ window.N1_QUESTIONS = [
     "id": "r-114",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「弁明」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「弁明」",
     "speakText": "担当者は会見で経緯を弁明した。",
@@ -7828,6 +8342,7 @@ window.N1_QUESTIONS = [
     "id": "r-115",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「是非」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「是非」",
     "speakText": "是非を判断するには情報が不足している。",
@@ -7844,6 +8359,7 @@ window.N1_QUESTIONS = [
     "id": "r-116",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「均衡」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「均衡」",
     "speakText": "市場の均衡が崩れ始めている。",
@@ -7860,6 +8376,7 @@ window.N1_QUESTIONS = [
     "id": "r-117",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「偏る」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「偏る」",
     "speakText": "意見が一方に偏るのは望ましくない。",
@@ -7876,6 +8393,7 @@ window.N1_QUESTIONS = [
     "id": "r-118",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「陳述」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「陳述」",
     "speakText": "証人は事実関係を陳述した。",
@@ -7892,6 +8410,7 @@ window.N1_QUESTIONS = [
     "id": "r-119",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「煩雑」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「煩雑」",
     "speakText": "申請手続きが煩雑だという声が多い。",
@@ -7908,6 +8427,7 @@ window.N1_QUESTIONS = [
     "id": "r-120",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「緻密」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「緻密」",
     "speakText": "緻密な分析が評価された。",
@@ -7924,6 +8444,7 @@ window.N1_QUESTIONS = [
     "id": "r-121",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「遂行」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「遂行」",
     "speakText": "計画を遂行するには人材が必要だ。",
@@ -7940,6 +8461,7 @@ window.N1_QUESTIONS = [
     "id": "r-122",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「擁護」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「擁護」",
     "speakText": "委員はその方針を擁護した。",
@@ -7956,6 +8478,7 @@ window.N1_QUESTIONS = [
     "id": "r-123",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「棄却」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「棄却」",
     "speakText": "裁判所は請求を棄却した。",
@@ -7972,6 +8495,7 @@ window.N1_QUESTIONS = [
     "id": "r-124",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「措辞」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「措辞」",
     "speakText": "報告書の措辞には注意が必要だ。",
@@ -7988,6 +8512,7 @@ window.N1_QUESTIONS = [
     "id": "r-125",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「概ね」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「概ね」",
     "speakText": "参加者の反応は概ね良好だった。",
@@ -8004,6 +8529,7 @@ window.N1_QUESTIONS = [
     "id": "r-126",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「担う」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「担う」",
     "speakText": "若い世代が地域の将来を担う。",
@@ -8020,6 +8546,7 @@ window.N1_QUESTIONS = [
     "id": "r-127",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「募る」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「募る」",
     "speakText": "不安が日増しに募っていった。",
@@ -8036,6 +8563,7 @@ window.N1_QUESTIONS = [
     "id": "r-128",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「諮る」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「諮る」",
     "speakText": "委員会に対応を諮ることにした。",
@@ -8052,6 +8580,7 @@ window.N1_QUESTIONS = [
     "id": "r-129",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「滞納」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「滞納」",
     "speakText": "税金を滞納している世帯が増えた。",
@@ -8068,6 +8597,7 @@ window.N1_QUESTIONS = [
     "id": "r-130",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「是認」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「是認」",
     "speakText": "その判断を是認する意見が多かった。",
@@ -8084,6 +8614,7 @@ window.N1_QUESTIONS = [
     "id": "r-131",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「脅威」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「脅威」",
     "speakText": "感染症は社会にとって大きな脅威だ。",
@@ -8100,6 +8631,7 @@ window.N1_QUESTIONS = [
     "id": "r-132",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「弾力」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「弾力」",
     "speakText": "弾力的な運用が求められる。",
@@ -8116,6 +8648,7 @@ window.N1_QUESTIONS = [
     "id": "r-133",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「抑制」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「抑制」",
     "speakText": "価格の上昇を抑制する政策が必要だ。",
@@ -8132,6 +8665,7 @@ window.N1_QUESTIONS = [
     "id": "r-134",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「委ねる」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「委ねる」",
     "speakText": "最終判断は専門家に委ねる。",
@@ -8148,6 +8682,7 @@ window.N1_QUESTIONS = [
     "id": "r-135",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「携わる」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「携わる」",
     "speakText": "彼は長年、教育事業に携わってきた。",
@@ -8164,6 +8699,7 @@ window.N1_QUESTIONS = [
     "id": "r-136",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「阻む」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「阻む」",
     "speakText": "高い費用が普及を阻んでいる。",
@@ -8180,6 +8716,7 @@ window.N1_QUESTIONS = [
     "id": "r-137",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「憤る」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「憤る」",
     "speakText": "住民は説明不足に憤っている。",
@@ -8196,6 +8733,7 @@ window.N1_QUESTIONS = [
     "id": "r-138",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「潤う」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「潤う」",
     "speakText": "観光客の増加で地域経済が潤った。",
@@ -8212,6 +8750,7 @@ window.N1_QUESTIONS = [
     "id": "r-139",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「賄う」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「賄う」",
     "speakText": "運営費は寄付で賄われている。",
@@ -8228,6 +8767,7 @@ window.N1_QUESTIONS = [
     "id": "r-140",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「培う」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「培う」",
     "speakText": "現場で判断力を培うことができる。",
@@ -8244,6 +8784,7 @@ window.N1_QUESTIONS = [
     "id": "r-141",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「貫く」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「貫く」",
     "speakText": "彼は最後まで自分の信念を貫いた。",
@@ -8260,6 +8801,7 @@ window.N1_QUESTIONS = [
     "id": "r-142",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「繕う」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「繕う」",
     "speakText": "彼はその場を取り繕うように笑った。",
@@ -8276,6 +8818,7 @@ window.N1_QUESTIONS = [
     "id": "r-143",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「鑑みる」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「鑑みる」",
     "speakText": "現状に鑑みて計画を見直す。",
@@ -8292,6 +8835,7 @@ window.N1_QUESTIONS = [
     "id": "r-144",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「省みる」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「省みる」",
     "speakText": "自らの行動を省みる必要がある。",
@@ -8308,6 +8852,7 @@ window.N1_QUESTIONS = [
     "id": "r-145",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「蔑ろ」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「蔑ろ」",
     "speakText": "安全対策を蔑ろにしてはならない。",
@@ -8324,6 +8869,7 @@ window.N1_QUESTIONS = [
     "id": "r-146",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「健やか」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「健やか」",
     "speakText": "子どもが健やかに育つ環境を整える。",
@@ -8340,6 +8886,7 @@ window.N1_QUESTIONS = [
     "id": "r-147",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「厳か」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「厳か」",
     "speakText": "式典は厳かな雰囲気で行われた。",
@@ -8356,6 +8903,7 @@ window.N1_QUESTIONS = [
     "id": "r-148",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「朗らか」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「朗らか」",
     "speakText": "彼女はいつも朗らかに話す。",
@@ -8372,6 +8920,7 @@ window.N1_QUESTIONS = [
     "id": "r-149",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「滑らか」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「滑らか」",
     "speakText": "発表は滑らかで聞き取りやすかった。",
@@ -8388,6 +8937,7 @@ window.N1_QUESTIONS = [
     "id": "r-150",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "단어 읽기",
     "title": "「速やか」の読み方として正しいものを選びなさい。",
     "prompt": "次の語を正しく読めるか確認しなさい。「速やか」",
     "speakText": "問題が発生した場合は速やかに報告する。",
@@ -8404,6 +8954,7 @@ window.N1_QUESTIONS = [
     "id": "r-151",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「促す」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「促す」の読み方を選びなさい。",
     "speakText": "政府は企業に賃上げを促す方針を示した。",
@@ -8420,6 +8971,7 @@ window.N1_QUESTIONS = [
     "id": "r-152",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「著しい」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「著しい」の読み方を選びなさい。",
     "speakText": "この十年で通信技術は著しい進歩を遂げた。",
@@ -8436,6 +8988,7 @@ window.N1_QUESTIONS = [
     "id": "r-153",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「措置」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「措置」の読み方を選びなさい。",
     "speakText": "市は混雑を避けるため、臨時の措置を講じた。",
@@ -8452,6 +9005,7 @@ window.N1_QUESTIONS = [
     "id": "r-154",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「是正」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「是正」の読み方を選びなさい。",
     "speakText": "不公平な制度を是正する必要がある。",
@@ -8468,6 +9022,7 @@ window.N1_QUESTIONS = [
     "id": "r-155",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「滞る」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「滞る」の読み方を選びなさい。",
     "speakText": "手続きが滞ると、支払いが遅れるおそれがある。",
@@ -8484,6 +9039,7 @@ window.N1_QUESTIONS = [
     "id": "r-156",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「顧みる」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「顧みる」の読み方を選びなさい。",
     "speakText": "過去の失敗を顧みることは、次の判断に役立つ。",
@@ -8500,6 +9056,7 @@ window.N1_QUESTIONS = [
     "id": "r-157",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「堪える」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「堪える」の読み方を選びなさい。",
     "speakText": "批判に堪える資料を用意しなければならない。",
@@ -8516,6 +9073,7 @@ window.N1_QUESTIONS = [
     "id": "r-158",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「遂げる」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「遂げる」の読み方を選びなさい。",
     "speakText": "彼は長年の研究で大きな成果を遂げた。",
@@ -8532,6 +9090,7 @@ window.N1_QUESTIONS = [
     "id": "r-159",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「脆弱」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「脆弱」の読み方を選びなさい。",
     "speakText": "その地域の通信網は災害に対して脆弱だ。",
@@ -8548,6 +9107,7 @@ window.N1_QUESTIONS = [
     "id": "r-160",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「一括」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「一括」の読み方を選びなさい。",
     "speakText": "複数の申請を一括して処理する仕組みを導入した。",
@@ -8564,6 +9124,7 @@ window.N1_QUESTIONS = [
     "id": "r-161",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「暫定」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「暫定」の読み方を選びなさい。",
     "speakText": "暫定的な措置として窓口を増設した。",
@@ -8580,6 +9141,7 @@ window.N1_QUESTIONS = [
     "id": "r-162",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「堅調」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「堅調」の読み方を選びなさい。",
     "speakText": "輸出は今月も堅調に推移している。",
@@ -8596,6 +9158,7 @@ window.N1_QUESTIONS = [
     "id": "r-163",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「顕著」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「顕著」の読み方を選びなさい。",
     "speakText": "効果は若年層で顕著に見られた。",
@@ -8612,6 +9175,7 @@ window.N1_QUESTIONS = [
     "id": "r-164",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「弁明」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「弁明」の読み方を選びなさい。",
     "speakText": "担当者は会見で経緯を弁明した。",
@@ -8628,6 +9192,7 @@ window.N1_QUESTIONS = [
     "id": "r-165",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「是非」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「是非」の読み方を選びなさい。",
     "speakText": "是非を判断するには情報が不足している。",
@@ -8644,6 +9209,7 @@ window.N1_QUESTIONS = [
     "id": "r-166",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「均衡」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「均衡」の読み方を選びなさい。",
     "speakText": "市場の均衡が崩れ始めている。",
@@ -8660,6 +9226,7 @@ window.N1_QUESTIONS = [
     "id": "r-167",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「偏る」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「偏る」の読み方を選びなさい。",
     "speakText": "意見が一方に偏るのは望ましくない。",
@@ -8676,6 +9243,7 @@ window.N1_QUESTIONS = [
     "id": "r-168",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「陳述」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「陳述」の読み方を選びなさい。",
     "speakText": "証人は事実関係を陳述した。",
@@ -8692,6 +9260,7 @@ window.N1_QUESTIONS = [
     "id": "r-169",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「煩雑」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「煩雑」の読み方を選びなさい。",
     "speakText": "申請手続きが煩雑だという声が多い。",
@@ -8708,6 +9277,7 @@ window.N1_QUESTIONS = [
     "id": "r-170",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「緻密」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「緻密」の読み方を選びなさい。",
     "speakText": "緻密な分析が評価された。",
@@ -8724,6 +9294,7 @@ window.N1_QUESTIONS = [
     "id": "r-171",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「遂行」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「遂行」の読み方を選びなさい。",
     "speakText": "計画を遂行するには人材が必要だ。",
@@ -8740,6 +9311,7 @@ window.N1_QUESTIONS = [
     "id": "r-172",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「擁護」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「擁護」の読み方を選びなさい。",
     "speakText": "委員はその方針を擁護した。",
@@ -8756,6 +9328,7 @@ window.N1_QUESTIONS = [
     "id": "r-173",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「棄却」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「棄却」の読み方を選びなさい。",
     "speakText": "裁判所は請求を棄却した。",
@@ -8772,6 +9345,7 @@ window.N1_QUESTIONS = [
     "id": "r-174",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「措辞」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「措辞」の読み方を選びなさい。",
     "speakText": "報告書の措辞には注意が必要だ。",
@@ -8788,6 +9362,7 @@ window.N1_QUESTIONS = [
     "id": "r-175",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「概ね」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「概ね」の読み方を選びなさい。",
     "speakText": "参加者の反応は概ね良好だった。",
@@ -8804,6 +9379,7 @@ window.N1_QUESTIONS = [
     "id": "r-176",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「担う」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「担う」の読み方を選びなさい。",
     "speakText": "若い世代が地域の将来を担う。",
@@ -8820,6 +9396,7 @@ window.N1_QUESTIONS = [
     "id": "r-177",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「募る」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「募る」の読み方を選びなさい。",
     "speakText": "不安が日増しに募っていった。",
@@ -8836,6 +9413,7 @@ window.N1_QUESTIONS = [
     "id": "r-178",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「諮る」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「諮る」の読み方を選びなさい。",
     "speakText": "委員会に対応を諮ることにした。",
@@ -8852,6 +9430,7 @@ window.N1_QUESTIONS = [
     "id": "r-179",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「滞納」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「滞納」の読み方を選びなさい。",
     "speakText": "税金を滞納している世帯が増えた。",
@@ -8868,6 +9447,7 @@ window.N1_QUESTIONS = [
     "id": "r-180",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「是認」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「是認」の読み方を選びなさい。",
     "speakText": "その判断を是認する意見が多かった。",
@@ -8884,6 +9464,7 @@ window.N1_QUESTIONS = [
     "id": "r-181",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「脅威」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「脅威」の読み方を選びなさい。",
     "speakText": "感染症は社会にとって大きな脅威だ。",
@@ -8900,6 +9481,7 @@ window.N1_QUESTIONS = [
     "id": "r-182",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「弾力」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「弾力」の読み方を選びなさい。",
     "speakText": "弾力的な運用が求められる。",
@@ -8916,6 +9498,7 @@ window.N1_QUESTIONS = [
     "id": "r-183",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「抑制」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「抑制」の読み方を選びなさい。",
     "speakText": "価格の上昇を抑制する政策が必要だ。",
@@ -8932,6 +9515,7 @@ window.N1_QUESTIONS = [
     "id": "r-184",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「委ねる」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「委ねる」の読み方を選びなさい。",
     "speakText": "最終判断は専門家に委ねる。",
@@ -8948,6 +9532,7 @@ window.N1_QUESTIONS = [
     "id": "r-185",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「携わる」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「携わる」の読み方を選びなさい。",
     "speakText": "彼は長年、教育事業に携わってきた。",
@@ -8964,6 +9549,7 @@ window.N1_QUESTIONS = [
     "id": "r-186",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「阻む」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「阻む」の読み方を選びなさい。",
     "speakText": "高い費用が普及を阻んでいる。",
@@ -8980,6 +9566,7 @@ window.N1_QUESTIONS = [
     "id": "r-187",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「憤る」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「憤る」の読み方を選びなさい。",
     "speakText": "住民は説明不足に憤っている。",
@@ -8996,6 +9583,7 @@ window.N1_QUESTIONS = [
     "id": "r-188",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「潤う」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「潤う」の読み方を選びなさい。",
     "speakText": "観光客の増加で地域経済が潤った。",
@@ -9012,6 +9600,7 @@ window.N1_QUESTIONS = [
     "id": "r-189",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「賄う」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「賄う」の読み方を選びなさい。",
     "speakText": "運営費は寄付で賄われている。",
@@ -9028,6 +9617,7 @@ window.N1_QUESTIONS = [
     "id": "r-190",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「培う」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「培う」の読み方を選びなさい。",
     "speakText": "現場で判断力を培うことができる。",
@@ -9044,6 +9634,7 @@ window.N1_QUESTIONS = [
     "id": "r-191",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「貫く」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「貫く」の読み方を選びなさい。",
     "speakText": "彼は最後まで自分の信念を貫いた。",
@@ -9060,6 +9651,7 @@ window.N1_QUESTIONS = [
     "id": "r-192",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「繕う」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「繕う」の読み方を選びなさい。",
     "speakText": "彼はその場を取り繕うように笑った。",
@@ -9076,6 +9668,7 @@ window.N1_QUESTIONS = [
     "id": "r-193",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「鑑みる」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「鑑みる」の読み方を選びなさい。",
     "speakText": "現状に鑑みて計画を見直す。",
@@ -9092,6 +9685,7 @@ window.N1_QUESTIONS = [
     "id": "r-194",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「省みる」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「省みる」の読み方を選びなさい。",
     "speakText": "自らの行動を省みる必要がある。",
@@ -9108,6 +9702,7 @@ window.N1_QUESTIONS = [
     "id": "r-195",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「蔑ろ」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「蔑ろ」の読み方を選びなさい。",
     "speakText": "安全対策を蔑ろにしてはならない。",
@@ -9124,6 +9719,7 @@ window.N1_QUESTIONS = [
     "id": "r-196",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「健やか」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「健やか」の読み方を選びなさい。",
     "speakText": "子どもが健やかに育つ環境を整える。",
@@ -9140,6 +9736,7 @@ window.N1_QUESTIONS = [
     "id": "r-197",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「厳か」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「厳か」の読み方を選びなさい。",
     "speakText": "式典は厳かな雰囲気で行われた。",
@@ -9156,6 +9753,7 @@ window.N1_QUESTIONS = [
     "id": "r-198",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「朗らか」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「朗らか」の読み方を選びなさい。",
     "speakText": "彼女はいつも朗らかに話す。",
@@ -9172,6 +9770,7 @@ window.N1_QUESTIONS = [
     "id": "r-199",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「滑らか」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「滑らか」の読み方を選びなさい。",
     "speakText": "発表は滑らかで聞き取りやすかった。",
@@ -9188,6 +9787,7 @@ window.N1_QUESTIONS = [
     "id": "r-200",
     "category": "reading",
     "typeLabel": "발음",
+    "subType": "시사·평론 한자",
     "title": "「速やか」の読み方として正しいものを選びなさい。",
     "prompt": "新聞・評論文で出やすい漢字語「速やか」の読み方を選びなさい。",
     "speakText": "問題が発生した場合は速やかに報告する。",

@@ -1,16 +1,17 @@
 :root {
-  color-scheme: light;
-  --bg: #f5f3ef;
-  --panel: #ffffff;
-  --ink: #202124;
-  --muted: #62666f;
-  --line: #dcd7cf;
-  --accent: #176d73;
-  --accent-2: #9b3d2e;
-  --accent-soft: #e3f3f2;
-  --good: #1d7a46;
-  --bad: #b5342f;
-  --shadow: 0 16px 38px rgba(32, 33, 36, 0.08);
+  color-scheme: dark;
+  --bg: #11100f;
+  --panel: #1c1a18;
+  --panel-2: #25221f;
+  --ink: #f2eee8;
+  --muted: #b7aea5;
+  --line: #39342f;
+  --accent: #60d1c8;
+  --accent-2: #ffb16c;
+  --accent-soft: #173f3c;
+  --good: #69d58d;
+  --bad: #ff7c72;
+  --shadow: 0 16px 38px rgba(0, 0, 0, 0.36);
 }
 
 * {
@@ -47,7 +48,7 @@ button {
   height: 100vh;
   padding: 28px 22px;
   border-right: 1px solid var(--line);
-  background: #fbfaf7;
+  background: #161412;
 }
 
 .brand {
@@ -62,8 +63,8 @@ button {
   height: 52px;
   place-items: center;
   border-radius: 8px;
-  background: var(--ink);
-  color: #fff;
+  background: var(--accent);
+  color: #11100f;
   font-weight: 800;
 }
 
@@ -131,6 +132,13 @@ button {
   font-weight: 800;
 }
 
+.category-btn:hover,
+.ghost-btn:hover,
+.speak-btn:hover {
+  border-color: var(--accent);
+  background: var(--panel-2);
+}
+
 .workspace {
   min-width: 0;
   padding: 30px clamp(18px, 4vw, 56px) 56px;
@@ -183,17 +191,25 @@ button {
   color: var(--ink);
 }
 
+.search-box input::placeholder {
+  color: #837a72;
+}
+
 .ghost-btn {
   padding: 0 14px;
+}
+
+.reveal-btn {
+  margin-top: 20px;
 }
 
 .notice {
   margin: 0 0 18px;
   padding: 13px 14px;
-  border: 1px solid #d9c8a7;
+  border: 1px solid #6c4b2d;
   border-radius: 8px;
-  background: #fff7e8;
-  color: #5d4520;
+  background: #261c14;
+  color: #f3d2ac;
   line-height: 1.6;
 }
 
@@ -231,7 +247,7 @@ button {
 .tag {
   padding: 4px 8px;
   border-radius: 999px;
-  background: #ece8df;
+  background: #2f2a25;
   color: var(--muted);
   font-size: 12px;
   font-weight: 700;
@@ -254,7 +270,8 @@ button {
   min-height: 42px;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: #fbfaf7;
+  background: var(--panel);
+  color: var(--ink);
 }
 
 .prompt,
@@ -278,7 +295,7 @@ button {
   padding: 10px 12px;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: #fbfaf7;
+  background: var(--panel-2);
   color: var(--ink);
   text-align: left;
   line-height: 1.55;
@@ -298,12 +315,12 @@ button {
 
 .choice-btn.correct {
   border-color: var(--good);
-  background: #e7f5ec;
+  background: #173823;
 }
 
 .choice-btn.incorrect {
   border-color: var(--bad);
-  background: #fdebea;
+  background: #3d1e1c;
 }
 
 .solution {
@@ -332,7 +349,7 @@ button {
   padding: 34px;
   border: 1px dashed var(--line);
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.55);
+  background: rgba(255, 255, 255, 0.04);
   color: var(--muted);
   text-align: center;
 }

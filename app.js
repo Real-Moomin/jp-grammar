@@ -5,12 +5,16 @@ const categoryLabels = {
   reading: "발음"
 };
 
-const storageKey = "n1-practice-site-progress-v1";
+const dbName = "n1-practice-site";
+const dbVersion = 1;
+const storeName = "progress";
+const progressKey = "main";
 const questions = Array.isArray(window.N1_QUESTIONS) ? window.N1_QUESTIONS : [];
 
 let activeCategory = "all";
 let searchTerm = "";
-let progress = loadProgress();
+let dbPromise = null;
+let progress = { answers: {}, revealed: {} };
 
 const questionListEl = document.getElementById("questionList");
 const viewTitleEl = document.getElementById("viewTitle");
@@ -20,21 +24,72 @@ const answeredCountEl = document.getElementById("answeredCount");
 const correctCountEl = document.getElementById("correctCount");
 const accuracyRateEl = document.getElementById("accuracyRate");
 
-function loadProgress() {
-  try {
-    const saved = JSON.parse(window.localStorage.getItem(storageKey) || "{}");
-    return {
-      answers: saved.answers || {},
-      revealed: saved.revealed || {}
+function getDefaultProgress() {
+  return { answers: {}, revealed: {} };
+}
+
+function openProgressDb() {
+  if (dbPromise) return dbPromise;
+
+  dbPromise = new Promise((resolve, reject) => {
+    if (!("indexedDB" in window)) {
+      reject(new Error("IndexedDB is not available in this browser."));
+      return;
+    }
+
+    const request = window.indexedDB.open(dbName, dbVersion);
+
+    request.onupgradeneeded = () => {
+      const db = request.result;
+      if (!db.objectStoreNames.contains(storeName)) {
+        db.createObjectStore(storeName, { keyPath: "id" });
+      }
     };
+
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = () => reject(request.error);
+  });
+
+  return dbPromise;
+}
+
+async function readProgress() {
+  try {
+    const db = await openProgressDb();
+    return await new Promise((resolve, reject) => {
+      const transaction = db.transaction(storeName, "readonly");
+      const store = transaction.objectStore(storeName);
+      const request = store.get(progressKey);
+
+      request.onsuccess = () => {
+        const saved = request.result?.value || getDefaultProgress();
+        resolve({
+          answers: saved.answers || {},
+          revealed: saved.revealed || {}
+        });
+      };
+      request.onerror = () => reject(request.error);
+    });
   } catch (error) {
-    console.warn("Progress could not be loaded.", error);
-    return { answers: {}, revealed: {} };
+    console.warn("Progress could not be loaded from IndexedDB.", error);
+    return getDefaultProgress();
   }
 }
 
-function saveProgress() {
-  window.localStorage.setItem(storageKey, JSON.stringify(progress));
+async function saveProgress() {
+  try {
+    const db = await openProgressDb();
+    await new Promise((resolve, reject) => {
+      const transaction = db.transaction(storeName, "readwrite");
+      const store = transaction.objectStore(storeName);
+      const request = store.put({ id: progressKey, value: progress, updatedAt: Date.now() });
+
+      request.onsuccess = () => resolve();
+      request.onerror = () => reject(request.error);
+    });
+  } catch (error) {
+    console.warn("Progress could not be saved to IndexedDB.", error);
+  }
 }
 
 function normalize(value) {
@@ -50,6 +105,7 @@ function getFilteredQuestions() {
 
     const haystack = [
       question.typeLabel,
+      question.subType,
       question.title,
       question.prompt,
       question.explanation,
@@ -74,7 +130,7 @@ function toggleSolution(questionId) {
 }
 
 function resetProgress() {
-  progress = { answers: {}, revealed: {} };
+  progress = getDefaultProgress();
   saveProgress();
   render();
 }
@@ -132,6 +188,7 @@ function renderQuestion(question, index) {
   tags.className = "tag-row";
   tags.innerHTML = `
     <span class="tag primary">${question.typeLabel}</span>
+    ${question.subType ? `<span class="tag">${question.subType}</span>` : ""}
     <span class="tag">N1</span>
     <span class="tag">#${String(index + 1).padStart(2, "0")}</span>
   `;
@@ -177,7 +234,7 @@ function renderQuestion(question, index) {
 
   const revealButton = document.createElement("button");
   revealButton.type = "button";
-  revealButton.className = "ghost-btn";
+  revealButton.className = "ghost-btn reveal-btn";
   revealButton.textContent = progress.revealed[question.id] ? "해설 닫기" : "해설 보기";
   revealButton.addEventListener("click", () => toggleSolution(question.id));
 
@@ -234,4 +291,9 @@ searchInputEl.addEventListener("input", (event) => {
 
 resetBtn.addEventListener("click", resetProgress);
 
-render();
+async function initialize() {
+  progress = await readProgress();
+  render();
+}
+
+initialize();

@@ -175,6 +175,7 @@ function rotateChoices(correct, distractors, seed) {
 function makeGrammarQuestion(row, index) {
   const [correct, promptA, promptB, explanation, distractors] = row;
   const mode = Math.floor(index / grammarRows.length) % 4;
+  const subTypes = ["문법 형식 선택", "문장 의미", "문맥 문법", "의미 식별"];
   const prompt = [
     promptA,
     promptB,
@@ -186,6 +187,7 @@ function makeGrammarQuestion(row, index) {
     id: `g-${String(index + 1).padStart(3, "0")}`,
     category: "grammar",
     typeLabel: "문법",
+    subType: subTypes[mode],
     title: index % 2 === 0 ? "空欄に入る表現として最も自然なものを選びなさい。" : "文の意味に合うものを選びなさい。",
     prompt,
     choices: rotated.choices,
@@ -198,6 +200,7 @@ function makeVocabQuestion(row, index) {
   const [target, prompt, correct, distractors, explanation] = row;
   const topic = grammarTopics[index % grammarTopics.length];
   const mode = Math.floor(index / vocabRows.length) % 4;
+  const subTypes = ["문맥 어휘", "유의 표현", "뜻 식별", "용법"];
   const generatedPrompts = [
     prompt,
     `${topic}に関する記事中の「${target}」に最も近い意味を選びなさい。`,
@@ -210,6 +213,7 @@ function makeVocabQuestion(row, index) {
     id: `v-${String(index + 1).padStart(3, "0")}`,
     category: "vocabulary",
     typeLabel: "어휘",
+    subType: subTypes[mode],
     title: mode === 0 ? "文脈に合う語を選びなさい。" : "下線部に最も近い意味の語を選びなさい。",
     prompt: generatedPrompt,
     choices: rotated.choices,
@@ -222,6 +226,7 @@ function makeReadingQuestion(row, index) {
   const [target, reading, sentence, distractors] = row;
   const topic = grammarTopics[index % grammarTopics.length];
   const mode = Math.floor(index / readingRows.length) % 4;
+  const subTypes = ["한자 읽기", "문맥 한자 읽기", "단어 읽기", "시사·평론 한자"];
   const prompt = [
     sentence,
     `${topic}に関する文章で使われる「${target}」の読み方を確認しなさい。`,
@@ -233,6 +238,7 @@ function makeReadingQuestion(row, index) {
     id: `r-${String(index + 1).padStart(3, "0")}`,
     category: "reading",
     typeLabel: "발음",
+    subType: subTypes[mode],
     title: `「${target}」の読み方として正しいものを選びなさい。`,
     prompt,
     speakText: sentence,

@@ -15,6 +15,8 @@
 
 `index.html`을 브라우저로 열면 바로 동작합니다.
 
+풀이 기록과 해설 열림 상태는 브라우저의 IndexedDB에 저장됩니다.
+
 ## 데이터 교체
 
 문제는 `data.js`의 `window.N1_QUESTIONS` 배열에 있습니다. `scripts/generate-data.js`를 수정한 뒤 `node scripts/generate-data.js`를 실행하면 `data.js`가 다시 생성됩니다. 직접 작성했거나 사용 허가를 받은 문제로 이 배열을 바꿔도 됩니다.
