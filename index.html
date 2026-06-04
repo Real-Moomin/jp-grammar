@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>N1 문법·어휘·발음 연습</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="rail">
+      <div class="brand">
+        <span class="brand-mark">N1</span>
+        <div>
+          <h1>문법·어휘·발음</h1>
+          <p>오리지널 JLPT N1 연습문제</p>
+        </div>
+      </div>
+
+      <div class="stat-grid" aria-label="학습 진행률">
+        <div>
+          <span id="answeredCount">0</span>
+          <small>풀이</small>
+        </div>
+        <div>
+          <span id="correctCount">0</span>
+          <small>정답</small>
+        </div>
+        <div>
+          <span id="accuracyRate">0%</span>
+          <small>정확도</small>
+        </div>
+      </div>
+
+      <nav class="category-list" aria-label="문제 유형">
+        <button class="category-btn active" type="button" data-category="all">전체</button>
+        <button class="category-btn" type="button" data-category="grammar">문법</button>
+        <button class="category-btn" type="button" data-category="vocabulary">어휘</button>
+        <button class="category-btn" type="button" data-category="reading">발음</button>
+      </nav>
+    </aside>
+
+    <main class="workspace">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">JLPT N1 Practice</p>
+          <h2 id="viewTitle">전체 문제</h2>
+        </div>
+        <div class="toolbar">
+          <label class="search-box">
+            <span>검색</span>
+            <input id="searchInput" type="search" placeholder="표현, 한자, 해설 검색" />
+          </label>
+          <button id="resetBtn" class="ghost-btn" type="button">초기화</button>
+        </div>
+      </header>
+
+      <section class="notice">
+        Bunpro나 JLPT 기출 문항을 복제하지 않고, N1 출제 포인트를 바탕으로 만든 오리지널 600문항입니다.
+        직접 작성했거나 사용 허가를 받은 데이터가 있으면 <code>data.js</code>만 교체해 확장할 수 있습니다.
+      </section>
+
+      <section id="questionList" class="question-list" aria-live="polite"></section>
+    </main>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
