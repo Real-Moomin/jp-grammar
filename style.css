@@ -203,20 +203,6 @@ button {
   margin-top: 20px;
 }
 
-.notice {
-  margin: 0 0 18px;
-  padding: 13px 14px;
-  border: 1px solid #6c4b2d;
-  border-radius: 8px;
-  background: #261c14;
-  color: #f3d2ac;
-  line-height: 1.6;
-}
-
-.notice code {
-  font-family: Consolas, "SFMono-Regular", monospace;
-}
-
 .question-list {
   display: grid;
   gap: 14px;
