@@ -4,7 +4,7 @@ window.N1_QUESTIONS = [
     "id": "g-001",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "証言が一致している以上、彼が現場にいた＿＿＿。",
     "choices": [
@@ -20,7 +20,7 @@ window.N1_QUESTIONS = [
     "id": "g-002",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "この混乱は、情報共有を怠った結果＿＿＿。",
     "choices": [
@@ -36,7 +36,7 @@ window.N1_QUESTIONS = [
     "id": "g-003",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "長年の研究が評価された彼の喜びは想像＿＿＿。",
     "choices": [
@@ -52,7 +52,7 @@ window.N1_QUESTIONS = [
     "id": "g-004",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "担当者がすぐ戻りますので、ここでお待ち＿＿＿。",
     "choices": [
@@ -68,7 +68,7 @@ window.N1_QUESTIONS = [
     "id": "g-005",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "一度失敗したからといって、彼の能力を疑う＿＿＿。",
     "choices": [
@@ -84,7 +84,7 @@ window.N1_QUESTIONS = [
     "id": "g-006",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "この問題の重要性は、今さら説明する＿＿＿。",
     "choices": [
@@ -100,7 +100,7 @@ window.N1_QUESTIONS = [
     "id": "g-007",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "準備を怠ったままでは、合格は望む＿＿＿。",
     "choices": [
@@ -116,7 +116,7 @@ window.N1_QUESTIONS = [
     "id": "g-008",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "責任者として、問題を知りながら黙っている＿＿＿。",
     "choices": [
@@ -132,7 +132,7 @@ window.N1_QUESTIONS = [
     "id": "g-009",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "公式資料に誤りがあった以上、謝罪し＿＿＿。",
     "choices": [
@@ -148,7 +148,7 @@ window.N1_QUESTIONS = [
     "id": "g-010",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "この映画は、見る者の心を揺さぶら＿＿＿。",
     "choices": [
@@ -164,7 +164,7 @@ window.N1_QUESTIONS = [
     "id": "g-011",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "このまま対策を遅らせれば、被害が拡大し＿＿＿。",
     "choices": [
@@ -180,7 +180,7 @@ window.N1_QUESTIONS = [
     "id": "g-012",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "個人情報に関わるため、その質問にはお答え＿＿＿。",
     "choices": [
@@ -196,7 +196,7 @@ window.N1_QUESTIONS = [
     "id": "g-013",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "証拠がそろっている以上、彼の責任を認め＿＿＿。",
     "choices": [
@@ -212,7 +212,7 @@ window.N1_QUESTIONS = [
     "id": "g-014",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "被災地の状況は見る＿＿＿ほど痛ましい。",
     "choices": [
@@ -228,7 +228,7 @@ window.N1_QUESTIONS = [
     "id": "g-015",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "彼の証言は十分に信頼＿＿＿ものだ。",
     "choices": [
@@ -244,7 +244,7 @@ window.N1_QUESTIONS = [
     "id": "g-016",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "正確なデータは、政策を評価するうえで＿＿＿。",
     "choices": [
@@ -260,7 +260,7 @@ window.N1_QUESTIONS = [
     "id": "g-017",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "これは全体の一例＿＿＿、結論を急ぐべきではない。",
     "choices": [
@@ -276,7 +276,7 @@ window.N1_QUESTIONS = [
     "id": "g-018",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "環境問題は一国だけの問題＿＿＿。",
     "choices": [
@@ -292,7 +292,7 @@ window.N1_QUESTIONS = [
     "id": "g-019",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "本日に＿＿＿、入場料が無料になります。",
     "choices": [
@@ -308,7 +308,7 @@ window.N1_QUESTIONS = [
     "id": "g-020",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "急いでいる時＿＿＿、電車が遅れる。",
     "choices": [
@@ -324,7 +324,7 @@ window.N1_QUESTIONS = [
     "id": "g-021",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "有名な方法だからといって、誰にでも効果がある＿＿＿。",
     "choices": [
@@ -340,7 +340,7 @@ window.N1_QUESTIONS = [
     "id": "g-022",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "周囲の心配＿＿＿、彼は一人で計画を進めた。",
     "choices": [
@@ -356,7 +356,7 @@ window.N1_QUESTIONS = [
     "id": "g-023",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "彼女は激しい批判＿＿＿、改革を続けた。",
     "choices": [
@@ -372,7 +372,7 @@ window.N1_QUESTIONS = [
     "id": "g-024",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "東京公演＿＿＿、全国ツアーが始まった。",
     "choices": [
@@ -388,7 +388,7 @@ window.N1_QUESTIONS = [
     "id": "g-025",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "京都＿＿＿、各地で伝統行事が行われる。",
     "choices": [
@@ -404,7 +404,7 @@ window.N1_QUESTIONS = [
     "id": "g-026",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "年齢や職業＿＿＿、誰でも応募できます。",
     "choices": [
@@ -420,7 +420,7 @@ window.N1_QUESTIONS = [
     "id": "g-027",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "予算の配分＿＿＿、激しい議論が続いている。",
     "choices": [
@@ -436,7 +436,7 @@ window.N1_QUESTIONS = [
     "id": "g-028",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "留学＿＿＿、彼は研究者を志すようになった。",
     "choices": [
@@ -452,7 +452,7 @@ window.N1_QUESTIONS = [
     "id": "g-029",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "視察＿＿＿、現地の担当者と意見交換をした。",
     "choices": [
@@ -468,7 +468,7 @@ window.N1_QUESTIONS = [
     "id": "g-030",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "本日の会議はこれ＿＿＿終了いたします。",
     "choices": [
@@ -484,7 +484,7 @@ window.N1_QUESTIONS = [
     "id": "g-031",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "式典の開始＿＿＿、安全確認が行われた。",
     "choices": [
@@ -500,7 +500,7 @@ window.N1_QUESTIONS = [
     "id": "g-032",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "新制度を導入する＿＿＿、住民の意見を聞いた。",
     "choices": [
@@ -516,7 +516,7 @@ window.N1_QUESTIONS = [
     "id": "g-033",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "契約を結ぶ＿＿＿、条件を十分確認してください。",
     "choices": [
@@ -532,7 +532,7 @@ window.N1_QUESTIONS = [
     "id": "g-034",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "現場の実情＿＿＿、柔軟に対応すべきだ。",
     "choices": [
@@ -548,7 +548,7 @@ window.N1_QUESTIONS = [
     "id": "g-035",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "計画＿＿＿、作業を進めてください。",
     "choices": [
@@ -564,7 +564,7 @@ window.N1_QUESTIONS = [
     "id": "g-036",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "専門家の予想＿＿＿、景気は回復し始めた。",
     "choices": [
@@ -580,7 +580,7 @@ window.N1_QUESTIONS = [
     "id": "g-037",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "経験年数＿＿＿、研修内容を変える。",
     "choices": [
@@ -596,7 +596,7 @@ window.N1_QUESTIONS = [
     "id": "g-038",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "人口の増加＿＿＿、住宅需要も高まった。",
     "choices": [
@@ -612,7 +612,7 @@ window.N1_QUESTIONS = [
     "id": "g-039",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "調査が進む＿＿＿、新たな事実が明らかになった。",
     "choices": [
@@ -628,7 +628,7 @@ window.N1_QUESTIONS = [
     "id": "g-040",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "日が暮れる＿＿＿、気温が急に下がった。",
     "choices": [
@@ -644,7 +644,7 @@ window.N1_QUESTIONS = [
     "id": "g-041",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "写真を見る＿＿＿、故郷のことを思い出す。",
     "choices": [
@@ -660,7 +660,7 @@ window.N1_QUESTIONS = [
     "id": "g-042",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "結果の厳しさ＿＿＿、準備不足を痛感する。",
     "choices": [
@@ -676,7 +676,7 @@ window.N1_QUESTIONS = [
     "id": "g-043",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "理由がある＿＿＿、約束を破るのは問題だ。",
     "choices": [
@@ -692,7 +692,7 @@ window.N1_QUESTIONS = [
     "id": "g-044",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "計画が遅れる＿＿＿、品質は落とせない。",
     "choices": [
@@ -708,7 +708,7 @@ window.N1_QUESTIONS = [
     "id": "g-045",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "連休初日＿＿＿、空港は朝から混雑していた。",
     "choices": [
@@ -724,7 +724,7 @@ window.N1_QUESTIONS = [
     "id": "g-046",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "市民の安全のため＿＿＿、多少の負担は避けられない。",
     "choices": [
@@ -740,7 +740,7 @@ window.N1_QUESTIONS = [
     "id": "g-047",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "専門家＿＿＿、すべてを予測できるわけではない。",
     "choices": [
@@ -756,7 +756,7 @@ window.N1_QUESTIONS = [
     "id": "g-048",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "制度は改善された＿＿＿、課題はまだ多い。",
     "choices": [
@@ -772,7 +772,7 @@ window.N1_QUESTIONS = [
     "id": "g-049",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "不安を抱え＿＿＿、彼は発表を最後までやり遂げた。",
     "choices": [
@@ -788,7 +788,7 @@ window.N1_QUESTIONS = [
     "id": "g-050",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문법 형식 선택",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "説明は受けた＿＿＿、完全には納得できなかった。",
     "choices": [
@@ -804,7 +804,7 @@ window.N1_QUESTIONS = [
     "id": "g-051",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "複数の記録が残っている以上、この判断は妥当だった＿＿＿。",
     "choices": [
@@ -820,7 +820,7 @@ window.N1_QUESTIONS = [
     "id": "g-052",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "彼の成功は、地道な努力の積み重ね＿＿＿。",
     "choices": [
@@ -836,7 +836,7 @@ window.N1_QUESTIONS = [
     "id": "g-053",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "突然の閉店を知らされた住民の戸惑いは察する＿＿＿。",
     "choices": [
@@ -852,7 +852,7 @@ window.N1_QUESTIONS = [
     "id": "g-054",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "軽い確認だけですから、部長に報告する＿＿＿。",
     "choices": [
@@ -868,7 +868,7 @@ window.N1_QUESTIONS = [
     "id": "g-055",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "数値が少し下がっただけで、計画全体を否定する＿＿＿。",
     "choices": [
@@ -884,7 +884,7 @@ window.N1_QUESTIONS = [
     "id": "g-056",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "彼が信頼できる人物であることは、改めて言う＿＿＿。",
     "choices": [
@@ -900,7 +900,7 @@ window.N1_QUESTIONS = [
     "id": "g-057",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "証拠がない以上、真相を断定す＿＿＿。",
     "choices": [
@@ -916,7 +916,7 @@ window.N1_QUESTIONS = [
     "id": "g-058",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "約束した以上、途中で投げ出す＿＿＿。",
     "choices": [
@@ -932,7 +932,7 @@ window.N1_QUESTIONS = [
     "id": "g-059",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "安全管理を怠った責任は問われ＿＿＿。",
     "choices": [
@@ -948,7 +948,7 @@ window.N1_QUESTIONS = [
     "id": "g-060",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "彼の発言は、議論を呼ば＿＿＿。",
     "choices": [
@@ -964,7 +964,7 @@ window.N1_QUESTIONS = [
     "id": "g-061",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "曖昧な説明では、誤解を招き＿＿＿。",
     "choices": [
@@ -980,7 +980,7 @@ window.N1_QUESTIONS = [
     "id": "g-062",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "社内規定により、資料の外部提供はいたし＿＿＿。",
     "choices": [
@@ -996,7 +996,7 @@ window.N1_QUESTIONS = [
     "id": "g-063",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "天候が悪化したため、試合は中止せ＿＿＿。",
     "choices": [
@@ -1012,7 +1012,7 @@ window.N1_QUESTIONS = [
     "id": "g-064",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "根拠のない中傷は聞く＿＿＿。",
     "choices": [
@@ -1028,7 +1028,7 @@ window.N1_QUESTIONS = [
     "id": "g-065",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "この調査は政策判断の根拠とする＿＿＿。",
     "choices": [
@@ -1044,7 +1044,7 @@ window.N1_QUESTIONS = [
     "id": "g-066",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "語彙力は、長文を読むうえで＿＿＿。",
     "choices": [
@@ -1060,7 +1060,7 @@ window.N1_QUESTIONS = [
     "id": "g-067",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "彼の発言は個人的な感想＿＿＿。",
     "choices": [
@@ -1076,7 +1076,7 @@ window.N1_QUESTIONS = [
     "id": "g-068",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "高度な読解力は専門家だけに必要なもの＿＿＿。",
     "choices": [
@@ -1092,7 +1092,7 @@ window.N1_QUESTIONS = [
     "id": "g-069",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "予約した方＿＿＿、資料を配布します。",
     "choices": [
@@ -1108,7 +1108,7 @@ window.N1_QUESTIONS = [
     "id": "g-070",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "大事な日に＿＿＿、予想外の問題が起きる。",
     "choices": [
@@ -1124,7 +1124,7 @@ window.N1_QUESTIONS = [
     "id": "g-071",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "高価な教材が必ずしも最良＿＿＿。",
     "choices": [
@@ -1140,7 +1140,7 @@ window.N1_QUESTIONS = [
     "id": "g-072",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "住民の反対＿＿＿、工事は予定通り始まった。",
     "choices": [
@@ -1156,7 +1156,7 @@ window.N1_QUESTIONS = [
     "id": "g-073",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "選手たちは悪天候＿＿＿、最後まで走り抜いた。",
     "choices": [
@@ -1172,7 +1172,7 @@ window.N1_QUESTIONS = [
     "id": "g-074",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "新制度の導入＿＿＿、各地で改革が進んだ。",
     "choices": [
@@ -1188,7 +1188,7 @@ window.N1_QUESTIONS = [
     "id": "g-075",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "部長＿＿＿、多くの社員が会議に参加した。",
     "choices": [
@@ -1204,7 +1204,7 @@ window.N1_QUESTIONS = [
     "id": "g-076",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "昼夜＿＿＿、相談を受け付けています。",
     "choices": [
@@ -1220,7 +1220,7 @@ window.N1_QUESTIONS = [
     "id": "g-077",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "新駅の建設＿＿＿、住民の意見が分かれている。",
     "choices": [
@@ -1236,7 +1236,7 @@ window.N1_QUESTIONS = [
     "id": "g-078",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "震災＿＿＿、防災意識が高まった。",
     "choices": [
@@ -1252,7 +1252,7 @@ window.N1_QUESTIONS = [
     "id": "g-079",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "散歩＿＿＿、近所の店を見て回った。",
     "choices": [
@@ -1268,7 +1268,7 @@ window.N1_QUESTIONS = [
     "id": "g-080",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "この書面＿＿＿正式な回答といたします。",
     "choices": [
@@ -1284,7 +1284,7 @@ window.N1_QUESTIONS = [
     "id": "g-081",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "調査の実施＿＿＿、説明会を開いた。",
     "choices": [
@@ -1300,7 +1300,7 @@ window.N1_QUESTIONS = [
     "id": "g-082",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "報告書をまとめる＿＿＿、最新資料を確認した。",
     "choices": [
@@ -1316,7 +1316,7 @@ window.N1_QUESTIONS = [
     "id": "g-083",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "海外へ渡航する＿＿＿、保険への加入を勧めます。",
     "choices": [
@@ -1332,7 +1332,7 @@ window.N1_QUESTIONS = [
     "id": "g-084",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "法律の趣旨＿＿＿、制度を運用する必要がある。",
     "choices": [
@@ -1348,7 +1348,7 @@ window.N1_QUESTIONS = [
     "id": "g-085",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "利用者の要望＿＿＿、機能を改善した。",
     "choices": [
@@ -1364,7 +1364,7 @@ window.N1_QUESTIONS = [
     "id": "g-086",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "周囲の期待＿＿＿、結果は厳しいものだった。",
     "choices": [
@@ -1380,7 +1380,7 @@ window.N1_QUESTIONS = [
     "id": "g-087",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "状況＿＿＿、対応方法を選ぶ必要がある。",
     "choices": [
@@ -1396,7 +1396,7 @@ window.N1_QUESTIONS = [
     "id": "g-088",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "技術の発展＿＿＿、働き方も変化した。",
     "choices": [
@@ -1412,7 +1412,7 @@ window.N1_QUESTIONS = [
     "id": "g-089",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "年齢を重ねる＿＿＿、価値観も少しずつ変わる。",
     "choices": [
@@ -1428,7 +1428,7 @@ window.N1_QUESTIONS = [
     "id": "g-090",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "練習を重ねる＿＿＿、表現が自然になった。",
     "choices": [
@@ -1444,7 +1444,7 @@ window.N1_QUESTIONS = [
     "id": "g-091",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "彼の努力を聞く＿＿＿、自分も頑張らねばと思う。",
     "choices": [
@@ -1460,7 +1460,7 @@ window.N1_QUESTIONS = [
     "id": "g-092",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "彼の冷静さ＿＿＿、経験の差を感じる。",
     "choices": [
@@ -1476,7 +1476,7 @@ window.N1_QUESTIONS = [
     "id": "g-093",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "忙しい＿＿＿、連絡くらいはできたはずだ。",
     "choices": [
@@ -1492,7 +1492,7 @@ window.N1_QUESTIONS = [
     "id": "g-094",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "反対意見が出る＿＿＿、説明を続ける必要がある。",
     "choices": [
@@ -1508,7 +1508,7 @@ window.N1_QUESTIONS = [
     "id": "g-095",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "有名作家の講演＿＿＿、会場は満員だった。",
     "choices": [
@@ -1524,7 +1524,7 @@ window.N1_QUESTIONS = [
     "id": "g-096",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "子どもの将来のため＿＿＿、親は何でもしたいと思うものだ。",
     "choices": [
@@ -1540,7 +1540,7 @@ window.N1_QUESTIONS = [
     "id": "g-097",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "経験豊富な彼＿＿＿、今回の判断には迷った。",
     "choices": [
@@ -1556,7 +1556,7 @@ window.N1_QUESTIONS = [
     "id": "g-098",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "合格した＿＿＿、実力不足は否めない。",
     "choices": [
@@ -1572,7 +1572,7 @@ window.N1_QUESTIONS = [
     "id": "g-099",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "空欄に入る表現として最も自然なものを選びなさい。",
     "prompt": "小規模＿＿＿、その会社は独自の技術を持っている。",
     "choices": [
@@ -1588,7 +1588,7 @@ window.N1_QUESTIONS = [
     "id": "g-100",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문장 의미",
+    "subType": "문법 빈칸",
     "title": "文の意味に合うものを選びなさい。",
     "prompt": "計画は承認された＿＿＿、実施時期は未定だ。",
     "choices": [
@@ -1604,1601 +1604,1601 @@ window.N1_QUESTIONS = [
     "id": "g-101",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 事実だと強く判断する表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "企業が新制度を導入する際には、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "に相違ない",
-      "にほかならない",
-      "には及ばない",
-      "にかたくない"
+      "費用の問題だけでなく",
+      "現場で働く人の声にも",
+      "耳を傾けたうえで",
+      "判断する"
     ],
-    "answer": 1,
-    "explanation": "「に相違ない」は事実だと強く判断する表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「声にも耳を傾けたうえで判断する」という語順が自然です。"
   },
   {
     "id": "g-102",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: それ以外ではないと断定する表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "調査結果を読むときは、＿＿ ＿＿ ＿★＿ ＿＿姿勢が求められる。",
     "choices": [
-      "に相違ない",
-      "に限らない",
-      "とはいえ",
-      "にほかならない"
+      "注目するだけでなく",
+      "その背景を",
+      "慎重に見る",
+      "数字の大きさに"
     ],
-    "answer": 4,
-    "explanation": "「にほかならない」はそれ以外ではないと断定する表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「背景を見る」がまとまり、その前に「その」が来ます。"
   },
   {
     "id": "g-103",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 容易に想像できる、理解できるという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "都市の安全を考えるなら、＿＿ ＿＿ ＿★＿ ＿＿対策が欠かせない。",
     "choices": [
-      "に及ばない",
-      "にひきかえ",
-      "にかたくない",
-      "にたえない"
+      "平時から備える",
+      "ための",
+      "災害が起きてから",
+      "対応するのではなく"
     ],
-    "answer": 3,
-    "explanation": "「にかたくない」は容易に想像できる、理解できるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 1,
+    "explanation": "「平時から備えるための対策」という連体修飾になります。"
   },
   {
     "id": "g-104",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: そうする必要はないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "研究発表では、＿＿ ＿＿ ＿★＿ ＿＿説明することが重要だ。",
     "choices": [
-      "に越したことはない",
-      "には及ばない",
-      "にはあたらない",
-      "にかたくない"
+      "順序立てて",
+      "結論を先に示し",
+      "その根拠を",
+      "資料に即して"
     ],
-    "answer": 2,
-    "explanation": "「には及ばない」はそうする必要はないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「資料に即して順序立てて説明する」が自然です。"
   },
   {
     "id": "g-105",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: その判断や行為をするほどではないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "制度を変える以上、＿＿ ＿＿ ＿★＿ ＿＿避けては通れない。",
     "choices": [
-      "にはあたらない",
-      "にたえない",
-      "に限らない",
-      "にもまして"
+      "利用者にとっての",
+      "利点と負担を",
+      "具体的に示す",
+      "作業は"
     ],
-    "answer": 1,
-    "explanation": "「にはあたらない」はその判断や行為をするほどではないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「作業は避けては通れない」と主題になります。"
   },
   {
     "id": "g-106",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: わざわざそうする必要がないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "彼の提案は、＿＿ ＿＿ ＿★＿ ＿＿点で評価できる。",
     "choices": [
-      "べくもない",
-      "にはあたらない",
-      "にたえない",
-      "までもない"
+      "長期的な維持を",
+      "重視している",
+      "という",
+      "短期的な効果よりも"
     ],
-    "answer": 4,
-    "explanation": "「までもない」はわざわざそうする必要がないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「という点で評価できる」が文末につながります。"
   },
   {
     "id": "g-107",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: そうすることは不可能だという硬い表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "国際会議では、＿＿ ＿＿ ＿★＿ ＿＿発言が求められる。",
     "choices": [
-      "に越したことはない",
-      "にかたくない",
-      "べくもない",
-      "までもない"
+      "相手国の立場にも",
+      "配慮した",
+      "自国の利益を",
+      "主張するだけでなく"
     ],
-    "answer": 3,
-    "explanation": "「べくもない」はそうすることは不可能だという硬い表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「配慮した発言」が名詞を修飾します。"
   },
   {
     "id": "g-108",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 事情や責任があってできないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "環境問題は、＿＿ ＿＿ ＿★＿ ＿＿解決できるものではない。",
     "choices": [
-      "きらいがある",
-      "わけにはいかない",
-      "ことはない",
-      "には及ばない"
+      "解決できる",
+      "一つの企業が",
+      "努力したからといって",
+      "すぐに"
     ],
-    "answer": 2,
-    "explanation": "「わけにはいかない」は事情や責任があってできないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「すぐに解決できるものではない」が自然です。"
   },
   {
     "id": "g-109",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 避けられず、必ずそうなるという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "新しい技術は、＿＿ ＿＿ ＿★＿ ＿＿導入すべきだ。",
     "choices": [
-      "ないではすまない",
-      "ないとも限らない",
-      "ずにはおかない",
-      "ないまでも"
+      "便利さだけに",
+      "目を向けるのではなく",
+      "社会への影響も",
+      "見極めて"
     ],
-    "answer": 1,
-    "explanation": "「ないではすまない」は避けられず、必ずそうなるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「見極めて導入する」という動作の順序です。"
   },
   {
     "id": "g-110",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 自然にそうさせる、必ずそうなるという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "少子化対策を考えるには、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "ないではすまない",
-      "ずじまいだ",
-      "かねない",
-      "ずにはおかない"
+      "負担を軽くする",
+      "仕組みを",
+      "整える",
+      "子育て世代の"
     ],
-    "answer": 4,
-    "explanation": "「ずにはおかない」は自然にそうさせる、必ずそうなるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「仕組みを整える必要がある」と目的語がまとまります。"
   },
   {
     "id": "g-111",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 悪い結果になる可能性があるという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "企業が新制度を導入する際には、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "ざるを得ない",
-      "にたえない",
-      "かねない",
-      "かねる"
+      "耳を傾けたうえで",
+      "判断する",
+      "費用の問題だけでなく",
+      "現場で働く人の声にも"
     ],
-    "answer": 3,
-    "explanation": "「かねない」は悪い結果になる可能性があるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 1,
+    "explanation": "「声にも耳を傾けたうえで判断する」という語順が自然です。"
   },
   {
     "id": "g-112",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 丁寧に、できないと言う表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "調査結果を読むときは、＿＿ ＿＿ ＿★＿ ＿＿姿勢が求められる。",
     "choices": [
-      "ずにはおかない",
-      "かねる",
-      "かねない",
-      "えない"
+      "慎重に見る",
+      "数字の大きさに",
+      "注目するだけでなく",
+      "その背景を"
     ],
-    "answer": 2,
-    "explanation": "「かねる」は丁寧に、できないと言う表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「背景を見る」がまとまり、その前に「その」が来ます。"
   },
   {
     "id": "g-113",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: そうするしかないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "都市の安全を考えるなら、＿＿ ＿＿ ＿★＿ ＿＿対策が欠かせない。",
     "choices": [
-      "ざるを得ない",
-      "ないではすまない",
-      "にたえない",
-      "べくもない"
+      "災害が起きてから",
+      "対応するのではなく",
+      "平時から備える",
+      "ための"
     ],
-    "answer": 1,
-    "explanation": "「ざるを得ない」はそうするしかないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「平時から備えるための対策」という連体修飾になります。"
   },
   {
     "id": "g-114",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 見たり聞いたりするのがつらい、価値がないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "研究発表では、＿＿ ＿＿ ＿★＿ ＿＿説明することが重要だ。",
     "choices": [
-      "にかたくない",
-      "に足る",
-      "に即して",
-      "にたえない"
+      "その根拠を",
+      "資料に即して",
+      "順序立てて",
+      "結論を先に示し"
     ],
-    "answer": 4,
-    "explanation": "「にたえない」は見たり聞いたりするのがつらい、価値がないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「資料に即して順序立てて説明する」が自然です。"
   },
   {
     "id": "g-115",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: そうする価値や資格があるという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "制度を変える以上、＿＿ ＿＿ ＿★＿ ＿＿避けては通れない。",
     "choices": [
-      "に欠かせない",
-      "には及ばない",
-      "に足る",
-      "にたえない"
+      "具体的に示す",
+      "作業は",
+      "利用者にとっての",
+      "利点と負担を"
     ],
-    "answer": 3,
-    "explanation": "「に足る」はそうする価値や資格があるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「作業は避けては通れない」と主題になります。"
   },
   {
     "id": "g-116",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 絶対に必要だという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "彼の提案は、＿＿ ＿＿ ＿★＿ ＿＿点で評価できる。",
     "choices": [
-      "にたえない",
-      "に欠かせない",
-      "に限らない",
-      "にすぎない"
+      "という",
+      "短期的な効果よりも",
+      "長期的な維持を",
+      "重視している"
     ],
-    "answer": 2,
-    "explanation": "「に欠かせない」は絶対に必要だという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 1,
+    "explanation": "「という点で評価できる」が文末につながります。"
   },
   {
     "id": "g-117",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: ただそれだけで、それ以上ではないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "国際会議では、＿＿ ＿＿ ＿★＿ ＿＿発言が求められる。",
     "choices": [
-      "にすぎない",
-      "にほかならない",
-      "に相違ない",
-      "とはいえ"
+      "自国の利益を",
+      "主張するだけでなく",
+      "相手国の立場にも",
+      "配慮した"
     ],
-    "answer": 1,
-    "explanation": "「にすぎない」はただそれだけで、それ以上ではないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「配慮した発言」が名詞を修飾します。"
   },
   {
     "id": "g-118",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: その範囲だけではないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "環境問題は、＿＿ ＿＿ ＿★＿ ＿＿解決できるものではない。",
     "choices": [
-      "にすぎない",
-      "に限り",
-      "にほかならない",
-      "に限らない"
+      "努力したからといって",
+      "すぐに",
+      "解決できる",
+      "一つの企業が"
     ],
-    "answer": 4,
-    "explanation": "「に限らない」はその範囲だけではないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「すぐに解決できるものではない」が自然です。"
   },
   {
     "id": "g-119",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: その条件や範囲だけに限定する表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "新しい技術は、＿＿ ＿＿ ＿★＿ ＿＿導入すべきだ。",
     "choices": [
-      "に限って",
-      "に限らない",
-      "に限り",
-      "に限らず"
+      "社会への影響も",
+      "見極めて",
+      "便利さだけに",
+      "目を向けるのではなく"
     ],
-    "answer": 3,
-    "explanation": "「に限り」はその条件や範囲だけに限定する表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「見極めて導入する」という動作の順序です。"
   },
   {
     "id": "g-120",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: よりによってその時に、という不満や意外感を表します。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "少子化対策を考えるには、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "とは限らない",
-      "に限って",
-      "に限り",
-      "に限らず"
+      "整える",
+      "子育て世代の",
+      "負担を軽くする",
+      "仕組みを"
     ],
-    "answer": 2,
-    "explanation": "「に限って」はよりによってその時に、という不満や意外感を表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 1,
+    "explanation": "「仕組みを整える必要がある」と目的語がまとまります。"
   },
   {
     "id": "g-121",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 必ずそうだとは言えないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "企業が新制度を導入する際には、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "とは限らない",
-      "に限らない",
-      "に限って",
-      "に相違ない"
+      "費用の問題だけでなく",
+      "現場で働く人の声にも",
+      "耳を傾けたうえで",
+      "判断する"
     ],
-    "answer": 1,
-    "explanation": "「とは限らない」は必ずそうだとは言えないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「声にも耳を傾けたうえで判断する」という語順が自然です。"
   },
   {
     "id": "g-122",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 周囲の状況を気にせずに、という意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "調査結果を読むときは、＿＿ ＿＿ ＿★＿ ＿＿姿勢が求められる。",
     "choices": [
-      "をものともせず",
-      "を皮切りに",
-      "をめぐって",
-      "をよそに"
+      "注目するだけでなく",
+      "その背景を",
+      "慎重に見る",
+      "数字の大きさに"
     ],
-    "answer": 4,
-    "explanation": "「をよそに」は周囲の状況を気にせずに、という意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「背景を見る」がまとまり、その前に「その」が来ます。"
   },
   {
     "id": "g-123",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 困難を問題にせず立ち向かう意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "都市の安全を考えるなら、＿＿ ＿＿ ＿★＿ ＿＿対策が欠かせない。",
     "choices": [
-      "を契機に",
-      "を問わず",
-      "をものともせず",
-      "をよそに"
+      "平時から備える",
+      "ための",
+      "災害が起きてから",
+      "対応するのではなく"
     ],
-    "answer": 3,
-    "explanation": "「をものともせず」は困難を問題にせず立ち向かう意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 1,
+    "explanation": "「平時から備えるための対策」という連体修飾になります。"
   },
   {
     "id": "g-124",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: それを最初として次々続くという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "研究発表では、＿＿ ＿＿ ＿★＿ ＿＿説明することが重要だ。",
     "choices": [
-      "に先立ち",
-      "を皮切りに",
-      "をはじめ",
-      "をめぐって"
+      "順序立てて",
+      "結論を先に示し",
+      "その根拠を",
+      "資料に即して"
     ],
-    "answer": 2,
-    "explanation": "「を皮切りに」はそれを最初として次々続くという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「資料に即して順序立てて説明する」が自然です。"
   },
   {
     "id": "g-125",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 代表例を挙げる表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "制度を変える以上、＿＿ ＿＿ ＿★＿ ＿＿避けては通れない。",
     "choices": [
-      "をはじめ",
-      "を皮切りに",
-      "を問わず",
-      "をもって"
+      "利用者にとっての",
+      "利点と負担を",
+      "具体的に示す",
+      "作業は"
     ],
-    "answer": 1,
-    "explanation": "「をはじめ」は代表例を挙げる表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「作業は避けては通れない」と主題になります。"
   },
   {
     "id": "g-126",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 区別せず、関係なくという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "彼の提案は、＿＿ ＿＿ ＿★＿ ＿＿点で評価できる。",
     "choices": [
-      "をめぐって",
-      "を通じて",
-      "を兼ねて",
-      "を問わず"
+      "長期的な維持を",
+      "重視している",
+      "という",
+      "短期的な効果よりも"
     ],
-    "answer": 4,
-    "explanation": "「を問わず」は区別せず、関係なくという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「という点で評価できる」が文末につながります。"
   },
   {
     "id": "g-127",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: ある話題を中心に議論や対立が起こる表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "国際会議では、＿＿ ＿＿ ＿★＿ ＿＿発言が求められる。",
     "choices": [
-      "を問わず",
-      "をもって",
-      "をめぐって",
-      "を皮切りに"
+      "相手国の立場にも",
+      "配慮した",
+      "自国の利益を",
+      "主張するだけでなく"
     ],
-    "answer": 3,
-    "explanation": "「をめぐって」はある話題を中心に議論や対立が起こる表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「配慮した発言」が名詞を修飾します。"
   },
   {
     "id": "g-128",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: それがきっかけで変化が起こるという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "環境問題は、＿＿ ＿＿ ＿★＿ ＿＿解決できるものではない。",
     "choices": [
-      "を問わず",
-      "を契機に",
-      "をよそに",
-      "を兼ねて"
+      "解決できる",
+      "一つの企業が",
+      "努力したからといって",
+      "すぐに"
     ],
-    "answer": 2,
-    "explanation": "「を契機に」はそれがきっかけで変化が起こるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「すぐに解決できるものではない」が自然です。"
   },
   {
     "id": "g-129",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 一つの行動が別の目的も持つことを表します。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "新しい技術は、＿＿ ＿＿ ＿★＿ ＿＿導入すべきだ。",
     "choices": [
-      "を兼ねて",
-      "をめぐって",
-      "を問わず",
-      "を皮切りに"
+      "便利さだけに",
+      "目を向けるのではなく",
+      "社会への影響も",
+      "見極めて"
     ],
-    "answer": 1,
-    "explanation": "「を兼ねて」は一つの行動が別の目的も持つことを表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「見極めて導入する」という動作の順序です。"
   },
   {
     "id": "g-130",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 手段・期限・区切りを示す硬い表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "少子化対策を考えるには、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "をよそに",
-      "を契機に",
-      "をはじめ",
-      "をもって"
+      "負担を軽くする",
+      "仕組みを",
+      "整える",
+      "子育て世代の"
     ],
-    "answer": 4,
-    "explanation": "「をもって」は手段・期限・区切りを示す硬い表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「仕組みを整える必要がある」と目的語がまとまります。"
   },
   {
     "id": "g-131",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 何かの前に行うことを表します。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "企業が新制度を導入する際には、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "に際して",
-      "を皮切りに",
-      "に先立ち",
-      "にあたり"
+      "耳を傾けたうえで",
+      "判断する",
+      "費用の問題だけでなく",
+      "現場で働く人の声にも"
     ],
-    "answer": 3,
-    "explanation": "「に先立ち」は何かの前に行うことを表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 1,
+    "explanation": "「声にも耳を傾けたうえで判断する」という語順が自然です。"
   },
   {
     "id": "g-132",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 重要な行為を始める時に、という意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "調査結果を読むときは、＿＿ ＿＿ ＿★＿ ＿＿姿勢が求められる。",
     "choices": [
-      "につけ",
-      "にあたり",
-      "に先立ち",
-      "に際して"
+      "慎重に見る",
+      "数字の大きさに",
+      "注目するだけでなく",
+      "その背景を"
     ],
-    "answer": 2,
-    "explanation": "「にあたり」は重要な行為を始める時に、という意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「背景を見る」がまとまり、その前に「その」が来ます。"
   },
   {
     "id": "g-133",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 特別な場面や機会に、という硬い表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "都市の安全を考えるなら、＿＿ ＿＿ ＿★＿ ＿＿対策が欠かせない。",
     "choices": [
-      "に際して",
-      "にあたり",
-      "に先立ち",
-      "に即して"
+      "災害が起きてから",
+      "対応するのではなく",
+      "平時から備える",
+      "ための"
     ],
-    "answer": 1,
-    "explanation": "「に際して」は特別な場面や機会に、という硬い表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「平時から備えるための対策」という連体修飾になります。"
   },
   {
     "id": "g-134",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 基準や実情に合わせて、という意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "研究発表では、＿＿ ＿＿ ＿★＿ ＿＿説明することが重要だ。",
     "choices": [
-      "に反して",
-      "に沿って",
-      "に応じて",
-      "に即して"
+      "その根拠を",
+      "資料に即して",
+      "順序立てて",
+      "結論を先に示し"
     ],
-    "answer": 4,
-    "explanation": "「に即して」は基準や実情に合わせて、という意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「資料に即して順序立てて説明する」が自然です。"
   },
   {
     "id": "g-135",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 方針や流れに従う意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "制度を変える以上、＿＿ ＿＿ ＿★＿ ＿＿避けては通れない。",
     "choices": [
-      "に反して",
-      "に伴って",
-      "に沿って",
-      "に即して"
+      "具体的に示す",
+      "作業は",
+      "利用者にとっての",
+      "利点と負担を"
     ],
-    "answer": 3,
-    "explanation": "「に沿って」は方針や流れに従う意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「作業は避けては通れない」と主題になります。"
   },
   {
     "id": "g-136",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 予想・期待・規則と逆になることを表します。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "彼の提案は、＿＿ ＿＿ ＿★＿ ＿＿点で評価できる。",
     "choices": [
-      "に伴って",
-      "に反して",
-      "に即して",
-      "に沿って"
+      "という",
+      "短期的な効果よりも",
+      "長期的な維持を",
+      "重視している"
     ],
-    "answer": 2,
-    "explanation": "「に反して」は予想・期待・規則と逆になることを表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 1,
+    "explanation": "「という点で評価できる」が文末につながります。"
   },
   {
     "id": "g-137",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 状況や条件に合わせて変える意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "国際会議では、＿＿ ＿＿ ＿★＿ ＿＿発言が求められる。",
     "choices": [
-      "に応じて",
-      "に限って",
-      "に沿って",
-      "に先立って"
+      "自国の利益を",
+      "主張するだけでなく",
+      "相手国の立場にも",
+      "配慮した"
     ],
-    "answer": 1,
-    "explanation": "「に応じて」は状況や条件に合わせて変える意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「配慮した発言」が名詞を修飾します。"
   },
   {
     "id": "g-138",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 一方の変化とともに他方も変わる意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "環境問題は、＿＿ ＿＿ ＿★＿ ＿＿解決できるものではない。",
     "choices": [
-      "に応じて",
-      "に反して",
-      "に先立ち",
-      "に伴って"
+      "努力したからといって",
+      "すぐに",
+      "解決できる",
+      "一つの企業が"
     ],
-    "answer": 4,
-    "explanation": "「に伴って」は一方の変化とともに他方も変わる意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「すぐに解決できるものではない」が自然です。"
   },
   {
     "id": "g-139",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 変化が進むにつれて別の変化も起きる意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "新しい技術は、＿＿ ＿＿ ＿★＿ ＿＿導入すべきだ。",
     "choices": [
-      "に先立って",
-      "に限って",
-      "にしたがって",
-      "に伴って"
+      "社会への影響も",
+      "見極めて",
+      "便利さだけに",
+      "目を向けるのではなく"
     ],
-    "answer": 3,
-    "explanation": "「にしたがって」は変化が進むにつれて別の変化も起きる意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「見極めて導入する」という動作の順序です。"
   },
   {
     "id": "g-140",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 時間や変化に合わせて別の変化が起こる表現です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "少子化対策を考えるには、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "に際して",
-      "につれて",
-      "にしたがって",
-      "に応じて"
+      "整える",
+      "子育て世代の",
+      "負担を軽くする",
+      "仕組みを"
     ],
-    "answer": 2,
-    "explanation": "「につれて」は時間や変化に合わせて別の変化が起こる表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 1,
+    "explanation": "「仕組みを整える必要がある」と目的語がまとまります。"
   },
   {
     "id": "g-141",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 何かをきっかけに毎回そう感じる意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "企業が新制度を導入する際には、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "につけ",
-      "に際して",
-      "にあたり",
-      "につれて"
+      "費用の問題だけでなく",
+      "現場で働く人の声にも",
+      "耳を傾けたうえで",
+      "判断する"
     ],
-    "answer": 1,
-    "explanation": "「につけ」は何かをきっかけに毎回そう感じる意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「声にも耳を傾けたうえで判断する」という語順が自然です。"
   },
   {
     "id": "g-142",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: それを考えても、という感慨を表します。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "調査結果を読むときは、＿＿ ＿＿ ＿★＿ ＿＿姿勢が求められる。",
     "choices": [
-      "につけ",
-      "にしても",
-      "においても",
-      "につけても"
+      "注目するだけでなく",
+      "その背景を",
+      "慎重に見る",
+      "数字の大きさに"
     ],
-    "answer": 4,
-    "explanation": "「につけても」はそれを考えても、という感慨を表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「背景を見る」がまとまり、その前に「その」が来ます。"
   },
   {
     "id": "g-143",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: たとえそうだとしても、という譲歩です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "都市の安全を考えるなら、＿＿ ＿＿ ＿★＿ ＿＿対策が欠かせない。",
     "choices": [
-      "としても",
-      "にあっても",
-      "にしても",
-      "につけても"
+      "平時から備える",
+      "ための",
+      "災害が起きてから",
+      "対応するのではなく"
     ],
-    "answer": 3,
-    "explanation": "「にしても」はたとえそうだとしても、という譲歩です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 1,
+    "explanation": "「平時から備えるための対策」という連体修飾になります。"
   },
   {
     "id": "g-144",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 仮にそうであっても、という意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "研究発表では、＿＿ ＿＿ ＿★＿ ＿＿説明することが重要だ。",
     "choices": [
-      "とあって",
-      "としても",
-      "にしても",
-      "にしたって"
+      "順序立てて",
+      "結論を先に示し",
+      "その根拠を",
+      "資料に即して"
     ],
-    "answer": 2,
-    "explanation": "「としても」は仮にそうであっても、という意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「資料に即して順序立てて説明する」が自然です。"
   },
   {
     "id": "g-145",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 特別な事情があるので当然そうなるという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "制度を変える以上、＿＿ ＿＿ ＿★＿ ＿＿避けては通れない。",
     "choices": [
-      "とあって",
-      "とあれば",
-      "といえども",
-      "としても"
+      "利用者にとっての",
+      "利点と負担を",
+      "具体的に示す",
+      "作業は"
     ],
-    "answer": 1,
-    "explanation": "「とあって」は特別な事情があるので当然そうなるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「作業は避けては通れない」と主題になります。"
   },
   {
     "id": "g-146",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: もしそのためなら、という強い条件です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "彼の提案は、＿＿ ＿＿ ＿★＿ ＿＿点で評価できる。",
     "choices": [
-      "とあって",
-      "といえども",
-      "ともなると",
-      "とあれば"
+      "長期的な維持を",
+      "重視している",
+      "という",
+      "短期的な効果よりも"
     ],
-    "answer": 4,
-    "explanation": "「とあれば」はもしそのためなら、という強い条件です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「という点で評価できる」が文末につながります。"
   },
   {
     "id": "g-147",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: たとえその立場でも例外ではないという意味です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "国際会議では、＿＿ ＿＿ ＿★＿ ＿＿発言が求められる。",
     "choices": [
-      "としても",
-      "とはいえ",
-      "といえども",
-      "とあれば"
+      "相手国の立場にも",
+      "配慮した",
+      "自国の利益を",
+      "主張するだけでなく"
     ],
-    "answer": 3,
-    "explanation": "「といえども」はたとえその立場でも例外ではないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 2,
+    "explanation": "「配慮した発言」が名詞を修飾します。"
   },
   {
     "id": "g-148",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: そうではあるが、という逆接です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "環境問題は、＿＿ ＿＿ ＿★＿ ＿＿解決できるものではない。",
     "choices": [
-      "とあって",
-      "とはいえ",
-      "といえども",
-      "にしても"
+      "解決できる",
+      "一つの企業が",
+      "努力したからといって",
+      "すぐに"
     ],
-    "answer": 2,
-    "explanation": "「とはいえ」はそうではあるが、という逆接です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「すぐに解決できるものではない」が自然です。"
   },
   {
     "id": "g-149",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: そういう状態でありながら、という逆接です。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "新しい技術は、＿＿ ＿＿ ＿★＿ ＿＿導入すべきだ。",
     "choices": [
-      "ながらも",
-      "つつも",
-      "ものの",
-      "とはいえ"
+      "便利さだけに",
+      "目を向けるのではなく",
+      "社会への影響も",
+      "見極めて"
     ],
-    "answer": 1,
-    "explanation": "「ながらも」はそういう状態でありながら、という逆接です。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 4,
+    "explanation": "「見極めて導入する」という動作の順序です。"
   },
   {
     "id": "g-150",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "문맥 문법",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "次の説明に合う文法表現を選びなさい。説明: 事実を認めた上で逆の内容を述べます。",
+    "subType": "문장배열 ★",
+    "title": "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+    "prompt": "少子化対策を考えるには、＿＿ ＿＿ ＿★＿ ＿＿必要がある。",
     "choices": [
-      "ながらも",
-      "とはいえ",
-      "にもかかわらず",
-      "ものの"
+      "負担を軽くする",
+      "仕組みを",
+      "整える",
+      "子育て世代の"
     ],
-    "answer": 4,
-    "explanation": "「ものの」は事実を認めた上で逆の内容を述べます。 JLPT N1で頻出する機能語の識別問題です。"
+    "answer": 3,
+    "explanation": "「仕組みを整える必要がある」と目的語がまとまります。"
   },
   {
     "id": "g-151",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 事実だと強く判断する表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "地域の商店街では客足が減っている。＿＿、そこを交流の場として見直す動きも出てきた。",
     "choices": [
-      "には及ばない",
-      "にかたくない",
-      "に相違ない",
-      "にほかならない"
+      "ところで",
+      "かえって",
+      "とはいえ",
+      "すると"
     ],
     "answer": 3,
-    "explanation": "「に相違ない」は事実だと強く判断する表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文を認めたうえで別の見方を示す逆接です。"
   },
   {
     "id": "g-152",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: それ以外ではないと断定する表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "新しい制度は便利だ。＿＿、使い方を知らない人への説明がなければ定着しない。",
     "choices": [
+      "なぜなら",
       "とはいえ",
-      "にほかならない",
-      "に相違ない",
-      "に限らない"
+      "それゆえ",
+      "しかも"
     ],
     "answer": 2,
-    "explanation": "「にほかならない」はそれ以外ではないと断定する表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "便利であることを認めつつ課題を述べています。"
   },
   {
     "id": "g-153",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 容易に想像できる、理解できるという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "会議では賛成意見が多かった。＿＿、反対意見の中にも検討すべき点があった。",
     "choices": [
-      "にかたくない",
-      "にたえない",
-      "に及ばない",
-      "にひきかえ"
+      "その一方で",
+      "つまり",
+      "したがって",
+      "たとえば"
     ],
     "answer": 1,
-    "explanation": "「にかたくない」は容易に想像できる、理解できるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "対比して別の側面を示す表現です。"
   },
   {
     "id": "g-154",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうする必要はないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この調査は対象者が少ない。＿＿、結果を一般化するには慎重であるべきだ。",
     "choices": [
-      "にはあたらない",
-      "にかたくない",
-      "に越したことはない",
-      "には及ばない"
+      "ところが",
+      "一方",
+      "むしろ",
+      "したがって"
     ],
     "answer": 4,
-    "explanation": "「には及ばない」はそうする必要はないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前の理由から結論を導く接続です。"
   },
   {
     "id": "g-155",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: その判断や行為をするほどではないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "技術の進歩は生活を便利にした。＿＿、個人情報の管理という新たな課題も生んだ。",
     "choices": [
-      "に限らない",
-      "にもまして",
-      "にはあたらない",
-      "にたえない"
+      "つまり",
+      "そのため",
+      "その一方で",
+      "たとえば"
     ],
     "answer": 3,
-    "explanation": "「にはあたらない」はその判断や行為をするほどではないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "利点と課題を対比しています。"
   },
   {
     "id": "g-156",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: わざわざそうする必要がないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この計画には費用がかかる。＿＿、将来の維持費まで考えると、今の投資は必要だ。",
     "choices": [
-      "にたえない",
-      "までもない",
-      "べくもない",
-      "にはあたらない"
+      "なぜなら",
+      "もっとも",
+      "しかも",
+      "そこで"
     ],
     "answer": 2,
-    "explanation": "「までもない」はわざわざそうする必要がないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文をいったん認め、補足的に別の判断を示します。"
   },
   {
     "id": "g-157",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうすることは不可能だという硬い表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "資料は十分に見える。＿＿、肝心な調査方法が明記されていない。",
     "choices": [
-      "べくもない",
-      "までもない",
-      "に越したことはない",
-      "にかたくない"
+      "しかしながら",
+      "そのうえ",
+      "したがって",
+      "たとえば"
     ],
     "answer": 1,
-    "explanation": "「べくもない」はそうすることは不可能だという硬い表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "逆接で問題点を示しています。"
   },
   {
     "id": "g-158",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 事情や責任があってできないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "利用者の声を聞くことは重要だ。＿＿、すべての要望をそのまま採用できるわけではない。",
     "choices": [
-      "ことはない",
-      "には及ばない",
-      "きらいがある",
-      "わけにはいかない"
+      "そのため",
+      "また",
+      "つまり",
+      "とはいえ"
     ],
     "answer": 4,
-    "explanation": "「わけにはいかない」は事情や責任があってできないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "譲歩したうえで制限を述べています。"
   },
   {
     "id": "g-159",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 避けられず、必ずそうなるという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "都市に緑を増やす取り組みが進んでいる。＿＿、維持管理の負担をどう分担するかが課題だ。",
     "choices": [
-      "ずにはおかない",
-      "ないまでも",
-      "ないではすまない",
-      "ないとも限らない"
+      "したがって",
+      "たとえば",
+      "一方で",
+      "なぜなら"
     ],
     "answer": 3,
-    "explanation": "「ないではすまない」は避けられず、必ずそうなるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "肯定的な動きと課題を対比します。"
   },
   {
     "id": "g-160",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 自然にそうさせる、必ずそうなるという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "彼の説明は分かりやすかった。＿＿、根拠となる資料が不足していた点は否めない。",
     "choices": [
-      "かねない",
-      "ずにはおかない",
-      "ないではすまない",
-      "ずじまいだ"
+      "その結果",
+      "ただし",
+      "すると",
+      "つまり"
     ],
     "answer": 2,
-    "explanation": "「ずにはおかない」は自然にそうさせる、必ずそうなるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文に条件や留保を加えています。"
   },
   {
     "id": "g-161",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 悪い結果になる可能性があるという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "地域の商店街では客足が減っている。＿＿、そこを交流の場として見直す動きも出てきた。",
     "choices": [
-      "かねない",
-      "かねる",
-      "ざるを得ない",
-      "にたえない"
+      "とはいえ",
+      "すると",
+      "ところで",
+      "かえって"
     ],
     "answer": 1,
-    "explanation": "「かねない」は悪い結果になる可能性があるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文を認めたうえで別の見方を示す逆接です。"
   },
   {
     "id": "g-162",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 丁寧に、できないと言う表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "新しい制度は便利だ。＿＿、使い方を知らない人への説明がなければ定着しない。",
     "choices": [
-      "かねない",
-      "えない",
-      "ずにはおかない",
-      "かねる"
+      "それゆえ",
+      "しかも",
+      "なぜなら",
+      "とはいえ"
     ],
     "answer": 4,
-    "explanation": "「かねる」は丁寧に、できないと言う表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "便利であることを認めつつ課題を述べています。"
   },
   {
     "id": "g-163",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうするしかないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "会議では賛成意見が多かった。＿＿、反対意見の中にも検討すべき点があった。",
     "choices": [
-      "にたえない",
-      "べくもない",
-      "ざるを得ない",
-      "ないではすまない"
+      "したがって",
+      "たとえば",
+      "その一方で",
+      "つまり"
     ],
     "answer": 3,
-    "explanation": "「ざるを得ない」はそうするしかないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "対比して別の側面を示す表現です。"
   },
   {
     "id": "g-164",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 見たり聞いたりするのがつらい、価値がないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この調査は対象者が少ない。＿＿、結果を一般化するには慎重であるべきだ。",
     "choices": [
-      "に即して",
-      "にたえない",
-      "にかたくない",
-      "に足る"
+      "むしろ",
+      "したがって",
+      "ところが",
+      "一方"
     ],
     "answer": 2,
-    "explanation": "「にたえない」は見たり聞いたりするのがつらい、価値がないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前の理由から結論を導く接続です。"
   },
   {
     "id": "g-165",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうする価値や資格があるという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "技術の進歩は生活を便利にした。＿＿、個人情報の管理という新たな課題も生んだ。",
     "choices": [
-      "に足る",
-      "にたえない",
-      "に欠かせない",
-      "には及ばない"
+      "その一方で",
+      "たとえば",
+      "つまり",
+      "そのため"
     ],
     "answer": 1,
-    "explanation": "「に足る」はそうする価値や資格があるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "利点と課題を対比しています。"
   },
   {
     "id": "g-166",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 絶対に必要だという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この計画には費用がかかる。＿＿、将来の維持費まで考えると、今の投資は必要だ。",
     "choices": [
-      "に限らない",
-      "にすぎない",
-      "にたえない",
-      "に欠かせない"
+      "しかも",
+      "そこで",
+      "なぜなら",
+      "もっとも"
     ],
     "answer": 4,
-    "explanation": "「に欠かせない」は絶対に必要だという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文をいったん認め、補足的に別の判断を示します。"
   },
   {
     "id": "g-167",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: ただそれだけで、それ以上ではないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "資料は十分に見える。＿＿、肝心な調査方法が明記されていない。",
     "choices": [
-      "に相違ない",
-      "とはいえ",
-      "にすぎない",
-      "にほかならない"
+      "したがって",
+      "たとえば",
+      "しかしながら",
+      "そのうえ"
     ],
     "answer": 3,
-    "explanation": "「にすぎない」はただそれだけで、それ以上ではないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "逆接で問題点を示しています。"
   },
   {
     "id": "g-168",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: その範囲だけではないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "利用者の声を聞くことは重要だ。＿＿、すべての要望をそのまま採用できるわけではない。",
     "choices": [
-      "にほかならない",
-      "に限らない",
-      "にすぎない",
-      "に限り"
+      "つまり",
+      "とはいえ",
+      "そのため",
+      "また"
     ],
     "answer": 2,
-    "explanation": "「に限らない」はその範囲だけではないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "譲歩したうえで制限を述べています。"
   },
   {
     "id": "g-169",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: その条件や範囲だけに限定する表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "都市に緑を増やす取り組みが進んでいる。＿＿、維持管理の負担をどう分担するかが課題だ。",
     "choices": [
-      "に限り",
-      "に限らず",
-      "に限って",
-      "に限らない"
+      "一方で",
+      "なぜなら",
+      "したがって",
+      "たとえば"
     ],
     "answer": 1,
-    "explanation": "「に限り」はその条件や範囲だけに限定する表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "肯定的な動きと課題を対比します。"
   },
   {
     "id": "g-170",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: よりによってその時に、という不満や意外感を表します。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "彼の説明は分かりやすかった。＿＿、根拠となる資料が不足していた点は否めない。",
     "choices": [
-      "に限り",
-      "に限らず",
-      "とは限らない",
-      "に限って"
+      "すると",
+      "つまり",
+      "その結果",
+      "ただし"
     ],
     "answer": 4,
-    "explanation": "「に限って」はよりによってその時に、という不満や意外感を表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文に条件や留保を加えています。"
   },
   {
     "id": "g-171",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 必ずそうだとは言えないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "地域の商店街では客足が減っている。＿＿、そこを交流の場として見直す動きも出てきた。",
     "choices": [
-      "に限って",
-      "に相違ない",
-      "とは限らない",
-      "に限らない"
+      "ところで",
+      "かえって",
+      "とはいえ",
+      "すると"
     ],
     "answer": 3,
-    "explanation": "「とは限らない」は必ずそうだとは言えないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文を認めたうえで別の見方を示す逆接です。"
   },
   {
     "id": "g-172",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 周囲の状況を気にせずに、という意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "新しい制度は便利だ。＿＿、使い方を知らない人への説明がなければ定着しない。",
     "choices": [
-      "をめぐって",
-      "をよそに",
-      "をものともせず",
-      "を皮切りに"
+      "なぜなら",
+      "とはいえ",
+      "それゆえ",
+      "しかも"
     ],
     "answer": 2,
-    "explanation": "「をよそに」は周囲の状況を気にせずに、という意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "便利であることを認めつつ課題を述べています。"
   },
   {
     "id": "g-173",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 困難を問題にせず立ち向かう意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "会議では賛成意見が多かった。＿＿、反対意見の中にも検討すべき点があった。",
     "choices": [
-      "をものともせず",
-      "をよそに",
-      "を契機に",
-      "を問わず"
+      "その一方で",
+      "つまり",
+      "したがって",
+      "たとえば"
     ],
     "answer": 1,
-    "explanation": "「をものともせず」は困難を問題にせず立ち向かう意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "対比して別の側面を示す表現です。"
   },
   {
     "id": "g-174",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: それを最初として次々続くという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この調査は対象者が少ない。＿＿、結果を一般化するには慎重であるべきだ。",
     "choices": [
-      "をはじめ",
-      "をめぐって",
-      "に先立ち",
-      "を皮切りに"
+      "ところが",
+      "一方",
+      "むしろ",
+      "したがって"
     ],
     "answer": 4,
-    "explanation": "「を皮切りに」はそれを最初として次々続くという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前の理由から結論を導く接続です。"
   },
   {
     "id": "g-175",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 代表例を挙げる表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "技術の進歩は生活を便利にした。＿＿、個人情報の管理という新たな課題も生んだ。",
     "choices": [
-      "を問わず",
-      "をもって",
-      "をはじめ",
-      "を皮切りに"
+      "つまり",
+      "そのため",
+      "その一方で",
+      "たとえば"
     ],
     "answer": 3,
-    "explanation": "「をはじめ」は代表例を挙げる表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "利点と課題を対比しています。"
   },
   {
     "id": "g-176",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 区別せず、関係なくという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この計画には費用がかかる。＿＿、将来の維持費まで考えると、今の投資は必要だ。",
     "choices": [
-      "を兼ねて",
-      "を問わず",
-      "をめぐって",
-      "を通じて"
+      "なぜなら",
+      "もっとも",
+      "しかも",
+      "そこで"
     ],
     "answer": 2,
-    "explanation": "「を問わず」は区別せず、関係なくという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文をいったん認め、補足的に別の判断を示します。"
   },
   {
     "id": "g-177",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: ある話題を中心に議論や対立が起こる表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "資料は十分に見える。＿＿、肝心な調査方法が明記されていない。",
     "choices": [
-      "をめぐって",
-      "を皮切りに",
-      "を問わず",
-      "をもって"
+      "しかしながら",
+      "そのうえ",
+      "したがって",
+      "たとえば"
     ],
     "answer": 1,
-    "explanation": "「をめぐって」はある話題を中心に議論や対立が起こる表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "逆接で問題点を示しています。"
   },
   {
     "id": "g-178",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: それがきっかけで変化が起こるという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "利用者の声を聞くことは重要だ。＿＿、すべての要望をそのまま採用できるわけではない。",
     "choices": [
-      "をよそに",
-      "を兼ねて",
-      "を問わず",
-      "を契機に"
+      "そのため",
+      "また",
+      "つまり",
+      "とはいえ"
     ],
     "answer": 4,
-    "explanation": "「を契機に」はそれがきっかけで変化が起こるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "譲歩したうえで制限を述べています。"
   },
   {
     "id": "g-179",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 一つの行動が別の目的も持つことを表します。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "都市に緑を増やす取り組みが進んでいる。＿＿、維持管理の負担をどう分担するかが課題だ。",
     "choices": [
-      "を問わず",
-      "を皮切りに",
-      "を兼ねて",
-      "をめぐって"
+      "したがって",
+      "たとえば",
+      "一方で",
+      "なぜなら"
     ],
     "answer": 3,
-    "explanation": "「を兼ねて」は一つの行動が別の目的も持つことを表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "肯定的な動きと課題を対比します。"
   },
   {
     "id": "g-180",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 手段・期限・区切りを示す硬い表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "彼の説明は分かりやすかった。＿＿、根拠となる資料が不足していた点は否めない。",
     "choices": [
-      "をはじめ",
-      "をもって",
-      "をよそに",
-      "を契機に"
+      "その結果",
+      "ただし",
+      "すると",
+      "つまり"
     ],
     "answer": 2,
-    "explanation": "「をもって」は手段・期限・区切りを示す硬い表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文に条件や留保を加えています。"
   },
   {
     "id": "g-181",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 何かの前に行うことを表します。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "地域の商店街では客足が減っている。＿＿、そこを交流の場として見直す動きも出てきた。",
     "choices": [
-      "に先立ち",
-      "にあたり",
-      "に際して",
-      "を皮切りに"
+      "とはいえ",
+      "すると",
+      "ところで",
+      "かえって"
     ],
     "answer": 1,
-    "explanation": "「に先立ち」は何かの前に行うことを表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文を認めたうえで別の見方を示す逆接です。"
   },
   {
     "id": "g-182",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 重要な行為を始める時に、という意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "新しい制度は便利だ。＿＿、使い方を知らない人への説明がなければ定着しない。",
     "choices": [
-      "に先立ち",
-      "に際して",
-      "につけ",
-      "にあたり"
+      "それゆえ",
+      "しかも",
+      "なぜなら",
+      "とはいえ"
     ],
     "answer": 4,
-    "explanation": "「にあたり」は重要な行為を始める時に、という意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "便利であることを認めつつ課題を述べています。"
   },
   {
     "id": "g-183",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 特別な場面や機会に、という硬い表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "会議では賛成意見が多かった。＿＿、反対意見の中にも検討すべき点があった。",
     "choices": [
-      "に先立ち",
-      "に即して",
-      "に際して",
-      "にあたり"
+      "したがって",
+      "たとえば",
+      "その一方で",
+      "つまり"
     ],
     "answer": 3,
-    "explanation": "「に際して」は特別な場面や機会に、という硬い表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "対比して別の側面を示す表現です。"
   },
   {
     "id": "g-184",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 基準や実情に合わせて、という意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この調査は対象者が少ない。＿＿、結果を一般化するには慎重であるべきだ。",
     "choices": [
-      "に応じて",
-      "に即して",
-      "に反して",
-      "に沿って"
+      "むしろ",
+      "したがって",
+      "ところが",
+      "一方"
     ],
     "answer": 2,
-    "explanation": "「に即して」は基準や実情に合わせて、という意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前の理由から結論を導く接続です。"
   },
   {
     "id": "g-185",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 方針や流れに従う意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "技術の進歩は生活を便利にした。＿＿、個人情報の管理という新たな課題も生んだ。",
     "choices": [
-      "に沿って",
-      "に即して",
-      "に反して",
-      "に伴って"
+      "その一方で",
+      "たとえば",
+      "つまり",
+      "そのため"
     ],
     "answer": 1,
-    "explanation": "「に沿って」は方針や流れに従う意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "利点と課題を対比しています。"
   },
   {
     "id": "g-186",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 予想・期待・規則と逆になることを表します。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この計画には費用がかかる。＿＿、将来の維持費まで考えると、今の投資は必要だ。",
     "choices": [
-      "に即して",
-      "に沿って",
-      "に伴って",
-      "に反して"
+      "しかも",
+      "そこで",
+      "なぜなら",
+      "もっとも"
     ],
     "answer": 4,
-    "explanation": "「に反して」は予想・期待・規則と逆になることを表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文をいったん認め、補足的に別の判断を示します。"
   },
   {
     "id": "g-187",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 状況や条件に合わせて変える意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "資料は十分に見える。＿＿、肝心な調査方法が明記されていない。",
     "choices": [
-      "に沿って",
-      "に先立って",
-      "に応じて",
-      "に限って"
+      "したがって",
+      "たとえば",
+      "しかしながら",
+      "そのうえ"
     ],
     "answer": 3,
-    "explanation": "「に応じて」は状況や条件に合わせて変える意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "逆接で問題点を示しています。"
   },
   {
     "id": "g-188",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 一方の変化とともに他方も変わる意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "利用者の声を聞くことは重要だ。＿＿、すべての要望をそのまま採用できるわけではない。",
     "choices": [
-      "に先立ち",
-      "に伴って",
-      "に応じて",
-      "に反して"
+      "つまり",
+      "とはいえ",
+      "そのため",
+      "また"
     ],
     "answer": 2,
-    "explanation": "「に伴って」は一方の変化とともに他方も変わる意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "譲歩したうえで制限を述べています。"
   },
   {
     "id": "g-189",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 変化が進むにつれて別の変化も起きる意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "都市に緑を増やす取り組みが進んでいる。＿＿、維持管理の負担をどう分担するかが課題だ。",
     "choices": [
-      "にしたがって",
-      "に伴って",
-      "に先立って",
-      "に限って"
+      "一方で",
+      "なぜなら",
+      "したがって",
+      "たとえば"
     ],
     "answer": 1,
-    "explanation": "「にしたがって」は変化が進むにつれて別の変化も起きる意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "肯定的な動きと課題を対比します。"
   },
   {
     "id": "g-190",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 時間や変化に合わせて別の変化が起こる表現です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "彼の説明は分かりやすかった。＿＿、根拠となる資料が不足していた点は否めない。",
     "choices": [
-      "にしたがって",
-      "に応じて",
-      "に際して",
-      "につれて"
+      "すると",
+      "つまり",
+      "その結果",
+      "ただし"
     ],
     "answer": 4,
-    "explanation": "「につれて」は時間や変化に合わせて別の変化が起こる表現です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文に条件や留保を加えています。"
   },
   {
     "id": "g-191",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 何かをきっかけに毎回そう感じる意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "地域の商店街では客足が減っている。＿＿、そこを交流の場として見直す動きも出てきた。",
     "choices": [
-      "にあたり",
-      "につれて",
-      "につけ",
-      "に際して"
+      "ところで",
+      "かえって",
+      "とはいえ",
+      "すると"
     ],
     "answer": 3,
-    "explanation": "「につけ」は何かをきっかけに毎回そう感じる意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文を認めたうえで別の見方を示す逆接です。"
   },
   {
     "id": "g-192",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: それを考えても、という感慨を表します。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "新しい制度は便利だ。＿＿、使い方を知らない人への説明がなければ定着しない。",
     "choices": [
-      "においても",
-      "につけても",
-      "につけ",
-      "にしても"
+      "なぜなら",
+      "とはいえ",
+      "それゆえ",
+      "しかも"
     ],
     "answer": 2,
-    "explanation": "「につけても」はそれを考えても、という感慨を表します。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "便利であることを認めつつ課題を述べています。"
   },
   {
     "id": "g-193",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: たとえそうだとしても、という譲歩です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "会議では賛成意見が多かった。＿＿、反対意見の中にも検討すべき点があった。",
     "choices": [
-      "にしても",
-      "につけても",
-      "としても",
-      "にあっても"
+      "その一方で",
+      "つまり",
+      "したがって",
+      "たとえば"
     ],
     "answer": 1,
-    "explanation": "「にしても」はたとえそうだとしても、という譲歩です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "対比して別の側面を示す表現です。"
   },
   {
     "id": "g-194",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 仮にそうであっても、という意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この調査は対象者が少ない。＿＿、結果を一般化するには慎重であるべきだ。",
     "choices": [
-      "にしても",
-      "にしたって",
-      "とあって",
-      "としても"
+      "ところが",
+      "一方",
+      "むしろ",
+      "したがって"
     ],
     "answer": 4,
-    "explanation": "「としても」は仮にそうであっても、という意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前の理由から結論を導く接続です。"
   },
   {
     "id": "g-195",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 特別な事情があるので当然そうなるという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "技術の進歩は生活を便利にした。＿＿、個人情報の管理という新たな課題も生んだ。",
     "choices": [
-      "といえども",
-      "としても",
-      "とあって",
-      "とあれば"
+      "つまり",
+      "そのため",
+      "その一方で",
+      "たとえば"
     ],
     "answer": 3,
-    "explanation": "「とあって」は特別な事情があるので当然そうなるという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "利点と課題を対比しています。"
   },
   {
     "id": "g-196",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: もしそのためなら、という強い条件です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "この計画には費用がかかる。＿＿、将来の維持費まで考えると、今の投資は必要だ。",
     "choices": [
-      "ともなると",
-      "とあれば",
-      "とあって",
-      "といえども"
+      "なぜなら",
+      "もっとも",
+      "しかも",
+      "そこで"
     ],
     "answer": 2,
-    "explanation": "「とあれば」はもしそのためなら、という強い条件です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文をいったん認め、補足的に別の判断を示します。"
   },
   {
     "id": "g-197",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: たとえその立場でも例外ではないという意味です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "資料は十分に見える。＿＿、肝心な調査方法が明記されていない。",
     "choices": [
-      "といえども",
-      "とあれば",
-      "としても",
-      "とはいえ"
+      "しかしながら",
+      "そのうえ",
+      "したがって",
+      "たとえば"
     ],
     "answer": 1,
-    "explanation": "「といえども」はたとえその立場でも例外ではないという意味です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "逆接で問題点を示しています。"
   },
   {
     "id": "g-198",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そうではあるが、という逆接です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "利用者の声を聞くことは重要だ。＿＿、すべての要望をそのまま採用できるわけではない。",
     "choices": [
-      "といえども",
-      "にしても",
-      "とあって",
+      "そのため",
+      "また",
+      "つまり",
       "とはいえ"
     ],
     "answer": 4,
-    "explanation": "「とはいえ」はそうではあるが、という逆接です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "譲歩したうえで制限を述べています。"
   },
   {
     "id": "g-199",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "空欄に入る表現として最も自然なものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: そういう状態でありながら、という逆接です。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "都市に緑を増やす取り組みが進んでいる。＿＿、維持管理の負担をどう分担するかが課題だ。",
     "choices": [
-      "ものの",
-      "とはいえ",
-      "ながらも",
-      "つつも"
+      "したがって",
+      "たとえば",
+      "一方で",
+      "なぜなら"
     ],
     "answer": 3,
-    "explanation": "「ながらも」はそういう状態でありながら、という逆接です。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "肯定的な動きと課題を対比します。"
   },
   {
     "id": "g-200",
     "category": "grammar",
     "typeLabel": "문법",
-    "subType": "의미 식별",
-    "title": "文の意味に合うものを選びなさい。",
-    "prompt": "다음 의미에 가장 가까운 N1 문법 표현을 고르시오: 事実を認めた上で逆の内容を述べます。",
+    "subType": "문장 전체 문법",
+    "title": "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+    "prompt": "彼の説明は分かりやすかった。＿＿、根拠となる資料が不足していた点は否めない。",
     "choices": [
-      "にもかかわらず",
-      "ものの",
-      "ながらも",
-      "とはいえ"
+      "その結果",
+      "ただし",
+      "すると",
+      "つまり"
     ],
     "answer": 2,
-    "explanation": "「ものの」は事実を認めた上で逆の内容を述べます。 JLPT N1で頻出する機能語の識別問題です。"
+    "explanation": "前文に条件や留保を加えています。"
   },
   {
     "id": "v-001",
@@ -5605,800 +5605,800 @@ window.N1_QUESTIONS = [
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「見合わせる」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「見合わせる」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "縮小する",
-      "延期する",
-      "強化する",
-      "公開する"
+      "彼は駅まで見合わせるに歩いて向かった。",
+      "その知らせを聞いて、部屋全体が見合わせるした。",
+      "委員会は計画の実施を当面見合わせることにした。",
+      "会議のあと、担当者は見合わせるを机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「見合わせる」は状況を見て実行を控える、延期するという意味です。"
+    "answer": 3,
+    "explanation": "「見合わせる」は状況を見て実行を控える、延期するという意味です。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-152",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「冷静」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「冷静」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "冷静",
-      "端的",
-      "露骨",
-      "軽率"
+      "その知らせを聞いて、部屋全体が冷静した。",
+      "彼は感情的に反論せず、相手の主張を冷静に検討した。",
+      "会議のあと、担当者は冷静を机の上に置いた。",
+      "彼は駅まで冷静に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「冷静」は落ち着いて判断する文脈なので「冷静」が自然です。"
+    "answer": 2,
+    "explanation": "「冷静」は落ち着いて判断する文脈なので「冷静」が自然です。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-153",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「懸念」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「懸念」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "余地",
-      "没頭",
-      "発端",
-      "懸念"
+      "新しい制度には利点もあるが、運用面での懸念も少なくない。",
+      "会議のあと、担当者は懸念を机の上に置いた。",
+      "彼は駅まで懸念に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が懸念した。"
     ],
-    "answer": 4,
-    "explanation": "「懸念」は心配や不安材料を表す語です。"
+    "answer": 1,
+    "explanation": "「懸念」は心配や不安材料を表す語です。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-154",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「覆す」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「覆す」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "詳しく説明する",
-      "静かに収める",
-      "根本から変える",
-      "受け継ぐ"
+      "会議のあと、担当者は覆すを机の上に置いた。",
+      "彼は駅まで覆すに歩いて向かった。",
+      "その知らせを聞いて、部屋全体が覆すした。",
+      "その発言は議論の流れを覆すものだった。"
     ],
-    "answer": 3,
-    "explanation": "「覆す」はそれまでの判断や状態をひっくり返す意味です。"
+    "answer": 4,
+    "explanation": "「覆す」はそれまでの判断や状態をひっくり返す意味です。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-155",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「曖昧」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「曖昧」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "顕著",
-      "曖昧",
-      "厳密",
-      "円滑"
+      "彼は駅まで曖昧に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が曖昧した。",
+      "資料の数値に誤りがあると分かり、報告書の信頼性が曖昧になった。",
+      "会議のあと、担当者は曖昧を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「曖昧」ははっきりしない状態を表します。"
+    "answer": 3,
+    "explanation": "「曖昧」ははっきりしない状態を表します。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-156",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「悪化」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「悪化」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "悪化",
-      "緩和",
-      "模索",
-      "免除"
+      "その知らせを聞いて、部屋全体が悪化した。",
+      "都市部への人口集中は、交通や住宅の問題を悪化させている。",
+      "会議のあと、担当者は悪化を机の上に置いた。",
+      "彼は駅まで悪化に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「悪化」は問題をさらに悪くすることです。"
+    "answer": 2,
+    "explanation": "「悪化」は問題をさらに悪くすることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-157",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「応える」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「応える」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "反発する",
-      "避ける",
-      "予測する",
-      "満たす"
+      "彼女は周囲の期待に応えるため、準備を重ねた。",
+      "会議のあと、担当者は応えるを机の上に置いた。",
+      "彼は駅まで応えるに歩いて向かった。",
+      "その知らせを聞いて、部屋全体が応えるした。"
     ],
-    "answer": 4,
-    "explanation": "「応える」は期待通りの成果を出す意味です。"
+    "answer": 1,
+    "explanation": "「応える」は期待通りの成果を出す意味です。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-158",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「繊細」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「繊細」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "過剰",
-      "単調",
-      "繊細",
-      "強引"
+      "会議のあと、担当者は繊細を机の上に置いた。",
+      "彼は駅まで繊細に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が繊細した。",
+      "この作品は、日常の何気ない場面を繊細な筆致で描いている。"
     ],
-    "answer": 3,
-    "explanation": "「繊細」は細やかな描写を表します。"
+    "answer": 4,
+    "explanation": "「繊細」は細やかな描写を表します。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-159",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「裏付ける」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「裏付ける」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "投げ出して",
-      "裏付けて",
-      "見送って",
-      "取り締まって"
+      "彼は駅まで裏付けるに歩いて向かった。",
+      "その知らせを聞いて、部屋全体が裏付けるした。",
+      "調査結果は、従来の説明では不十分だという見方を裏付けるしている。",
+      "会議のあと、担当者は裏付けるを机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「裏付ける」は証拠によって支えることです。"
+    "answer": 3,
+    "explanation": "「裏付ける」は証拠によって支えることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-160",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「軽視」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「軽視」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "軽く考える",
-      "重く受け止める",
-      "細かく分析する",
-      "静かに見守る"
+      "その知らせを聞いて、部屋全体が軽視した。",
+      "社長は会見で、事態を軽視していたことを認めた。",
+      "会議のあと、担当者は軽視を机の上に置いた。",
+      "彼は駅まで軽視に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「軽視」は重要でないものとして軽く見る意味です。"
+    "answer": 2,
+    "explanation": "「軽視」は重要でないものとして軽く見る意味です。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-161",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「顕著」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「顕著」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "曖昧",
-      "円滑",
-      "慎重",
-      "顕著"
+      "政策の効果は地方都市で顕著に現れた。",
+      "会議のあと、担当者は顕著を机の上に置いた。",
+      "彼は駅まで顕著に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が顕著した。"
     ],
-    "answer": 4,
-    "explanation": "「顕著」ははっきり目立つことです。"
+    "answer": 1,
+    "explanation": "「顕著」ははっきり目立つことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-162",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「是正」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「是正」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "黙認",
-      "誇張",
-      "是正",
-      "撤回"
+      "会議のあと、担当者は是正を机の上に置いた。",
+      "彼は駅まで是正に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が是正した。",
+      "不公平な制度を是正する必要がある。"
     ],
-    "answer": 3,
-    "explanation": "「是正」は悪い点を正すことです。"
+    "answer": 4,
+    "explanation": "「是正」は悪い点を正すことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-163",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「緩和」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「緩和」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "抑圧",
-      "緩和",
-      "悪化",
-      "拡張"
+      "彼は駅まで緩和に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が緩和した。",
+      "新しい道路の開通で、朝の渋滞が緩和された。",
+      "会議のあと、担当者は緩和を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「緩和」は厳しさや程度が和らぐことです。"
+    "answer": 3,
+    "explanation": "「緩和」は厳しさや程度が和らぐことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-164",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「模索」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「模索」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "模索",
-      "免除",
-      "断念",
-      "固定"
+      "その知らせを聞いて、部屋全体が模索した。",
+      "企業は新しい収益モデルを模索している。",
+      "会議のあと、担当者は模索を机の上に置いた。",
+      "彼は駅まで模索に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「模索」は手探りで探すことです。"
+    "answer": 2,
+    "explanation": "「模索」は手探りで探すことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-165",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「妥当」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「妥当」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "露骨",
-      "軽率",
-      "過剰",
-      "妥当"
+      "その判断は現時点では妥当だと言える。",
+      "会議のあと、担当者は妥当を机の上に置いた。",
+      "彼は駅まで妥当に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が妥当した。"
     ],
-    "answer": 4,
-    "explanation": "「妥当」は適切で道理に合う意味です。"
+    "answer": 1,
+    "explanation": "「妥当」は適切で道理に合う意味です。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-166",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「精査」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「精査」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "軽視",
-      "黙認",
-      "精査",
-      "放置"
+      "会議のあと、担当者は精査を机の上に置いた。",
+      "彼は駅まで精査に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が精査した。",
+      "提出された資料をさらに精査する必要がある。"
     ],
-    "answer": 3,
-    "explanation": "「精査」は詳しく調べることです。"
+    "answer": 4,
+    "explanation": "「精査」は詳しく調べることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-167",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「示唆」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「示唆」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "隠蔽",
-      "示唆",
-      "妨害",
-      "免除"
+      "彼は駅まで示唆に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が示唆した。",
+      "この結果は、従来の仮説に問題があることを示唆している。",
+      "会議のあと、担当者は示唆を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「示唆」は直接ではなく、それとなく示すことです。"
+    "answer": 3,
+    "explanation": "「示唆」は直接ではなく、それとなく示すことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-168",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「補填」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「補填」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "補填",
-      "削減",
-      "放棄",
-      "遮断"
+      "その知らせを聞いて、部屋全体が補填した。",
+      "不足した費用は予備費で補填された。",
+      "会議のあと、担当者は補填を机の上に置いた。",
+      "彼は駅まで補填に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「補填」は不足を埋め合わせることです。"
+    "answer": 2,
+    "explanation": "「補填」は不足を埋め合わせることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-169",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「撤回」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「撤回」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "促進",
-      "維持",
-      "補強",
-      "撤回"
+      "政府は批判を受け、発表した方針を撤回した。",
+      "会議のあと、担当者は撤回を机の上に置いた。",
+      "彼は駅まで撤回に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が撤回した。"
     ],
-    "answer": 4,
-    "explanation": "「撤回」は一度出した意見や決定を取り消すことです。"
+    "answer": 1,
+    "explanation": "「撤回」は一度出した意見や決定を取り消すことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-170",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「促進」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「促進」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "撤回",
-      "凍結",
-      "促進",
-      "阻害"
+      "会議のあと、担当者は促進を机の上に置いた。",
+      "彼は駅まで促進に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が促進した。",
+      "自治体は地域産業の成長を促進する政策を打ち出した。"
     ],
-    "answer": 3,
-    "explanation": "「促進」は物事が進むように働きかけることです。"
+    "answer": 4,
+    "explanation": "「促進」は物事が進むように働きかけることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-171",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「阻害」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「阻害」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "把握",
-      "阻害",
-      "促進",
-      "補填"
+      "彼は駅まで阻害に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が阻害した。",
+      "過度な規制は新技術の普及を阻害する恐れがある。",
+      "会議のあと、担当者は阻害を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「阻害」は進行や発展を妨げることです。"
+    "answer": 3,
+    "explanation": "「阻害」は進行や発展を妨げることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-172",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「把握」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「把握」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "把握",
-      "混同",
-      "放棄",
-      "遮断"
+      "その知らせを聞いて、部屋全体が把握した。",
+      "担当者は現場の状況を正確に把握している。",
+      "会議のあと、担当者は把握を机の上に置いた。",
+      "彼は駅まで把握に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「把握」は内容や状況をつかむことです。"
+    "answer": 2,
+    "explanation": "「把握」は内容や状況をつかむことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-173",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「混同」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「混同」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "区別",
-      "補填",
-      "示唆",
-      "混同"
+      "似た制度を混同して説明すると誤解を招く。",
+      "会議のあと、担当者は混同を机の上に置いた。",
+      "彼は駅まで混同に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が混同した。"
     ],
-    "answer": 4,
-    "explanation": "「混同」は別のものを同じものとして扱うことです。"
+    "answer": 1,
+    "explanation": "「混同」は別のものを同じものとして扱うことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-174",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「区別」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「区別」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "軽視",
-      "撤回",
-      "区別",
-      "混同"
+      "会議のあと、担当者は区別を机の上に置いた。",
+      "彼は駅まで区別に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が区別した。",
+      "事実と意見を明確に区別して読む必要がある。"
     ],
-    "answer": 3,
-    "explanation": "「区別」は違いを分けて考えることです。"
+    "answer": 4,
+    "explanation": "「区別」は違いを分けて考えることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-175",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「配慮」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「配慮」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "没頭",
-      "配慮",
-      "軽率",
-      "妨害"
+      "彼は駅まで配慮に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が配慮した。",
+      "高齢者の利用にも配慮した設計が求められる。",
+      "会議のあと、担当者は配慮を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「配慮」は相手や状況を思いやることです。"
+    "answer": 3,
+    "explanation": "「配慮」は相手や状況を思いやることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-176",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「没頭」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「没頭」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "没頭",
-      "配慮",
-      "躊躇",
-      "妥協"
+      "その知らせを聞いて、部屋全体が没頭した。",
+      "彼は研究に没頭し、休日も資料を読み続けた。",
+      "会議のあと、担当者は没頭を机の上に置いた。",
+      "彼は駅まで没頭に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「没頭」は一つのことに深く集中することです。"
+    "answer": 2,
+    "explanation": "「没頭」は一つのことに深く集中することです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-177",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「躊躇」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「躊躇」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "没頭",
-      "促進",
-      "精査",
-      "躊躇"
+      "彼女は発言を求められたが、しばらく躊躇していた。",
+      "会議のあと、担当者は躊躇を机の上に置いた。",
+      "彼は駅まで躊躇に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が躊躇した。"
     ],
-    "answer": 4,
-    "explanation": "「躊躇」はためらうことです。"
+    "answer": 1,
+    "explanation": "「躊躇」はためらうことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-178",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「妥協」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「妥協」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "放棄",
-      "誇張",
-      "妥協",
-      "対立"
+      "会議のあと、担当者は妥協を机の上に置いた。",
+      "彼は駅まで妥協に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が妥協した。",
+      "双方が少しずつ譲り合い、最終的に妥協した。"
     ],
-    "answer": 3,
-    "explanation": "「妥協」は互いに譲って合意することです。"
+    "answer": 4,
+    "explanation": "「妥協」は互いに譲って合意することです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-179",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「対立」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「対立」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "融合",
-      "対立",
-      "妥協",
-      "補填"
+      "彼は駅まで対立に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が対立した。",
+      "予算案をめぐって与野党が激しく対立した。",
+      "会議のあと、担当者は対立を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「対立」は意見や立場がぶつかることです。"
+    "answer": 3,
+    "explanation": "「対立」は意見や立場がぶつかることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-180",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「融合」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「融合」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "融合",
-      "対立",
-      "遮断",
-      "撤回"
+      "その知らせを聞いて、部屋全体が融合した。",
+      "この料理は伝統的な味と現代的な感覚が融合している。",
+      "会議のあと、担当者は融合を机の上に置いた。",
+      "彼は駅まで融合に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「融合」は異なるものが一つに溶け合うことです。"
+    "answer": 2,
+    "explanation": "「融合」は異なるものが一つに溶け合うことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-181",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「露骨」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「露骨」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "婉曲",
-      "冷静",
-      "緻密",
-      "露骨"
+      "彼の露骨な批判に、会場の空気が張りつめた。",
+      "会議のあと、担当者は露骨を机の上に置いた。",
+      "彼は駅まで露骨に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が露骨した。"
     ],
-    "answer": 4,
-    "explanation": "「露骨」は遠慮なくはっきり表すさまです。"
+    "answer": 1,
+    "explanation": "「露骨」は遠慮なくはっきり表すさまです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-182",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「婉曲」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「婉曲」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "軽率",
-      "過剰",
-      "婉曲",
-      "露骨"
+      "会議のあと、担当者は婉曲を机の上に置いた。",
+      "彼は駅まで婉曲に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が婉曲した。",
+      "相手を傷つけないよう、彼女は婉曲に断った。"
     ],
-    "answer": 3,
-    "explanation": "「婉曲」は遠回しに表現するさまです。"
+    "answer": 4,
+    "explanation": "「婉曲」は遠回しに表現するさまです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-183",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「緻密」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「緻密」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "露骨",
-      "緻密",
-      "粗雑",
-      "軽率"
+      "彼は駅まで緻密に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が緻密した。",
+      "彼の論文は資料分析が緻密で説得力がある。",
+      "会議のあと、担当者は緻密を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「緻密」は細かく注意深いことです。"
+    "answer": 3,
+    "explanation": "「緻密」は細かく注意深いことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-184",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「粗雑」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「粗雑」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "粗雑",
-      "緻密",
-      "円滑",
-      "妥当"
+      "その知らせを聞いて、部屋全体が粗雑した。",
+      "この報告書は調査方法が粗雑で信頼できない。",
+      "会議のあと、担当者は粗雑を机の上に置いた。",
+      "彼は駅まで粗雑に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「粗雑」は大ざっぱで丁寧さを欠くことです。"
+    "answer": 2,
+    "explanation": "「粗雑」は大ざっぱで丁寧さを欠くことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-185",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「円滑」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「円滑」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "粗雑",
-      "露骨",
-      "過剰",
-      "円滑"
+      "関係部署との連携が円滑に進んだ。",
+      "会議のあと、担当者は円滑を机の上に置いた。",
+      "彼は駅まで円滑に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が円滑した。"
     ],
-    "answer": 4,
-    "explanation": "「円滑」は物事が滞りなく進むさまです。"
+    "answer": 1,
+    "explanation": "「円滑」は物事が滞りなく進むさまです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-186",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「滞る」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「滞る」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "補填する",
-      "融合する",
-      "滞る",
-      "進展する"
+      "会議のあと、担当者は滞るを机の上に置いた。",
+      "彼は駅まで滞るに歩いて向かった。",
+      "その知らせを聞いて、部屋全体が滞るした。",
+      "書類の確認が滞ると、支払いも遅れる。"
     ],
-    "answer": 3,
-    "explanation": "「滞る」は物事が順調に進まないことです。"
+    "answer": 4,
+    "explanation": "「滞る」は物事が順調に進まないことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-187",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「進展」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「進展」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "混同",
-      "進展",
-      "停滞",
-      "撤回"
+      "彼は駅まで進展に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が進展した。",
+      "交渉は難航していたが、昨日ようやく進展があった。",
+      "会議のあと、担当者は進展を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「進展」は物事が前に進むことです。"
+    "answer": 3,
+    "explanation": "「進展」は物事が前に進むことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-188",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「停滞」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「停滞」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "停滞",
-      "進展",
-      "促進",
-      "融合"
+      "その知らせを聞いて、部屋全体が停滞した。",
+      "需要の落ち込みで、地域経済は停滞している。",
+      "会議のあと、担当者は停滞を机の上に置いた。",
+      "彼は駅まで停滞に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「停滞」は動きや成長が止まることです。"
+    "answer": 2,
+    "explanation": "「停滞」は動きや成長が止まることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-189",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「徹底」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「徹底」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "中断",
-      "黙認",
-      "混同",
-      "徹底"
+      "再発防止のため、原因究明を徹底する。",
+      "会議のあと、担当者は徹底を机の上に置いた。",
+      "彼は駅まで徹底に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が徹底した。"
     ],
-    "answer": 4,
-    "explanation": "「徹底」はすみずみまで行うことです。"
+    "answer": 1,
+    "explanation": "「徹底」はすみずみまで行うことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-190",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「中断」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「中断」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "促進",
-      "補填",
-      "中断",
-      "継続"
+      "会議のあと、担当者は中断を机の上に置いた。",
+      "彼は駅まで中断に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が中断した。",
+      "設備トラブルで講演は一時中断された。"
     ],
-    "answer": 3,
-    "explanation": "「中断」は途中で止まることです。"
+    "answer": 4,
+    "explanation": "「中断」は途中で止まることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-191",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「継続」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「継続」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "阻害",
-      "継続",
-      "中断",
-      "撤回"
+      "彼は駅まで継続に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が継続した。",
+      "短期間で成果が出なくても、学習を継続することが大切だ。",
+      "会議のあと、担当者は継続を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「継続」は続けることです。"
+    "answer": 3,
+    "explanation": "「継続」は続けることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-192",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「慎重」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「慎重」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "慎重",
-      "軽率",
-      "露骨",
-      "曖昧"
+      "その知らせを聞いて、部屋全体が慎重した。",
+      "結論を急がず、慎重に判断すべきだ。",
+      "会議のあと、担当者は慎重を机の上に置いた。",
+      "彼は駅まで慎重に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「慎重」は注意深く落ち着いて行うさまです。"
+    "answer": 2,
+    "explanation": "「慎重」は注意深く落ち着いて行うさまです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-193",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「軽率」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「軽率」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "慎重",
-      "緻密",
-      "妥当",
-      "軽率"
+      "十分確認せず発表するのは軽率だ。",
+      "会議のあと、担当者は軽率を机の上に置いた。",
+      "彼は駅まで軽率に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が軽率した。"
     ],
-    "answer": 4,
-    "explanation": "「軽率」は深く考えずに行うさまです。"
+    "answer": 1,
+    "explanation": "「軽率」は深く考えずに行うさまです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-194",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「克服」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「克服」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "撤回",
-      "混同",
-      "克服",
-      "放置"
+      "会議のあと、担当者は克服を机の上に置いた。",
+      "彼は駅まで克服に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が克服した。",
+      "彼は失敗への恐怖を克服し、再挑戦した。"
     ],
-    "answer": 3,
-    "explanation": "「克服」は困難を乗り越えることです。"
+    "answer": 4,
+    "explanation": "「克服」は困難を乗り越えることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-195",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「看過」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「看過」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "把握",
-      "看過",
-      "精査",
-      "是正"
+      "彼は駅まで看過に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が看過した。",
+      "小さな異常でも看過してはならない。",
+      "会議のあと、担当者は看過を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「看過」は見逃すことです。"
+    "answer": 3,
+    "explanation": "「看過」は見逃すことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-196",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「黙認」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「黙認」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "黙認",
-      "是正",
-      "撤回",
-      "精査"
+      "その知らせを聞いて、部屋全体が黙認した。",
+      "規則違反を黙認すれば、組織全体の信頼が失われる。",
+      "会議のあと、担当者は黙認を机の上に置いた。",
+      "彼は駅まで黙認に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「黙認」は知っていながら見逃すことです。"
+    "answer": 2,
+    "explanation": "「黙認」は知っていながら見逃すことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-197",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「隠蔽」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「隠蔽」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "公開",
-      "示唆",
-      "補填",
-      "隠蔽"
+      "不都合な事実を隠蔽する姿勢が批判された。",
+      "会議のあと、担当者は隠蔽を机の上に置いた。",
+      "彼は駅まで隠蔽に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が隠蔽した。"
     ],
-    "answer": 4,
-    "explanation": "「隠蔽」は隠すことです。"
+    "answer": 1,
+    "explanation": "「隠蔽」は隠すことです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-198",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「公開」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「公開」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "撤回",
-      "免除",
-      "公開",
-      "隠蔽"
+      "会議のあと、担当者は公開を机の上に置いた。",
+      "彼は駅まで公開に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が公開した。",
+      "調査結果は来月公開される予定だ。"
     ],
-    "answer": 3,
-    "explanation": "「公開」は一般に知らせることです。"
+    "answer": 4,
+    "explanation": "「公開」は一般に知らせることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-199",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「免除」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「免除」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "拘束",
-      "免除",
-      "課税",
-      "促進"
+      "彼は駅まで免除に歩いて向かった。",
+      "その知らせを聞いて、部屋全体が免除した。",
+      "一定の条件を満たす学生は受講料が免除される。",
+      "会議のあと、担当者は免除を机の上に置いた。"
     ],
-    "answer": 2,
-    "explanation": "「免除」は義務などを免れさせることです。"
+    "answer": 3,
+    "explanation": "「免除」は義務などを免れさせることです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "v-200",
     "category": "vocabulary",
     "typeLabel": "어휘",
     "subType": "용법",
-    "title": "下線部に最も近い意味の語を選びなさい。",
-    "prompt": "JLPT N1の語彙問題として、「拘束」の意味・使い方に最も近いものを選びなさい。",
+    "title": "次の言葉の使い方として最もよいものを選びなさい。「拘束」",
+    "prompt": "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
     "choices": [
-      "拘束",
-      "解放",
-      "補填",
-      "緩和"
+      "その知らせを聞いて、部屋全体が拘束した。",
+      "長時間の会議で社員を拘束するのは避けたい。",
+      "会議のあと、担当者は拘束を机の上に置いた。",
+      "彼は駅まで拘束に歩いて向かった。"
     ],
-    "answer": 1,
-    "explanation": "「拘束」は自由な行動を制限することです。"
+    "answer": 2,
+    "explanation": "「拘束」は自由な行動を制限することです。 正しい文では語の意味と文法的な結びつきが自然です。"
   },
   {
     "id": "r-001",

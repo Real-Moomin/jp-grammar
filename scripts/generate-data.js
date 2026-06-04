@@ -165,6 +165,32 @@ const grammarTopics = [
   "研究倫理", "公共交通", "地方創生", "少子高齢化", "食品安全", "国際交流", "都市計画", "企業統治", "報道姿勢", "エネルギー政策"
 ];
 
+const compositionRows = [
+  ["企業が新制度を導入する際には、＿＿ ＿＿ ＿★＿ ＿＿必要がある。", "費用の問題だけでなく,現場で働く人の声にも,耳を傾けたうえで,判断する", 3, "「声にも耳を傾けたうえで判断する」という語順が自然です。"],
+  ["調査結果を読むときは、＿＿ ＿＿ ＿★＿ ＿＿姿勢が求められる。", "数字の大きさに,注目するだけでなく,その背景を,慎重に見る", 3, "「背景を見る」がまとまり、その前に「その」が来ます。"],
+  ["都市の安全を考えるなら、＿＿ ＿＿ ＿★＿ ＿＿対策が欠かせない。", "災害が起きてから,対応するのではなく,平時から備える,ための", 3, "「平時から備えるための対策」という連体修飾になります。"],
+  ["研究発表では、＿＿ ＿＿ ＿★＿ ＿＿説明することが重要だ。", "結論を先に示し,その根拠を,資料に即して,順序立てて", 3, "「資料に即して順序立てて説明する」が自然です。"],
+  ["制度を変える以上、＿＿ ＿＿ ＿★＿ ＿＿避けては通れない。", "利用者にとっての,利点と負担を,具体的に示す,作業は", 4, "「作業は避けては通れない」と主題になります。"],
+  ["彼の提案は、＿＿ ＿＿ ＿★＿ ＿＿点で評価できる。", "短期的な効果よりも,長期的な維持を,重視している,という", 4, "「という点で評価できる」が文末につながります。"],
+  ["国際会議では、＿＿ ＿＿ ＿★＿ ＿＿発言が求められる。", "自国の利益を,主張するだけでなく,相手国の立場にも,配慮した", 4, "「配慮した発言」が名詞を修飾します。"],
+  ["環境問題は、＿＿ ＿＿ ＿★＿ ＿＿解決できるものではない。", "一つの企業が,努力したからといって,すぐに,解決できる", 3, "「すぐに解決できるものではない」が自然です。"],
+  ["新しい技術は、＿＿ ＿＿ ＿★＿ ＿＿導入すべきだ。", "便利さだけに,目を向けるのではなく,社会への影響も,見極めて", 4, "「見極めて導入する」という動作の順序です。"],
+  ["少子化対策を考えるには、＿＿ ＿＿ ＿★＿ ＿＿必要がある。", "子育て世代の,負担を軽くする,仕組みを,整える", 4, "「仕組みを整える必要がある」と目的語がまとまります。"]
+];
+
+const textGrammarRows = [
+  ["地域の商店街では客足が減っている。＿＿、そこを交流の場として見直す動きも出てきた。", "とはいえ", "すると,ところで,かえって", "前文を認めたうえで別の見方を示す逆接です。"],
+  ["新しい制度は便利だ。＿＿、使い方を知らない人への説明がなければ定着しない。", "とはいえ", "それゆえ,しかも,なぜなら", "便利であることを認めつつ課題を述べています。"],
+  ["会議では賛成意見が多かった。＿＿、反対意見の中にも検討すべき点があった。", "その一方で", "つまり,したがって,たとえば", "対比して別の側面を示す表現です。"],
+  ["この調査は対象者が少ない。＿＿、結果を一般化するには慎重であるべきだ。", "したがって", "ところが,一方,むしろ", "前の理由から結論を導く接続です。"],
+  ["技術の進歩は生活を便利にした。＿＿、個人情報の管理という新たな課題も生んだ。", "その一方で", "たとえば,つまり,そのため", "利点と課題を対比しています。"],
+  ["この計画には費用がかかる。＿＿、将来の維持費まで考えると、今の投資は必要だ。", "もっとも", "しかも,そこで,なぜなら", "前文をいったん認め、補足的に別の判断を示します。"],
+  ["資料は十分に見える。＿＿、肝心な調査方法が明記されていない。", "しかしながら", "そのうえ,したがって,たとえば", "逆接で問題点を示しています。"],
+  ["利用者の声を聞くことは重要だ。＿＿、すべての要望をそのまま採用できるわけではない。", "とはいえ", "そのため,また,つまり", "譲歩したうえで制限を述べています。"],
+  ["都市に緑を増やす取り組みが進んでいる。＿＿、維持管理の負担をどう分担するかが課題だ。", "一方で", "なぜなら,したがって,たとえば", "肯定的な動きと課題を対比します。"],
+  ["彼の説明は分かりやすかった。＿＿、根拠となる資料が不足していた点は否めない。", "ただし", "すると,つまり,その結果", "前文に条件や留保を加えています。"]
+];
+
 function rotateChoices(correct, distractors, seed) {
   const options = [correct, ...distractors.split(",")];
   const offset = seed % options.length;
@@ -172,15 +198,55 @@ function rotateChoices(correct, distractors, seed) {
   return { choices: rotated, answer: rotated.indexOf(correct) + 1 };
 }
 
+function rotateArray(items, answerIndex, seed) {
+  const offset = seed % items.length;
+  const choices = [...items.slice(offset), ...items.slice(0, offset)];
+  const correct = items[answerIndex - 1];
+  return { choices, answer: choices.indexOf(correct) + 1 };
+}
+
 function makeGrammarQuestion(row, index) {
   const [correct, promptA, promptB, explanation, distractors] = row;
   const mode = Math.floor(index / grammarRows.length) % 4;
-  const subTypes = ["문법 형식 선택", "문장 의미", "문맥 문법", "의미 식별"];
+  const subTypes = ["문법 빈칸", "문법 빈칸", "문장배열 ★", "문장 전체 문법"];
+
+  if (mode === 2) {
+    const composition = compositionRows[index % compositionRows.length];
+    const [prompt, chunks, answer, compositionExplanation] = composition;
+    const rotated = rotateArray(chunks.split(","), answer, index);
+    return {
+      id: `g-${String(index + 1).padStart(3, "0")}`,
+      category: "grammar",
+      typeLabel: "문법",
+      subType: subTypes[mode],
+      title: "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+      prompt,
+      choices: rotated.choices,
+      answer: rotated.answer,
+      explanation: compositionExplanation
+    };
+  }
+
+  if (mode === 3) {
+    const textGrammar = textGrammarRows[index % textGrammarRows.length];
+    const [prompt, textCorrect, textDistractors, textExplanation] = textGrammar;
+    const rotated = rotateChoices(textCorrect, textDistractors, index);
+    return {
+      id: `g-${String(index + 1).padStart(3, "0")}`,
+      category: "grammar",
+      typeLabel: "문법",
+      subType: subTypes[mode],
+      title: "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
+      prompt,
+      choices: rotated.choices,
+      answer: rotated.answer,
+      explanation: textExplanation
+    };
+  }
+
   const prompt = [
     promptA,
-    promptB,
-    `次の説明に合う文法表現を選びなさい。説明: ${explanation}`,
-    `다음 의미에 가장 가까운 N1 문법 표현을 고르시오: ${explanation}`
+    promptB
   ][mode];
   const rotated = rotateChoices(correct, distractors, index);
   return {
@@ -201,6 +267,31 @@ function makeVocabQuestion(row, index) {
   const topic = grammarTopics[index % grammarTopics.length];
   const mode = Math.floor(index / vocabRows.length) % 4;
   const subTypes = ["문맥 어휘", "유의 표현", "뜻 식별", "용법"];
+
+  if (mode === 3) {
+    const correctSentence = prompt.includes("＿＿＿")
+      ? prompt.replace("＿＿＿", target)
+      : prompt.replaceAll("「", "").replaceAll("」", "");
+    const usageOptions = [
+      correctSentence,
+      `会議のあと、担当者は${target}を机の上に置いた。`,
+      `彼は駅まで${target}に歩いて向かった。`,
+      `その知らせを聞いて、部屋全体が${target}した。`
+    ];
+    const rotated = rotateArray(usageOptions, 1, index);
+    return {
+      id: `v-${String(index + 1).padStart(3, "0")}`,
+      category: "vocabulary",
+      typeLabel: "어휘",
+      subType: subTypes[mode],
+      title: `次の言葉の使い方として最もよいものを選びなさい。「${target}」`,
+      prompt: "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
+      choices: rotated.choices,
+      answer: rotated.answer,
+      explanation: `「${target}」は${explanation} 正しい文では語の意味と文法的な結びつきが自然です。`
+    };
+  }
+
   const generatedPrompts = [
     prompt,
     `${topic}に関する記事中の「${target}」に最も近い意味を選びなさい。`,
