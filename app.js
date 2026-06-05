@@ -109,6 +109,7 @@ function getFilteredQuestions() {
       question.title,
       question.prompt,
       question.explanation,
+      ...(question.choiceExplanations || []),
       ...question.choices
     ].join(" ");
 
@@ -231,6 +232,22 @@ function renderQuestion(question, index) {
     <p class="solution-title">정답: ${question.answer}. ${question.choices[question.answer - 1]} / 선택: ${selectedText}</p>
     <p>${question.explanation}</p>
   `;
+
+  if (Array.isArray(question.choiceExplanations) && question.choiceExplanations.length) {
+    const detailTitle = document.createElement("p");
+    detailTitle.className = "choice-explanation-title";
+    detailTitle.textContent = "선택지별 해설";
+    solution.appendChild(detailTitle);
+
+    const detailList = document.createElement("ol");
+    detailList.className = "choice-explanations";
+    question.choiceExplanations.forEach((text) => {
+      const item = document.createElement("li");
+      item.textContent = text;
+      detailList.appendChild(item);
+    });
+    solution.appendChild(detailList);
+  }
 
   const revealButton = document.createElement("button");
   revealButton.type = "button";

@@ -205,6 +205,80 @@ function rotateArray(items, answerIndex, seed) {
   return { choices, answer: choices.indexOf(correct) + 1 };
 }
 
+const grammarNoteMap = {
+  ...Object.fromEntries(grammarRows.map(([expression, , , note]) => [expression, note])),
+  "に越したことはない": "それが最も望ましいという意味です。",
+  "きらいがある": "好ましくない傾向があるという意味です。",
+  "ことはない": "そうする必要はないという意味です。",
+  "ないとも限らない": "そうならないとは言い切れないという意味です。",
+  "ないまでも": "そこまではいかなくても、という意味です。",
+  "ずじまいだ": "結局しないで終わるという意味です。",
+  "にひきかえ": "一方と比べて対照的であることを表します。",
+  "にもまして": "それ以上に、という意味です。",
+  "えない": "可能性がない、できないという意味です。",
+  "に即して": "基準や実情に合わせる意味です。",
+  "においても": "場所・場面・分野でも、という意味です。",
+  "にあっても": "特別な状況でも、という硬い表現です。",
+  "にしたって": "たとえそうだとしても、という口語的な譲歩です。",
+  "ともなると": "その段階や立場になると、という意味です。",
+  "つつも": "そうしながらも、という逆接です。",
+  "にもかかわらず": "前件から予想される結果に反することを表します。"
+};
+
+const connectorNoteMap = {
+  "とはいえ": "前の内容を認めたうえで、制限・反対の内容を続けます。",
+  "その一方で": "前の内容と対比される別の側面を示します。",
+  "したがって": "前の内容を理由として結論を導きます。",
+  "もっとも": "前の内容を補足・修正し、留保を加えます。",
+  "しかしながら": "硬い逆接で、前文と反対方向の内容を示します。",
+  "一方で": "対比される別の面を示します。",
+  "ただし": "条件・制限・注意点を加えます。",
+  "すると": "前の出来事に続いて起こる結果を表します。",
+  "ところで": "話題を変える接続表現です。",
+  "かえって": "予想と逆の結果になることを表します。",
+  "それゆえ": "理由から結論を導く硬い表現です。",
+  "しかも": "情報を追加して強める表現です。",
+  "なぜなら": "理由説明を始める表現です。",
+  "つまり": "前の内容を言い換え・要約します。",
+  "たとえば": "具体例を出す表現です。",
+  "ところが": "予想に反する展開を示します。",
+  "むしろ": "前より後の内容が適切だと示します。",
+  "そのため": "前の内容を原因として結果を述べます。",
+  "そこで": "状況を受けて取った行動を述べます。",
+  "そのうえ": "さらに情報を追加します。",
+  "また": "並列的に情報を追加します。",
+  "その結果": "前の出来事によって生じた結果を示します。"
+};
+
+function buildGrammarChoiceExplanations(choices, correct, correctNote) {
+  return choices.map((choice) => {
+    if (choice === correct) {
+      return `正解。「${choice}」は${correctNote}この文の前後関係と意味が合います。`;
+    }
+    const note = grammarNoteMap[choice] || "別の文法機能を持つ表現です。";
+    return `不正解。「${choice}」は${note} ただし、この文では必要な意味関係・接続の形が合いません。`;
+  });
+}
+
+function buildCompositionChoiceExplanations(choices, answer, explanation) {
+  return choices.map((choice, index) => {
+    if (index + 1 === answer) {
+      return `正解。「${choice}」を★に置くと、修飾関係と文末へのつながりが自然です。${explanation}`;
+    }
+    return `不正解。「${choice}」を★に置くと、直前・直後の語との結びつきが弱くなり、文全体の語順が崩れます。`;
+  });
+}
+
+function buildConnectorChoiceExplanations(choices, correct, correctExplanation) {
+  return choices.map((choice) => {
+    if (choice === correct) {
+      return `正解。「${choice}」はこの段落の流れに合います。${correctExplanation}`;
+    }
+    const note = connectorNoteMap[choice] || "接続の機能が異なる表現です。";
+    return `不正解。「${choice}」は${note} この空欄では前後の論理関係と合いません。`;
+  });
+}
+
 function makeGrammarQuestion(row, index) {
   const [correct, promptA, promptB, explanation, distractors] = row;
   const mode = Math.floor(index / grammarRows.length) % 4;
@@ -223,7 +297,8 @@ function makeGrammarQuestion(row, index) {
       prompt,
       choices: rotated.choices,
       answer: rotated.answer,
-      explanation: compositionExplanation
+      explanation: compositionExplanation,
+      choiceExplanations: buildCompositionChoiceExplanations(rotated.choices, rotated.answer, compositionExplanation)
     };
   }
 
@@ -240,7 +315,8 @@ function makeGrammarQuestion(row, index) {
       prompt,
       choices: rotated.choices,
       answer: rotated.answer,
-      explanation: textExplanation
+      explanation: textExplanation,
+      choiceExplanations: buildConnectorChoiceExplanations(rotated.choices, textCorrect, textExplanation)
     };
   }
 
@@ -258,7 +334,8 @@ function makeGrammarQuestion(row, index) {
     prompt,
     choices: rotated.choices,
     answer: rotated.answer,
-    explanation: `「${correct}」は${explanation} JLPT N1で頻出する機能語の識別問題です。`
+    explanation: `「${correct}」は${explanation} JLPT N1で頻出する機能語の識別問題です。`,
+    choiceExplanations: buildGrammarChoiceExplanations(rotated.choices, correct, explanation)
   };
 }
 

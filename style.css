@@ -331,6 +331,21 @@ button {
   line-height: 1.7;
 }
 
+.choice-explanation-title {
+  margin-top: 14px !important;
+  color: var(--ink) !important;
+  font-weight: 800;
+}
+
+.choice-explanations {
+  display: grid;
+  gap: 8px;
+  margin: 8px 0 0;
+  padding-left: 24px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
 .empty-state {
   padding: 34px;
   border: 1px dashed var(--line);
