@@ -1,16 +1,16 @@
 :root {
   color-scheme: dark;
-  --bg: #11100f;
-  --panel: #1c1a18;
-  --panel-2: #25221f;
-  --ink: #f2eee8;
-  --muted: #b7aea5;
-  --line: #39342f;
-  --accent: #60d1c8;
-  --accent-2: #ffb16c;
-  --accent-soft: #173f3c;
-  --good: #69d58d;
-  --bad: #ff7c72;
+  --bg: #0f1115;
+  --panel: #181b20;
+  --panel-2: #20242b;
+  --ink: #f4f6f8;
+  --muted: #a8b0bb;
+  --line: #303641;
+  --accent: #9fb6d8;
+  --accent-2: #c7d0dc;
+  --accent-soft: #263141;
+  --good: #86d19a;
+  --bad: #f28b82;
   --shadow: 0 16px 38px rgba(0, 0, 0, 0.36);
 }
 
@@ -48,7 +48,7 @@ button {
   height: 100vh;
   padding: 28px 22px;
   border-right: 1px solid var(--line);
-  background: #161412;
+  background: #12151a;
 }
 
 .brand {
@@ -64,7 +64,7 @@ button {
   place-items: center;
   border-radius: 8px;
   background: var(--accent);
-  color: #11100f;
+  color: #0f1115;
   font-weight: 800;
 }
 
@@ -192,7 +192,7 @@ button {
 }
 
 .search-box input::placeholder {
-  color: #837a72;
+  color: #737b86;
 }
 
 .ghost-btn {
@@ -233,7 +233,7 @@ button {
 .tag {
   padding: 4px 8px;
   border-radius: 999px;
-  background: #2f2a25;
+  background: #252a32;
   color: var(--muted);
   font-size: 12px;
   font-weight: 700;
@@ -260,7 +260,12 @@ button {
   color: var(--ink);
 }
 
-.prompt,
+.prompt {
+  margin: 12px 0 0;
+  color: #fff;
+  line-height: 1.7;
+}
+
 .hint {
   margin: 12px 0 0;
   color: var(--muted);
@@ -301,12 +306,12 @@ button {
 
 .choice-btn.correct {
   border-color: var(--good);
-  background: #173823;
+  background: #1d3427;
 }
 
 .choice-btn.incorrect {
   border-color: var(--bad);
-  background: #3d1e1c;
+  background: #3a2424;
 }
 
 .solution {

@@ -194,11 +194,12 @@ function renderQuestion(question, index) {
     <span class="tag">#${String(index + 1).padStart(2, "0")}</span>
   `;
 
-  const title = document.createElement("h3");
-  title.textContent = question.title;
-
   copy.appendChild(tags);
-  copy.appendChild(title);
+  if (question.category === "reading") {
+    const title = document.createElement("h3");
+    title.textContent = question.title;
+    copy.appendChild(title);
+  }
   head.appendChild(copy);
 
   if (question.speakText) {
