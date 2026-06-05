@@ -164,6 +164,7 @@ const grammarTopics = [
   "予算の見直し", "地域医療", "災害対策", "教育改革", "労働環境", "環境保護", "技術革新", "観光政策", "文化財保護", "個人情報管理",
   "研究倫理", "公共交通", "地方創生", "少子高齢化", "食品安全", "国際交流", "都市計画", "企業統治", "報道姿勢", "エネルギー政策"
 ];
+const variantLabels = ["基本", "応用", "発展", "実戦", "確認"];
 
 const compositionRows = [
   ["企業が新制度を導入する際には、＿＿ ＿＿ ＿★＿ ＿＿必要がある。", "費用の問題だけでなく,現場で働く人の声にも,耳を傾けたうえで,判断する", 3, "「声にも耳を傾けたうえで判断する」という語順が自然です。"],
@@ -298,13 +299,194 @@ const connectorNoteMap = {
   "その結果": "앞 사건으로 생긴 결과를 나타냅니다."
 };
 
-function buildGrammarChoiceExplanations(choices, correct, correctNote) {
+const grammarPatternMap = {
+  "に相違ない": "명사/보통형 + に相違ない",
+  "にほかならない": "명사 + にほかならない",
+  "にかたくない": "상상する・察する・理解する 등 인식 동사 + にかたくない",
+  "には及ばない": "동사 사전형 + には及ばない",
+  "にはあたらない": "동사 사전형/명사 + にはあたらない",
+  "までもない": "동사 사전형 + までもない",
+  "べくもない": "동사 사전형 + べくもない",
+  "わけにはいかない": "동사 사전형/ない형 + わけにはいかない",
+  "ないではすまない": "동사 ない형 + ないではすまない",
+  "ずにはおかない": "동사 ない형 어간 + ずにはおかない",
+  "かねない": "동사 ます형 어간 + かねない",
+  "かねる": "동사 ます형 어간 + かねる",
+  "ざるを得ない": "동사 ない형 어간 + ざるを得ない",
+  "にたえない": "동사 사전형/명사 + にたえない",
+  "に足る": "동사 사전형/명사 + に足る",
+  "に欠かせない": "명사 + に欠かせない",
+  "にすぎない": "명사/보통형 + にすぎない",
+  "に限らない": "명사 + に限らない",
+  "に限り": "명사 + に限り",
+  "に限って": "명사 + に限って",
+  "とは限らない": "보통형 + とは限らない",
+  "をよそに": "명사 + をよそに",
+  "をものともせず": "명사 + をものともせず",
+  "を皮切りに": "명사 + を皮切りに",
+  "をはじめ": "명사 + をはじめ",
+  "を問わず": "명사 + を問わず",
+  "をめぐって": "명사 + をめぐって",
+  "を契機に": "명사 + を契機に",
+  "を兼ねて": "명사 + を兼ねて",
+  "をもって": "명사 + をもって",
+  "に先立ち": "명사/동사 사전형 + に先立ち",
+  "にあたり": "명사/동사 사전형 + にあたり",
+  "に際して": "명사/동사 사전형 + に際して",
+  "に即して": "명사 + に即して",
+  "に沿って": "명사 + に沿って",
+  "に反して": "명사 + に反して",
+  "に応じて": "명사 + に応じて",
+  "に伴って": "명사/동사 사전형 + に伴って",
+  "にしたがって": "명사/동사 사전형 + にしたがって",
+  "につれて": "명사/동사 사전형 + につれて",
+  "につけ": "동사 사전형 + につけ",
+  "につけても": "명사/동사 사전형 + につけても",
+  "にしても": "보통형 + にしても",
+  "としても": "보통형 + としても",
+  "とあって": "명사/보통형 + とあって",
+  "とあれば": "명사/보통형 + とあれば",
+  "といえども": "명사/보통형 + といえども",
+  "とはいえ": "보통형 + とはいえ",
+  "ながらも": "동사 ます형 어간/い형용사/명사 + ながらも",
+  "ものの": "보통형 + ものの"
+};
+
+const grammarUseCaseMap = {
+  "に相違ない": "증거가 충분해서 화자가 강하게 단정하는 문맥에 어울립니다.",
+  "にほかならない": "원인·정체·본질을 '바로 그것'이라고 못 박을 때 씁니다.",
+  "にかたくない": "감정이나 상황을 직접 보지 않아도 쉽게 짐작된다는 문맥에 어울립니다.",
+  "には及ばない": "상대에게 불필요한 행동을 하지 않아도 된다고 말할 때 자주 씁니다.",
+  "にはあたらない": "어떤 평가나 반응이 과하다는 판단을 나타낼 때 씁니다.",
+  "までもない": "너무 당연해서 설명·확인·언급이 불필요한 문맥에 어울립니다.",
+  "べくもない": "가능성이 전혀 없음을 문어적으로 강하게 말할 때 씁니다.",
+  "わけにはいかない": "개인적 가능성이 아니라 사회적 책임·도리 때문에 못 한다는 점이 핵심입니다.",
+  "かねない": "바람직하지 않은 결과를 경고할 때 쓰며, 긍정적 가능성에는 잘 쓰지 않습니다.",
+  "かねる": "비즈니스식으로 '할 수 없다'를 완곡하게 말할 때 씁니다.",
+  "ざるを得ない": "선택지가 없어 어쩔 수 없이 그렇게 한다는 판단을 나타냅니다.",
+  "にすぎない": "대상을 낮추어 '그 이상은 아니다'라고 제한합니다.",
+  "とは限らない": "일반화나 단정을 경계할 때 쓰는 표현입니다.",
+  "をよそに": "주변의 걱정·비판·반대가 있는데도 개의치 않는 행동을 나타냅니다.",
+  "をものともせず": "장애물을 이겨 내는 긍정적·강한 태도에 어울립니다.",
+  "を皮切りに": "첫 사건 뒤에 같은 성격의 일이 연속될 때 씁니다.",
+  "を問わず": "나이·성별·昼夜처럼 기준을 가리지 않는다는 뜻입니다.",
+  "をめぐって": "쟁점·논의·대립이 특정 주제를 중심으로 벌어질 때 씁니다.",
+  "を契機に": "어떤 사건이 변화의 계기가 된 경우에 씁니다.",
+  "に即して": "현실·법률·기준과 밀착해 판단한다는 뉘앙스입니다.",
+  "に沿って": "이미 정해진 방침이나 요구에 따라 움직인다는 뉘앙스입니다.",
+  "に反して": "예상·기대·규칙과 반대로 흘러가는 문맥에 씁니다.",
+  "に応じて": "조건이 달라지면 대응도 달라진다는 점이 핵심입니다.",
+  "に伴って": "한 변화에 딸려 다른 변화가 함께 일어나는 관계입니다.",
+  "にしたがって": "시간·정도·진행에 비례해 변화가 생기는 관계입니다.",
+  "につれて": "변화 A가 진행될수록 변화 B도 함께 진행되는 문맥에 씁니다.",
+  "にしても": "상대의 사정을 인정해도 결론은 달라지지 않는다는 양보입니다.",
+  "としても": "가정 조건을 세운 뒤 그래도 결론을 유지할 때 씁니다.",
+  "とあって": "특별한 이유 때문에 결과가 당연하다는 설명입니다.",
+  "とあれば": "그 조건이라면 무엇이든 하겠다는 강한 조건입니다.",
+  "といえども": "지위나 능력이 높아도 예외가 아니라는 문어적 양보입니다.",
+  "とはいえ": "앞 말을 인정하지만 뒤에서 한계를 제시합니다.",
+  "ながらも": "반대되는 성질이나 상태가 동시에 존재함을 나타냅니다.",
+  "ものの": "앞 사실은 인정되지만 기대한 결과로 이어지지 않는 문맥에 씁니다."
+};
+
+function getGrammarPattern(expression) {
+  return grammarPatternMap[expression] || "접속 형태는 표현마다 다르므로 앞말의 품사와 활용을 확인해야 합니다.";
+}
+
+function getGrammarUseCase(expression) {
+  return grammarUseCaseMap[expression] || grammarNoteMap[expression] || "이 표현은 특정한 의미 관계를 만들 때 쓰입니다.";
+}
+
+function getPromptClue(prompt, expression) {
+  if (prompt.includes("以上")) return "문장 안의 「以上」는 이미 확정된 조건을 바탕으로 판단한다는 신호입니다.";
+  if (prompt.includes("からといって")) return "「からといって」는 '그렇다고 해서 곧바로 그렇게 판단할 수는 없다'는 흐름을 만듭니다.";
+  if (prompt.includes("ながら")) return "「ながら」 계열 문맥은 겉보기와 다른 결과나 태도를 이어 주는 경우가 많습니다.";
+  if (prompt.includes("＿＿＿、")) return "빈칸 뒤에 쉼표가 있어 접속 표현이 문장 전체의 논리 관계를 좌우합니다.";
+  if (expression.startsWith("を")) return "빈칸 앞의 명사를 받아 뒤 문장의 행동 방식이나 논의 대상을 설명해야 합니다.";
+  if (expression.startsWith("に")) return "빈칸 앞의 명사·동사구가 뒤의 판단이나 변화와 어떤 관계인지 보는 문제입니다.";
+  return "빈칸 앞뒤의 의미 흐름을 먼저 잡고, 그 흐름을 가장 정확히 연결하는 표현을 골라야 합니다.";
+}
+
+function buildGrammarExplanation(correct, prompt) {
+  return `문법 포인트: 「${correct}」. 접속: ${getGrammarPattern(correct)}. 의미 기능: ${grammarNoteMap[correct] || "문맥에 맞는 N1 문법 표현입니다."} 문맥 단서: ${getPromptClue(prompt, correct)} ${getGrammarUseCase(correct)}`;
+}
+
+const acceptableGrammarGroups = [
+  {
+    terms: ["にしても", "としても"],
+    note: "둘 다 '설령 그렇다 해도'라는 양보 조건을 만들 수 있습니다. 「としても」는 가정성이 조금 더 강하고, 「にしても」는 이미 제시된 사정을 인정하는 느낌이 더 큽니다."
+  },
+  {
+    terms: ["ながらも", "つつも"],
+    note: "둘 다 '그러면서도'라는 역접을 만들 수 있습니다. 「つつも」가 조금 더 문어적이고, 「ながらも」는 상태의 병존이 더 직접적으로 느껴집니다."
+  },
+  {
+    terms: ["とはいえ", "にしても"],
+    note: "둘 다 앞 내용을 인정한 뒤 제한을 붙일 수 있습니다. 「とはいえ」는 역접 접속의 성격이 강하고, 「にしても」는 양보 조건의 느낌이 강합니다."
+  },
+  {
+    terms: ["にあたり", "に際して", "に先立ち"],
+    note: "셋 다 어떤 일을 둘러싼 준비 장면에서 쓸 수 있습니다. 「にあたり」는 일을 맞아 준비한다는 느낌, 「に際して」는 더 격식 있는 장면, 「に先立ち」는 그 일보다 시간적으로 앞서 한다는 점이 강합니다."
+  },
+  {
+    terms: ["に即して", "に沿って"],
+    note: "둘 다 기준에 맞춘다는 뜻이 있습니다. 「に即して」는 현실·법률·실정에 밀착하는 느낌, 「に沿って」는 방침·요구를 따라간다는 느낌이 강합니다."
+  },
+  {
+    terms: ["をものともせず", "をよそに"],
+    note: "둘 다 주변의 어려움이나 반응을 넘어서 행동한다는 문맥에서 가능할 수 있습니다. 「をものともせず」는 장애를 이겨 내는 긍정적 뉘앙스, 「をよそに」는 신경 쓰지 않는다는 뉘앙스입니다."
+  },
+  {
+    terms: ["までもない", "には及ばない"],
+    note: "둘 다 '그럴 필요가 없다'는 의미가 겹칩니다. 「までもない」는 너무 당연해서 불필요하다는 느낌, 「には及ばない」는 상대에게 굳이 하지 않아도 된다고 말하는 느낌입니다."
+  }
+];
+
+function getAcceptedGrammarChoices(choices, correct, prompt) {
+  const accepted = new Set([correct]);
+  acceptableGrammarGroups.forEach((group) => {
+    if (!group.terms.includes(correct)) return;
+    group.terms.forEach((term) => {
+      if (choices.includes(term)) accepted.add(term);
+    });
+  });
+
+  if (correct === "に即して" && prompt.includes("実情") && choices.includes("に応じて")) {
+    accepted.add("に応じて");
+  }
+
+  return [...accepted];
+}
+
+function getAcceptanceNote(choice, correct) {
+  if ((choice === "に応じて" && correct === "に即して") || (choice === "に即して" && correct === "に応じて")) {
+    return "둘 다 현장 조건에 맞춘다는 해석이 가능합니다. 「に即して」는 실제 상황에 밀착해 판단한다는 느낌이고, 「に応じて」는 조건에 따라 대응을 바꾼다는 느낌입니다.";
+  }
+  const group = acceptableGrammarGroups.find((item) => item.terms.includes(choice) && item.terms.includes(correct));
+  return group?.note || "이 선택지도 문법적으로 성립하고 문맥상 허용 가능한 해석을 만들 수 있습니다.";
+}
+
+function getAcceptedAnswerNumbers(choices, acceptedChoices) {
+  return acceptedChoices.map((choice) => choices.indexOf(choice) + 1).filter((answerNumber) => answerNumber > 0);
+}
+
+function buildAcceptedAnswerNote(acceptedChoices, correct) {
+  if (acceptedChoices.length <= 1) return "";
+  const others = acceptedChoices.filter((choice) => choice !== correct).map((choice) => `「${choice}」`).join(", ");
+  return ` 복수 정답 인정: 가장 자연스러운 기준 답은 「${correct}」이지만, ${others}도 문법적으로 성립하고 문맥상 허용 가능한 해석을 만들 수 있습니다.`;
+}
+
+function buildGrammarChoiceExplanations(choices, correct, prompt, acceptedChoices) {
   return choices.map((choice) => {
     if (choice === correct) {
-      return `정답. 「${choice}」는 ${correctNote} 이 문장의 앞뒤 관계와 의미에 맞습니다.`;
+      return `정답. 「${choice}」는 ${getGrammarPattern(choice)} 형태로 쓰이며, ${getGrammarUseCase(choice)} 근거: ${getPromptClue(prompt, choice)}`;
+    }
+    if (acceptedChoices.includes(choice)) {
+      return `정답 인정. 「${choice}」도 ${getGrammarPattern(choice)} 형태로 문법적으로 성립합니다. 다만 기준 답 「${correct}」와의 차이는 이렇습니다. ${getAcceptanceNote(choice, correct)}`;
     }
     const note = grammarNoteMap[choice] || "다른 문법 기능을 가진 표현입니다.";
-    return `오답. 「${choice}」는 ${note} 하지만 이 문장에서는 필요한 의미 관계나 접속 형태가 맞지 않습니다.`;
+    const pattern = getGrammarPattern(choice);
+    return `오답. 「${choice}」는 ${pattern} 형태의 표현이고, ${note} 이 문맥의 핵심 관계는 「${correct}」 쪽에 가까우므로 의미 기능이 어긋납니다.`;
   });
 }
 
@@ -335,6 +517,8 @@ function makeGrammarQuestion(row, index) {
   if (mode === 2) {
     const composition = compositionRows[index % compositionRows.length];
     const [prompt, chunks, answer, compositionExplanation] = composition;
+    const topic = grammarTopics[index % grammarTopics.length];
+    const variant = variantLabels[Math.floor(index / compositionRows.length) % variantLabels.length];
     const rotated = rotateArray(chunks.split(","), answer, index);
     return {
       id: `g-${String(index + 1).padStart(3, "0")}`,
@@ -342,7 +526,7 @@ function makeGrammarQuestion(row, index) {
       typeLabel: "문법",
       subType: subTypes[mode],
       title: "次の文の★に入る最もよいものを、１・２・３・４から一つ選びなさい。",
-      prompt,
+      prompt: `【${topic}・${variant}】${prompt}`,
       choices: rotated.choices,
       answer: rotated.answer,
       explanation: "문장배열 문제는 ★ 앞뒤의 표현이 자연스럽게 이어지는지를 보는 문제입니다. 수식받는 말, 조사, 문말 표현을 함께 확인해야 합니다.",
@@ -353,6 +537,8 @@ function makeGrammarQuestion(row, index) {
   if (mode === 3) {
     const textGrammar = textGrammarRows[index % textGrammarRows.length];
     const [prompt, textCorrect, textDistractors, textExplanation] = textGrammar;
+    const topic = grammarTopics[index % grammarTopics.length];
+    const variant = variantLabels[Math.floor(index / textGrammarRows.length) % variantLabels.length];
     const rotated = rotateChoices(textCorrect, textDistractors, index);
     return {
       id: `g-${String(index + 1).padStart(3, "0")}`,
@@ -360,7 +546,7 @@ function makeGrammarQuestion(row, index) {
       typeLabel: "문법",
       subType: subTypes[mode],
       title: "文章全体の流れを踏まえて、空欄に入る最もよいものを選びなさい。",
-      prompt,
+      prompt: `【${topic}・${variant}】${prompt}`,
       choices: rotated.choices,
       answer: rotated.answer,
       explanation: `${textCorrect}는 ${connectorNoteMap[textCorrect] || "앞뒤 문장의 논리 관계를 연결하는 표현입니다."}`,
@@ -373,6 +559,8 @@ function makeGrammarQuestion(row, index) {
     promptB
   ][mode];
   const rotated = rotateChoices(correct, distractors, index);
+  const acceptedChoices = getAcceptedGrammarChoices(rotated.choices, correct, prompt);
+  const acceptedAnswers = getAcceptedAnswerNumbers(rotated.choices, acceptedChoices);
   return {
     id: `g-${String(index + 1).padStart(3, "0")}`,
     category: "grammar",
@@ -382,9 +570,232 @@ function makeGrammarQuestion(row, index) {
     prompt,
     choices: rotated.choices,
     answer: rotated.answer,
-    explanation: `「${correct}」는 ${grammarNoteMap[correct] || "문맥에 맞는 N1 문법 표현입니다."} 문법 문제에서는 뜻뿐 아니라 앞뒤에 어떤 말이 오는지도 함께 봐야 합니다.`,
-    choiceExplanations: buildGrammarChoiceExplanations(rotated.choices, correct, grammarNoteMap[correct] || "문맥에 맞는 N1 문법 표현입니다.")
+    acceptedAnswers,
+    explanation: `${buildGrammarExplanation(correct, prompt)}${buildAcceptedAnswerNote(acceptedChoices, correct)}`,
+    choiceExplanations: buildGrammarChoiceExplanations(rotated.choices, correct, prompt, acceptedChoices)
   };
+}
+
+function normalizeJapaneseNote(note) {
+  return note
+    .replace("状況を見て実行を控える、延期するという意味です。", "상황을 보고 실행을 보류하거나 연기한다는 뜻입니다.")
+    .replace("落ち着いて判断する文脈なので「冷静」が自然です。", "감정에 휘둘리지 않고 차분히 판단한다는 뜻입니다.")
+    .replace("心配や不安材料を表す語です。", "걱정이나 불안 요소를 가리키는 말입니다.")
+    .replace("それまでの判断や状態をひっくり返す意味です。", "기존 판단이나 상태를 뒤집는다는 뜻입니다.")
+    .replace("はっきりしない状態を表します。", "분명하지 않고 애매한 상태를 나타냅니다.")
+    .replace("問題をさらに悪くすることです。", "문제를 더 나쁘게 만드는 것을 뜻합니다.")
+    .replace("期待通りの成果を出す意味です。", "기대에 맞는 결과를 내거나 기대를 충족한다는 뜻입니다.")
+    .replace("細やかな描写を表します。", "매우 세밀하고 섬세한 성질을 나타냅니다.")
+    .replace("証拠によって支えることです。", "증거나 근거로 어떤 주장이나 판단을 뒷받침한다는 뜻입니다.")
+    .replace("重要でないものとして軽く見る意味です。", "중요하지 않게 여기고 가볍게 본다는 뜻입니다.")
+    .replace("はっきり目立つことです。", "뚜렷하게 눈에 띄는 상태를 뜻합니다.")
+    .replace("悪い点を正すことです。", "잘못된 점을 바로잡는다는 뜻입니다.")
+    .replace("厳しさや程度が和らぐことです。", "정도나 긴장이 누그러지는 것을 뜻합니다.")
+    .replace("手探りで探すことです。", "확실한 답이 없는 상태에서 방법을 찾아본다는 뜻입니다.")
+    .replace("適切で道理に合う意味です。", "상황과 논리에 비추어 적절하다는 뜻입니다.")
+    .replace("詳しく調べることです。", "세부까지 자세히 조사한다는 뜻입니다.")
+    .replace("直接ではなく、それとなく示すことです。", "직접 말하지 않고 간접적으로 암시한다는 뜻입니다.")
+    .replace("不足を埋め合わせることです。", "부족한 부분을 메워 보충한다는 뜻입니다.")
+    .replace("一度出した意見や決定を取り消すことです。", "이미 낸 의견이나 결정을 거두어들인다는 뜻입니다.")
+    .replace("物事が進むように働きかけることです。", "일이 잘 진행되도록 밀어 주는 것을 뜻합니다.")
+    .replace("進行や発展を妨げることです。", "진행이나 발전을 방해한다는 뜻입니다.")
+    .replace("内容や状況をつかむことです。", "내용이나 상황을 정확히 파악한다는 뜻입니다.")
+    .replace("別のものを同じものとして扱うことです。", "서로 다른 것을 같은 것으로 착각하거나 섞어 다루는 것입니다.")
+    .replace("違いを分けて考えることです。", "차이를 나누어 구별한다는 뜻입니다.")
+    .replace("相手や状況を思いやることです。", "상대나 상황을 배려한다는 뜻입니다.")
+    .replace("一つのことに深く集中することです。", "한 가지 일에 깊이 몰두한다는 뜻입니다.")
+    .replace("ためらうことです。", "망설인다는 뜻입니다.")
+    .replace("互いに譲って合意することです。", "서로 조금씩 양보해 합의한다는 뜻입니다.")
+    .replace("意見や立場がぶつかることです。", "의견이나 입장이 서로 맞서는 것을 뜻합니다.")
+    .replace("異なるものが一つに溶け合うことです。", "서로 다른 것이 하나로 어우러진다는 뜻입니다.")
+    .replace("遠慮なくはっきり表すさまです。", "숨기지 않고 노골적으로 드러내는 모양입니다.")
+    .replace("遠回しに表現するさまです。", "직접 말하지 않고 완곡하게 표현하는 모양입니다.")
+    .replace("細かく注意深いことです。", "세부까지 치밀하고 빈틈없다는 뜻입니다.")
+    .replace("大ざっぱで丁寧さを欠くことです。", "거칠고 세심함이 부족하다는 뜻입니다.")
+    .replace("物事が滞りなく進むさまです。", "일이 막힘없이 순조롭게 진행되는 모양입니다.")
+    .replace("物事が順調に進まないことです。", "일이 순조롭게 진행되지 않는다는 뜻입니다.")
+    .replace("物事が前に進むことです。", "일이 진전되어 앞으로 나아간다는 뜻입니다.")
+    .replace("動きや成長が止まることです。", "움직임이나 성장이 정체된다는 뜻입니다.")
+    .replace("すみずみまで行うことです。", "끝까지 철저히 한다는 뜻입니다.")
+    .replace("途中で止まることです。", "진행 중인 일이 중간에 끊긴다는 뜻입니다.")
+    .replace("続けることです。", "계속 이어 간다는 뜻입니다.")
+    .replace("注意深く落ち着いて行うさまです。", "주의 깊고 조심스럽게 하는 모양입니다.")
+    .replace("深く考えずに行うさまです。", "깊이 생각하지 않고 경솔하게 하는 모양입니다.")
+    .replace("困難を乗り越えることです。", "어려움을 이겨 낸다는 뜻입니다.")
+    .replace("見逃すことです。", "보고도 지나치거나 문제 삼지 않는다는 뜻입니다.")
+    .replace("知っていながら見逃すことです。", "알면서도 묵인한다는 뜻입니다.")
+    .replace("隠すことです。", "감추거나 은폐한다는 뜻입니다.")
+    .replace("一般に知らせることです。", "일반에 공개하거나 알린다는 뜻입니다.")
+    .replace("義務などを免れさせることです。", "의무 등을 면제한다는 뜻입니다.")
+    .replace("自由な行動を制限することです。", "자유로운 행동을 제한한다는 뜻입니다.");
+}
+
+const choiceMeaningMap = {
+  "強化する": "강화하다, 더 강하게 만들다",
+  "公開する": "공개하다, 일반에 드러내다",
+  "縮小する": "축소하다, 규모를 줄이다",
+  "端的": "간단명료함, 핵심만 분명히 드러냄",
+  "露骨": "노골적임, 숨기지 않고 드러냄",
+  "軽率": "경솔함, 깊이 생각하지 않음",
+  "余地": "여지, 가능성이나 남은 공간",
+  "没頭": "몰두, 깊이 빠져 집중함",
+  "発端": "발단, 일이 시작된 계기",
+  "受け継ぐ": "이어받다, 계승하다",
+  "詳しく説明する": "자세히 설명하다",
+  "静かに収める": "조용히 수습하다",
+  "厳密": "엄밀함, 매우 정확하고 빈틈없음",
+  "円滑": "원활함, 막힘없이 순조로움",
+  "顕著": "현저함, 뚜렷하게 두드러짐",
+  "緩和": "완화, 정도나 긴장을 누그러뜨림",
+  "模索": "모색, 방법을 찾아봄",
+  "免除": "면제, 의무를 덜어 줌",
+  "反発する": "반발하다, 반대하고 맞서다",
+  "避ける": "피하다",
+  "予測する": "예측하다",
+  "強引": "강인함이 아니라 무리하게 밀어붙이는 태도",
+  "過剰": "과잉, 지나치게 많거나 심함",
+  "単調": "단조로움, 변화가 없음",
+  "見送って": "보류하거나 보내다",
+  "取り締まって": "단속하다",
+  "投げ出して": "내던지다, 포기하다",
+  "重く受け止める": "무겁게 받아들이다",
+  "細かく分析する": "세밀하게 분석하다",
+  "静かに見守る": "조용히 지켜보다",
+  "曖昧": "애매함, 분명하지 않음",
+  "慎重": "신중함, 조심스럽게 판단함",
+  "撤回": "철회, 이미 낸 방침을 거두어들임",
+  "黙認": "묵인, 알면서도 그냥 넘김",
+  "誇張": "과장, 실제보다 부풀림",
+  "悪化": "악화, 더 나빠짐",
+  "拡張": "확장, 범위를 넓힘",
+  "抑圧": "억압, 눌러 억누름",
+  "断念": "단념, 포기함",
+  "固定": "고정, 변하지 않게 함",
+  "放置": "방치, 그대로 내버려 둠",
+  "妨害": "방해",
+  "隠蔽": "은폐, 감춤",
+  "削減": "삭감, 줄임",
+  "放棄": "포기, 버림",
+  "遮断": "차단, 막아 끊음",
+  "促進": "촉진, 진행되도록 밀어 줌",
+  "維持": "유지, 계속 보존함",
+  "補強": "보강, 부족한 부분을 강하게 함",
+  "阻害": "저해, 진행을 방해함",
+  "凍結": "동결, 진행을 멈춤",
+  "補填": "보전, 부족분을 메움",
+  "把握": "파악, 상황을 정확히 잡음",
+  "混同": "혼동, 서로 다른 것을 섞어 봄",
+  "区別": "구별, 차이를 나눔",
+  "示唆": "시사, 간접적으로 드러냄",
+  "配慮": "배려, 상황이나 상대를 헤아림",
+  "躊躇": "주저, 망설임",
+  "妥協": "타협, 서로 양보해 합의함",
+  "対立": "대립, 서로 맞섬",
+  "融合": "융합, 서로 어우러짐",
+  "婉曲": "완곡함, 돌려 말함",
+  "緻密": "치밀함, 세밀하고 빈틈없음",
+  "粗雑": "조잡함, 거칠고 세심하지 못함",
+  "進展する": "진전되다, 일이 앞으로 나아가다",
+  "補填する": "보전하다, 부족분을 메우다",
+  "融合する": "융합하다",
+  "停滞": "정체, 진행이 멈춤",
+  "中断": "중단, 중간에 끊음",
+  "継続": "계속, 이어 감",
+  "克服": "극복, 어려움을 이겨 냄",
+  "看過": "간과, 그냥 지나침",
+  "公開": "공개",
+  "課税": "과세, 세금을 부과함",
+  "拘束": "구속, 자유를 제한함",
+  "解放": "해방, 풀어 줌"
+};
+
+Object.assign(choiceMeaningMap, {
+  "延期する": "연기하다, 뒤로 미루다",
+  "冷静": "냉정함, 감정에 휘둘리지 않고 차분함",
+  "懸念": "우려, 걱정되는 점",
+  "根本から変える": "근본부터 바꾸다",
+  "是正": "시정, 잘못된 점을 바로잡음",
+  "満たす": "채우다, 충족하다",
+  "繊細": "섬세함, 매우 세밀함",
+  "裏付けて": "뒷받침하여",
+  "軽く考える": "가볍게 여기다",
+  "軽視": "경시, 중요하지 않게 봄",
+  "妥当": "타당함, 상황과 논리에 맞음",
+  "精査": "정밀 조사, 자세히 살펴봄",
+  "示唆": "시사, 간접적으로 암시함",
+  "補填": "보전, 부족한 부분을 메움",
+  "撤回": "철회, 이미 낸 결정을 거둠",
+  "促進": "촉진, 일이 진행되도록 밀어 줌",
+  "阻害": "저해, 진행을 방해함",
+  "把握": "파악, 상황을 정확히 잡음",
+  "混同": "혼동, 서로 다른 것을 섞어 봄",
+  "区別": "구별, 차이를 나눔",
+  "配慮": "배려, 상대나 상황을 헤아림",
+  "没頭": "몰두, 깊이 집중함",
+  "躊躇": "주저, 망설임",
+  "妥協": "타협, 서로 양보해 합의함",
+  "対立": "대립, 서로 맞섬",
+  "融合": "융합, 서로 어우러짐",
+  "露骨": "노골적임, 숨김없이 드러냄",
+  "婉曲": "완곡함, 돌려 말함",
+  "緻密": "치밀함, 빈틈없이 세밀함",
+  "粗雑": "조잡함, 거칠고 세심하지 못함",
+  "円滑": "원활함, 막힘없이 순조로움",
+  "滞る": "정체되다, 순조롭게 진행되지 않다",
+  "進展": "진전, 일이 앞으로 나아감",
+  "停滞": "정체, 진행이 멈춤",
+  "徹底": "철저함, 끝까지 빈틈없이 함",
+  "中断": "중단, 중간에 끊음",
+  "継続": "계속, 이어 감",
+  "慎重": "신중함, 조심스럽게 판단함",
+  "克服": "극복, 어려움을 이겨 냄",
+  "看過": "간과, 보고도 지나침",
+  "黙認": "묵인, 알면서도 그냥 넘김",
+  "隠蔽": "은폐, 감춤",
+  "免除": "면제, 의무를 덜어 줌",
+  "拘束": "구속, 자유를 제한함"
+});
+
+function getChoiceMeaning(choice) {
+  return choiceMeaningMap[choice] || "정답과 다른 의미 방향을 가진 표현";
+}
+
+function buildVocabExplanation(target, correct, prompt, note) {
+  const readableNote = normalizeJapaneseNote(note);
+  const context = prompt.includes("＿＿＿")
+    ? "빈칸 앞뒤의 서술어와 함께 자연스럽게 결합하는 말을 골라야 합니다."
+    : "따옴표 안의 단어가 문장 안에서 어떤 의미로 쓰였는지 먼저 잡아야 합니다.";
+  return `어휘 포인트: 「${target}」. 문맥 해석: ${readableNote} 이 문제에서는 정답 「${correct}」가 그 의미장을 가장 정확히 받습니다. ${context}`;
+}
+
+function buildVocabUsageExplanation(target, note) {
+  return `용법 포인트: 「${target}」. 어휘 해석: ${normalizeJapaneseNote(note)} 이 유형에서는 뜻만 아는 것으로 부족하고, 이 단어가 어떤 대상과 결합하는지, 자동사처럼 쓰이는지, 사물처럼 목적어가 될 수 있는지까지 확인해야 합니다.`;
+}
+
+function explainUsageOption(sentence, target, note, isCorrect) {
+  if (isCorrect) {
+    return `정답. 이 문장에서는 「${target}」가 실제 의미와 자연스럽게 연결됩니다. ${normalizeJapaneseNote(note)}`;
+  }
+  if (sentence.includes("机の上に置いた")) {
+    return `오답. 「${target}」를 책이나 서류처럼 '책상 위에 놓는 물건'으로 취급하고 있어 어색합니다. 이 단어는 그런 물리적 대상이 아니라 문맥 속 행위·상태·판단을 나타냅니다.`;
+  }
+  if (sentence.includes("焼いて食べた")) {
+    return `오답. 「${target}」를 음식 재료처럼 다루고 있어 의미 범주가 맞지 않습니다. 추상어·동작어·상태어는 물리적으로 조리해 먹는 대상이 될 수 없습니다.`;
+  }
+  if (sentence.includes("上着")) {
+    return `오답. 「${target}」를 옷의 종류나 착용 방식처럼 처리하고 있어 의미 범주가 맞지 않습니다. 단어가 가리키는 대상의 종류를 확인해야 합니다.`;
+  }
+  return `오답. 문장 형태는 그럴듯하지만 「${target}」가 요구하는 의미 관계와 맞지 않습니다. 단어의 뜻뿐 아니라 어떤 명사·동사와 함께 쓰이는지도 확인해야 합니다.`;
+}
+
+function buildVocabChoiceExplanations(choices, correct, target, note) {
+  const readableNote = normalizeJapaneseNote(note);
+  return choices.map((choice) => {
+    if (choice === correct) {
+      return `정답. 「${choice}」는 ${getChoiceMeaning(choice)}라는 뜻이고, 「${target}」의 문맥상 의미와 가장 가깝습니다. ${readableNote}`;
+    }
+    return `오답. 「${choice}」는 ${getChoiceMeaning(choice)}라는 뜻입니다. 하지만 「${target}」는 ${readableNote} 이 문맥은 그 의미를 요구하지 않으므로 정답이 아닙니다.`;
+  });
 }
 
 function makeVocabQuestion(row, index) {
@@ -400,8 +811,8 @@ function makeVocabQuestion(row, index) {
     const usageOptions = [
       correctSentence,
       `会議のあと、担当者は${target}を机の上に置いた。`,
-      `彼は駅まで${target}に歩いて向かった。`,
-      `その知らせを聞いて、部屋全体が${target}した。`
+      `昼食には${target}を焼いて食べた。`,
+      `彼はその上着を${target}として着て出かけた。`
     ];
     const rotated = rotateArray(usageOptions, 1, index);
     return {
@@ -410,10 +821,13 @@ function makeVocabQuestion(row, index) {
       typeLabel: "어휘",
       subType: subTypes[mode],
       title: `次の言葉の使い方として最もよいものを選びなさい。「${target}」`,
-      prompt: "四つの文のうち、語の使い方が最も自然なものを選びなさい。",
+      prompt: `「${target}」を使った文として、最も自然なものを選びなさい。`,
       choices: rotated.choices,
       answer: rotated.answer,
-      explanation: `「${target}」의 올바른 용법을 고르는 문제입니다. 정답 문장은 단어의 의미와 문법적 결합이 자연스럽고, 나머지 문장은 의미 관계나 함께 쓰이는 표현이 어색합니다.`
+      explanation: buildVocabUsageExplanation(target, explanation),
+      choiceExplanations: rotated.choices.map((choice, choiceIndex) =>
+        explainUsageOption(choice, target, explanation, choiceIndex + 1 === rotated.answer)
+      )
     };
   }
 
@@ -434,7 +848,8 @@ function makeVocabQuestion(row, index) {
     prompt: generatedPrompt,
     choices: rotated.choices,
     answer: rotated.answer,
-    explanation: `「${target}」의 문맥상 의미를 고르는 문제입니다. 정답인 「${correct}」가 문장 안에서 가장 자연스럽게 대응합니다.`
+    explanation: buildVocabExplanation(target, correct, generatedPrompt, explanation),
+    choiceExplanations: buildVocabChoiceExplanations(rotated.choices, correct, target, explanation)
   };
 }
 

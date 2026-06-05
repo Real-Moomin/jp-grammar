@@ -138,7 +138,7 @@ function resetProgress() {
 
 function getStats() {
   const answered = questions.filter((question) => progress.answers[question.id]);
-  const correct = answered.filter((question) => progress.answers[question.id] === question.answer);
+  const correct = answered.filter((question) => isAcceptedAnswer(question, progress.answers[question.id]));
   const accuracy = answered.length ? Math.round((correct.length / answered.length) * 100) : 0;
   return { answered: answered.length, correct: correct.length, accuracy };
 }
@@ -159,6 +159,22 @@ function speak(text) {
   window.speechSynthesis.speak(utterance);
 }
 
+function getAcceptedAnswers(question) {
+  return Array.isArray(question.acceptedAnswers) && question.acceptedAnswers.length
+    ? question.acceptedAnswers
+    : [question.answer];
+}
+
+function isAcceptedAnswer(question, answerNumber) {
+  return getAcceptedAnswers(question).includes(answerNumber);
+}
+
+function getAnswerLabel(question) {
+  return getAcceptedAnswers(question)
+    .map((answerNumber) => `${answerNumber}. ${question.choices[answerNumber - 1]}`)
+    .join(" / ");
+}
+
 function createChoiceButton(question, choice, index) {
   const answerNumber = index + 1;
   const selected = progress.answers[question.id] === answerNumber;
@@ -170,8 +186,8 @@ function createChoiceButton(question, choice, index) {
   button.textContent = `${answerNumber}. ${choice}`;
 
   if (selected) button.classList.add("selected");
-  if (revealed && answerNumber === question.answer) button.classList.add("correct");
-  if (revealed && selected && answerNumber !== question.answer) button.classList.add("incorrect");
+  if (revealed && isAcceptedAnswer(question, answerNumber)) button.classList.add("correct");
+  if (revealed && selected && !isAcceptedAnswer(question, answerNumber)) button.classList.add("incorrect");
 
   button.addEventListener("click", () => answerQuestion(question.id, answerNumber));
   return button;
@@ -229,10 +245,16 @@ function renderQuestion(question, index) {
   solution.className = `solution ${progress.revealed[question.id] ? "open" : ""}`;
   const selected = progress.answers[question.id];
   const selectedText = selected ? `${selected}. ${question.choices[selected - 1]}` : "미선택";
+  const resultText = selected ? (isAcceptedAnswer(question, selected) ? "정답" : "오답") : "미채점";
   solution.innerHTML = `
-    <p class="solution-title">정답: ${question.answer}. ${question.choices[question.answer - 1]} / 선택: ${selectedText}</p>
-    <p>${question.explanation}</p>
+    <p class="solution-title">정답 인정: ${getAnswerLabel(question)} / 선택: ${selectedText} (${resultText})</p>
   `;
+
+  if (question.category !== "reading" && question.explanation) {
+    const explanation = document.createElement("p");
+    explanation.textContent = question.explanation;
+    solution.appendChild(explanation);
+  }
 
   if (Array.isArray(question.choiceExplanations) && question.choiceExplanations.length) {
     const detailTitle = document.createElement("p");
